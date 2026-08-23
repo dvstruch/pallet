@@ -6,1443 +6,1731 @@
    "colors": [
     {
      "code": "759",
-     "hex": "#7f726c",
-     "set": 240
+     "hex": "#605b60",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "600",
-     "hex": "#fefefc",
-     "set": 168
+     "hex": "#d4d2d1",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "601",
-     "hex": "#03a8e3",
-     "set": 168
+     "hex": "#4899de",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "602",
-     "hex": "#70c1b6",
-     "set": 168
+     "hex": "#4fb4b3",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "603",
-     "hex": "#fcea14",
-     "set": 168
+     "hex": "#e9ce39",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "604",
-     "hex": "#ef941c",
-     "set": 168
+     "hex": "#ee903e",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "605",
-     "hex": "#d94c46",
-     "set": 168
+     "hex": "#cd4356",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "606",
-     "hex": "#db76a9",
-     "set": 168
+     "hex": "#b851a1",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "607",
-     "hex": "#573e95",
-     "set": 168
+     "hex": "#473d95",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "608",
-     "hex": "#043c96",
-     "set": 168
+     "hex": "#3c51a6",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "609",
-     "hex": "#04837f",
-     "set": 168
+     "hex": "#338385",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "610",
-     "hex": "#b1b3b6",
-     "set": 168
+     "hex": "#84939b",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "611",
-     "hex": "#16151a",
-     "set": 168
+     "hex": "#242527",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "612",
-     "hex": "#ef8ea9",
-     "set": 168
+     "hex": "#cb7399",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "613",
-     "hex": "#6f4496",
-     "set": 168
+     "hex": "#584580",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "614",
-     "hex": "#a1cb77",
-     "set": 168
+     "hex": "#71b481",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "615",
-     "hex": "#fcdd05",
-     "set": 168
+     "hex": "#ebc92c",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "616",
-     "hex": "#048cc0",
-     "set": 168
+     "hex": "#2871aa",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "617",
-     "hex": "#0357a0",
-     "set": 168
+     "hex": "#506a9e",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "618",
-     "hex": "#e6954d",
-     "set": 168
+     "hex": "#c18c60",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "619",
-     "hex": "#ca848e",
-     "set": 168
+     "hex": "#c16968",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "620",
-     "hex": "#76504d",
-     "set": 168
+     "hex": "#674d50",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "621",
-     "hex": "#057ac8",
-     "set": 240
+     "hex": "#2759af",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "622",
-     "hex": "#659b88",
-     "set": 168
+     "hex": "#4f8578",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "623",
-     "hex": "#b697c4",
-     "set": 168
+     "hex": "#9578b8",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "624",
-     "hex": "#f6d8dc",
-     "set": 168
+     "hex": "#c4afaf",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "625",
-     "hex": "#f6c8c0",
-     "set": 168
+     "hex": "#d2ac99",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "626",
-     "hex": "#d8e7b4",
-     "set": 168
+     "hex": "#e1daaf",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "627",
-     "hex": "#bcdcc3",
-     "set": 168
+     "hex": "#bad7b6",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "628",
-     "hex": "#b4e0f2",
-     "set": 168
+     "hex": "#a8cbd8",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "629",
-     "hex": "#aeb1d8",
-     "set": 168
+     "hex": "#a0a1cc",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "630",
-     "hex": "#e5c9ca",
-     "set": 168
+     "hex": "#beaba5",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "631",
-     "hex": "#ee7835",
-     "set": 240
+     "hex": "#c8704f",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "632",
-     "hex": "#d64626",
-     "set": 240
+     "hex": "#cf6853",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "633",
-     "hex": "#769eab",
-     "set": 168
+     "hex": "#7691a5",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "634",
-     "hex": "#38953c",
-     "set": 168
+     "hex": "#658852",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "635",
-     "hex": "#b8b0d5",
-     "set": 168
+     "hex": "#a59bcb",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "636",
-     "hex": "#046f92",
-     "set": 240
+     "hex": "#295b9d",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "637",
-     "hex": "#a2a77c",
-     "set": 168
+     "hex": "#939065",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "638",
-     "hex": "#c6c6b7",
-     "set": 168
+     "hex": "#aca48c",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "639",
-     "hex": "#c59b84",
-     "set": 168
+     "hex": "#72574b",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "640",
-     "hex": "#b0b057",
-     "set": 240
+     "hex": "#929d66",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "641",
-     "hex": "#87a48d",
-     "set": 240
+     "hex": "#80a296",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "642",
-     "hex": "#547049",
-     "set": 240
+     "hex": "#5a665c",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "643",
-     "hex": "#6b5c48",
-     "set": 168
+     "hex": "#655442",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "644",
-     "hex": "#e7a685",
-     "set": 168
+     "hex": "#b17e4f",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "645",
-     "hex": "#e6cea6",
-     "set": 168
+     "hex": "#a59d70",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "646",
-     "hex": "#e2e2d1",
-     "set": 168
+     "hex": "#b9b6a7",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "647",
-     "hex": "#96b83b",
-     "set": 240
+     "hex": "#aab83a",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "648",
-     "hex": "#c1da8d",
-     "set": 168
+     "hex": "#c1d272",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "649",
-     "hex": "#f5a25d",
-     "set": 168
+     "hex": "#edaf67",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "650",
-     "hex": "#048fd6",
-     "set": 168
+     "hex": "#3c75cc",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "651",
-     "hex": "#898ec6",
-     "set": 168
+     "hex": "#7574c8",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "652",
-     "hex": "#c3c76c",
-     "set": 168
+     "hex": "#aaa563",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "653",
-     "hex": "#2ab6a7",
-     "set": 240
+     "hex": "#318c9d",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "654",
-     "hex": "#edc6b2",
-     "set": 168
+     "hex": "#d0aa91",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "655",
-     "hex": "#f095b9",
-     "set": 168
+     "hex": "#ce7caf",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "656",
-     "hex": "#fde36f",
-     "set": 168
+     "hex": "#e6c76e",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "657",
-     "hex": "#7cae3b",
-     "set": 240
+     "hex": "#a8b230",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "658",
-     "hex": "#f6c1da",
-     "set": 168
+     "hex": "#c794b9",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "659",
-     "hex": "#0367b5",
-     "set": 168
+     "hex": "#2c59b5",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "660",
-     "hex": "#ef76ac",
-     "set": 240
+     "hex": "#fc89ae",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "661",
-     "hex": "#ee7a6a",
-     "set": 240
+     "hex": "#ee8376",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "662",
-     "hex": "#c5e0ad",
-     "set": 240
+     "hex": "#85d078",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "663",
-     "hex": "#f08e67",
-     "set": 168
+     "hex": "#ea7c59",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "664",
-     "hex": "#e4251f",
-     "set": 168
+     "hex": "#ce323e",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "665",
-     "hex": "#60a958",
-     "set": 168
+     "hex": "#7aab3e",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "666",
-     "hex": "#d34280",
-     "set": 168
+     "hex": "#a35ea0",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "667",
-     "hex": "#ec7071",
-     "set": 168
+     "hex": "#da716d",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "668",
-     "hex": "#20ac58",
-     "set": 168
+     "hex": "#63af82",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "669",
-     "hex": "#89cb29",
-     "set": 168
+     "hex": "#8bbd86",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "670",
-     "hex": "#7a98cf",
-     "set": 168
+     "hex": "#8093d4",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "671",
-     "hex": "#c33462",
-     "set": 168
+     "hex": "#b25185",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "672",
-     "hex": "#a44b45",
-     "set": 168
+     "hex": "#71454a",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "673",
-     "hex": "#202082",
-     "set": 168
+     "hex": "#38479e",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "674",
-     "hex": "#ca433a",
-     "set": 168
+     "hex": "#a24052",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "675",
-     "hex": "#854f6c",
-     "set": 168
+     "hex": "#6e496c",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "676",
-     "hex": "#028b41",
-     "set": 168
+     "hex": "#4e7f53",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "677",
-     "hex": "#f4abb1",
-     "set": 240
+     "hex": "#d48084",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "678",
-     "hex": "#33237c",
-     "set": 168
+     "hex": "#362f74",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "679",
-     "hex": "#64595d",
-     "set": 168
+     "hex": "#47464b",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "680",
-     "hex": "#3f494f",
-     "set": 168
+     "hex": "#3a3d43",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "681",
-     "hex": "#7aa6b5",
-     "set": 168
+     "hex": "#8ca8c1",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "682",
-     "hex": "#69943d",
-     "set": 168
+     "hex": "#769550",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "683",
-     "hex": "#fce8c7",
-     "set": 168
+     "hex": "#e0cda8",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "684",
-     "hex": "#fcc996",
-     "set": 168
+     "hex": "#e6bc8a",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "685",
-     "hex": "#9ed0aa",
-     "set": 168
+     "hex": "#88c3a3",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "686",
-     "hex": "#cecece",
-     "set": 168
+     "hex": "#a0a6a9",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "687",
-     "hex": "#51a340",
-     "set": 168
+     "hex": "#8cb636",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "688",
-     "hex": "#144d5c",
-     "set": 168
+     "hex": "#4f647e",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "689",
-     "hex": "#84b8e5",
-     "set": 168
+     "hex": "#87aad1",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "690",
-     "hex": "#8dacaf",
-     "set": 168
+     "hex": "#668589",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "691",
-     "hex": "#f0827c",
-     "set": 168
+     "hex": "#d8827c",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "692",
-     "hex": "#f18893",
-     "set": 240
+     "hex": "#d7758d",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "693",
-     "hex": "#3c535e",
-     "set": 168
+     "hex": "#48546b",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "694",
-     "hex": "#287377",
-     "set": 168
+     "hex": "#375c77",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "695",
-     "hex": "#059195",
-     "set": 168
+     "hex": "#2e6e80",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "696",
-     "hex": "#98b79d",
-     "set": 168
+     "hex": "#779c7b",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "697",
-     "hex": "#496850",
-     "set": 168
+     "hex": "#4d5f44",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "698",
-     "hex": "#d4c5de",
-     "set": 240
+     "hex": "#b3a3cf",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "699",
-     "hex": "#ba9ac3",
-     "set": 240
+     "hex": "#a189bf",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "700",
-     "hex": "#d0e192",
-     "set": 168
+     "hex": "#ced480",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "701",
-     "hex": "#fbe3cd",
-     "set": 168
+     "hex": "#e8c8ad",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "702",
-     "hex": "#f7bb79",
-     "set": 168
+     "hex": "#ecbd77",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "703",
-     "hex": "#fae3e1",
-     "set": 168
+     "hex": "#e0c1b3",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "704",
-     "hex": "#f6b4b3",
-     "set": 168
+     "hex": "#dcae9c",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "705",
-     "hex": "#893f5d",
-     "set": 240
+     "hex": "#884765",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "706",
-     "hex": "#edf4f3",
-     "set": 168
+     "hex": "#d1d7d4",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "707",
-     "hex": "#d7dfca",
-     "set": 168
+     "hex": "#c4c5a7",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "708",
-     "hex": "#6e5c55",
-     "set": 240
+     "hex": "#564543",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "709",
-     "hex": "#53413c",
-     "set": 240
+     "hex": "#463d40",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "710",
-     "hex": "#ea5272",
-     "set": 240
+     "hex": "#da5666",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "711",
-     "hex": "#e56c83",
-     "set": 240
+     "hex": "#c66c8e",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "712",
-     "hex": "#f39fc1",
-     "set": 168
+     "hex": "#e681b5",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "713",
-     "hex": "#dd5577",
-     "set": 240
+     "hex": "#d54b74",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "714",
-     "hex": "#d2395e",
-     "set": 240
+     "hex": "#bf3966",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "715",
-     "hex": "#e83847",
-     "set": 240
+     "hex": "#bf4754",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "716",
-     "hex": "#f6c1c5",
-     "set": 240
+     "hex": "#d2a4aa",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "717",
-     "hex": "#e9d9c3",
-     "set": 168
+     "hex": "#cdb291",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "718",
-     "hex": "#ecce9d",
-     "set": 288
+     "hex": "#cab283",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "719",
-     "hex": "#fcf2d7",
-     "set": 168
+     "hex": "#e4ccaa",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "720",
-     "hex": "#f9cdaa",
-     "set": 240
+     "hex": "#e5cdaf",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "721",
-     "hex": "#fde4e3",
-     "set": 240
+     "hex": "#dfcabf",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "722",
-     "hex": "#0db0ae",
-     "set": 240
+     "hex": "#2f84ab",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "723",
-     "hex": "#fce3ef",
-     "set": 168
+     "hex": "#caafc2",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "724",
-     "hex": "#faedd9",
-     "set": 240
+     "hex": "#d7c7b1",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "725",
-     "hex": "#f27c13",
-     "set": 168
+     "hex": "#e1985e",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "726",
-     "hex": "#bc308c",
-     "set": 240
+     "hex": "#864d91",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "727",
-     "hex": "#90c65f",
-     "set": 168
+     "hex": "#b5c256",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "728",
-     "hex": "#029558",
-     "set": 168
+     "hex": "#449378",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "729",
-     "hex": "#d1da8a",
-     "set": 168
+     "hex": "#cec483",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "730",
-     "hex": "#e7f0d8",
-     "set": 168
+     "hex": "#c8d7b9",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "731",
-     "hex": "#bdad8f",
-     "set": 168
+     "hex": "#9e9681",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "732",
-     "hex": "#fcfbab",
-     "set": 168
+     "hex": "#d9d299",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "733",
-     "hex": "#f9f3ce",
-     "set": 168
+     "hex": "#dccd7a",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "734",
-     "hex": "#d5bad7",
-     "set": 168
+     "hex": "#ceb7cc",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "735",
-     "hex": "#afd277",
-     "set": 168
+     "hex": "#b9c773",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "736",
-     "hex": "#e1eaf4",
-     "set": 168
+     "hex": "#cecfd2",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "737",
-     "hex": "#cae3d5",
-     "set": 168
+     "hex": "#a1cdc2",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "738",
-     "hex": "#e9e0df",
-     "set": 168
+     "hex": "#d1c3bb",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "739",
-     "hex": "#b16b7e",
-     "set": 168
+     "hex": "#87517a",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "740",
-     "hex": "#19a451",
-     "set": 168
+     "hex": "#519b4a",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "741",
-     "hex": "#87ac50",
-     "set": 168
+     "hex": "#7c8a64",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "742",
-     "hex": "#6d71b3",
-     "set": 168
+     "hex": "#655cb6",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "743",
-     "hex": "#6f53a1",
-     "set": 168
+     "hex": "#584ba3",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "744",
-     "hex": "#d9d1e6",
-     "set": 168
+     "hex": "#c6b8d5",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "745",
-     "hex": "#92b4e1",
-     "set": 168
+     "hex": "#869dd6",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "746",
-     "hex": "#2d477b",
-     "set": 240
+     "hex": "#4f5a8a",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "747",
-     "hex": "#59657e",
-     "set": 240
+     "hex": "#5e6e92",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "748",
-     "hex": "#4a82a0",
-     "set": 240
+     "hex": "#487ea8",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "749",
-     "hex": "#457fa9",
-     "set": 240
+     "hex": "#5e79b3",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "750",
-     "hex": "#4a637e",
-     "set": 240
+     "hex": "#5c789f",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "751",
-     "hex": "#e4e1da",
-     "set": 240
+     "hex": "#b4b0aa",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "752",
-     "hex": "#dccdd2",
-     "set": 240
+     "hex": "#c0afaf",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "753",
-     "hex": "#d2c6ba",
-     "set": 240
+     "hex": "#93938f",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "754",
-     "hex": "#dbbdb9",
-     "set": 240
+     "hex": "#c2a098",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "755",
-     "hex": "#d3a29c",
-     "set": 240
+     "hex": "#c59084",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "756",
-     "hex": "#c2847b",
-     "set": 240
+     "hex": "#bc7e77",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "757",
-     "hex": "#b58d61",
-     "set": 240
+     "hex": "#847156",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "758",
-     "hex": "#a08570",
-     "set": 240
+     "hex": "#7a6f66",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "760",
-     "hex": "#e2071a",
-     "set": 240
+     "hex": "#ae373b",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "761",
-     "hex": "#f0798c",
-     "set": 240
+     "hex": "#df728d",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "762",
-     "hex": "#ee8bba",
-     "set": 240
+     "hex": "#ed96b5",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "763",
-     "hex": "#2a2b52",
-     "set": 240
+     "hex": "#272e41",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "764",
-     "hex": "#454071",
-     "set": 240
+     "hex": "#2b2a47",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "765",
-     "hex": "#fef231",
-     "set": 240
+     "hex": "#e6dc64",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "766",
-     "hex": "#fdfcb4",
-     "set": 240
+     "hex": "#d8d581",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "767",
-     "hex": "#4c8c9f",
-     "set": 168
+     "hex": "#54829b",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "768",
-     "hex": "#8ab3ba",
-     "set": 168
+     "hex": "#92b1bd",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "769",
-     "hex": "#815863",
-     "set": 168
+     "hex": "#593f4d",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "770",
-     "hex": "#b18e98",
-     "set": 168
+     "hex": "#776172",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "771",
-     "hex": "#d8c3c9",
-     "set": 168
+     "hex": "#a19ca3",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "772",
-     "hex": "#d2849c",
-     "set": 168
+     "hex": "#b17a91",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "773",
-     "hex": "#a399ba",
-     "set": 168
+     "hex": "#a899b4",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "774",
-     "hex": "#30627f",
-     "set": 168
+     "hex": "#325e88",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "775",
-     "hex": "#bccdb3",
-     "set": 168
+     "hex": "#b2bca8",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "776",
-     "hex": "#523742",
-     "set": 168
+     "hex": "#4a383a",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "777",
-     "hex": "#fcf559",
-     "set": 168
+     "hex": "#e7d14d",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "778",
-     "hex": "#782c70",
-     "set": 168
+     "hex": "#694076",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "779",
-     "hex": "#684450",
-     "set": 168
+     "hex": "#3c2c35",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "780",
-     "hex": "#943b3d",
-     "set": 168
+     "hex": "#653b44",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "781",
-     "hex": "#b31c25",
-     "set": 168
+     "hex": "#a32c45",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "782",
-     "hex": "#ea574b",
-     "set": 168
+     "hex": "#de5f57",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "783",
-     "hex": "#ef7054",
-     "set": 168
+     "hex": "#d0604f",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "784",
-     "hex": "#b94945",
-     "set": 168
+     "hex": "#a93e3c",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "785",
-     "hex": "#d05c21",
-     "set": 168
+     "hex": "#c46448",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "786",
-     "hex": "#f49f08",
-     "set": 168
+     "hex": "#eaa727",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "787",
-     "hex": "#a8c147",
-     "set": 168
+     "hex": "#a3a833",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "788",
-     "hex": "#a0a764",
-     "set": 168
+     "hex": "#928e44",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "789",
-     "hex": "#5e5841",
-     "set": 168
+     "hex": "#685d3d",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "790",
-     "hex": "#73784b",
-     "set": 168
+     "hex": "#646129",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "791",
-     "hex": "#2b4f35",
-     "set": 168
+     "hex": "#3b452f",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "792",
-     "hex": "#4c7d6c",
-     "set": 168
+     "hex": "#678367",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "793",
-     "hex": "#889353",
-     "set": 168
+     "hex": "#777830",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "794",
-     "hex": "#038744",
-     "set": 168
+     "hex": "#468158",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "795",
-     "hex": "#045b3e",
-     "set": 168
+     "hex": "#375148",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "796",
-     "hex": "#056c42",
-     "set": 168
+     "hex": "#3c5a4e",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "797",
-     "hex": "#057b5e",
-     "set": 168
+     "hex": "#30535b",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "798",
-     "hex": "#0376ae",
-     "set": 168
+     "hex": "#235b8e",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "799",
-     "hex": "#059a99",
-     "set": 168
+     "hex": "#3288a2",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "800",
-     "hex": "#038375",
-     "set": 168
+     "hex": "#3e7681",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "801",
-     "hex": "#f3f1f2",
-     "set": 240
+     "hex": "#c1c0be",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "802",
-     "hex": "#f7c15f",
-     "set": 168
+     "hex": "#e8b14f",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "803",
-     "hex": "#e5e9ec",
-     "set": 240
+     "hex": "#bab8bc",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "804",
-     "hex": "#d8dbda",
-     "set": 240
+     "hex": "#b7b5bc",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "805",
-     "hex": "#9fa29f",
-     "set": 240
+     "hex": "#6f747d",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "806",
-     "hex": "#3a4360",
-     "set": 240
+     "hex": "#353e53",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "807",
-     "hex": "#a7a5ad",
-     "set": 240
+     "hex": "#38383b",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "808",
-     "hex": "#5e3e59",
-     "set": 240
+     "hex": "#3d3144",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "809",
-     "hex": "#d7e8d5",
-     "set": 168
+     "hex": "#c1d9c3",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "810",
-     "hex": "#d9c675",
-     "set": 240
+     "hex": "#c7bc7f",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "811",
-     "hex": "#c5b76c",
-     "set": 240
+     "hex": "#969052",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "812",
-     "hex": "#ac9957",
-     "set": 240
+     "hex": "#90854f",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "813",
-     "hex": "#a87629",
-     "set": 240
+     "hex": "#af9a2c",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "814",
-     "hex": "#d3a765",
-     "set": 240
+     "hex": "#b98f41",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "815",
-     "hex": "#e7b542",
-     "set": 240
+     "hex": "#b39320",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "816",
-     "hex": "#a08225",
-     "set": 240
+     "hex": "#8f752b",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "817",
-     "hex": "#ca8f0b",
-     "set": 240
+     "hex": "#ad8726",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "818",
-     "hex": "#bde3e8",
-     "set": 168
+     "hex": "#94bbc3",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "819",
-     "hex": "#7ecbdd",
-     "set": 168
+     "hex": "#5eaec5",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "820",
-     "hex": "#37bede",
-     "set": 168
+     "hex": "#3f94bb",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "821",
-     "hex": "#c9e7fa",
-     "set": 168
+     "hex": "#abccdd",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "822",
-     "hex": "#83d1f6",
-     "set": 168
+     "hex": "#82bde7",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "823",
-     "hex": "#49a1d2",
-     "set": 168
+     "hex": "#3678b5",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "824",
-     "hex": "#03498e",
-     "set": 168
+     "hex": "#475f84",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "825",
-     "hex": "#d9d4dd",
-     "set": 240
+     "hex": "#bbb8ca",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "826",
-     "hex": "#b7b2c8",
-     "set": 240
+     "hex": "#a39fbe",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "827",
-     "hex": "#8284a9",
-     "set": 240
+     "hex": "#8d8db8",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "828",
-     "hex": "#6d70b4",
-     "set": 240
+     "hex": "#545da9",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "829",
-     "hex": "#d4c5cf",
-     "set": 288
+     "hex": "#b6a7b0",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "830",
-     "hex": "#b7c2e3",
-     "set": 288
+     "hex": "#a2a5c7",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "831",
-     "hex": "#a182a1",
-     "set": 288
+     "hex": "#8b7092",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "832",
-     "hex": "#954a99",
-     "set": 168
+     "hex": "#764d97",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "833",
-     "hex": "#aa73ad",
-     "set": 168
+     "hex": "#a264ab",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "834",
-     "hex": "#f2cdce",
-     "set": 288
+     "hex": "#cdafad",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "835",
-     "hex": "#e5d1d7",
-     "set": 288
+     "hex": "#c4b2b5",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "836",
-     "hex": "#fdf0f9",
-     "set": 168
+     "hex": "#c7c3c9",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "837",
-     "hex": "#fae7ec",
-     "set": 240
+     "hex": "#dec8c2",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "838",
-     "hex": "#f8d6e9",
-     "set": 288
+     "hex": "#d2b7c4",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "839",
-     "hex": "#e5b2bb",
-     "set": 288
+     "hex": "#c198a1",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "840",
-     "hex": "#eacdcd",
-     "set": 288
+     "hex": "#c7aeac",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "841",
-     "hex": "#b8d9e9",
-     "set": 288
+     "hex": "#a6b9c9",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "842",
-     "hex": "#8dc8d6",
-     "set": 288
+     "hex": "#87abbf",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "843",
-     "hex": "#b7ced1",
-     "set": 288
+     "hex": "#a3afb4",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "844",
-     "hex": "#9eb5b4",
-     "set": 288
+     "hex": "#8e999d",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "845",
-     "hex": "#41ae46",
-     "set": 288
+     "hex": "#6ba763",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "846",
-     "hex": "#8dc56a",
-     "set": 288
+     "hex": "#92b26d",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "847",
-     "hex": "#dee67d",
-     "set": 288
+     "hex": "#cbce72",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "848",
-     "hex": "#ddd7b7",
-     "set": 288
+     "hex": "#bfb899",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "849",
-     "hex": "#a0a439",
-     "set": 288
+     "hex": "#989540",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "850",
-     "hex": "#7cc7be",
-     "set": 288
+     "hex": "#7eacad",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "851",
-     "hex": "#bccbba",
-     "set": 288
+     "hex": "#a7ad9f",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "852",
-     "hex": "#95a84a",
-     "set": 288
+     "hex": "#90974d",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "853",
-     "hex": "#e3e0da",
-     "set": 168
+     "hex": "#b7aea7",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "854",
-     "hex": "#f094a2",
-     "set": 168
+     "hex": "#f19b9f",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "855",
-     "hex": "#eae65e",
-     "set": 168
+     "hex": "#dbdb73",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "856",
-     "hex": "#c3dc7b",
-     "set": 168
+     "hex": "#bfe093",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "857",
-     "hex": "#819eb0",
-     "set": 288
+     "hex": "#77879e",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "858",
-     "hex": "#c1c7af",
-     "set": 288
+     "hex": "#aaa995",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "859",
-     "hex": "#f49775",
-     "set": 168
+     "hex": "#efa886",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "860",
-     "hex": "#707c83",
-     "set": 288
+     "hex": "#666b76",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "861",
-     "hex": "#bac3bc",
-     "set": 288
+     "hex": "#a4a5a1",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "862",
-     "hex": "#ead7dd",
-     "set": 288
+     "hex": "#c8b7b9",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "863",
-     "hex": "#a5673f",
-     "set": 288
+     "hex": "#8f5e3d",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "864",
-     "hex": "#894c2e",
-     "set": 288
+     "hex": "#774a2d",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "865",
-     "hex": "#7d6c64",
-     "set": 288
+     "hex": "#6d5e59",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "866",
-     "hex": "#967d65",
-     "set": 288
+     "hex": "#826c59",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "867",
-     "hex": "#6c3f2a",
-     "set": 288
+     "hex": "#5e3f27",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "868",
-     "hex": "#c89f5c",
-     "set": 288
+     "hex": "#ae8c53",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "869",
-     "hex": "#a6605c",
-     "set": 168
+     "hex": "#775651",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "870",
-     "hex": "#9c8d85",
-     "set": 288
+     "hex": "#877875",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "871",
-     "hex": "#eddfc1",
-     "set": 288
+     "hex": "#cbbf9f",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "872",
-     "hex": "#f9c9cd",
-     "set": 168
+     "hex": "#cdacb2",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "873",
-     "hex": "#f8cfe0",
-     "set": 168
+     "hex": "#c9a1b7",
+     "set": 168,
+     "src": "measured"
     },
     {
      "code": "874",
-     "hex": "#dbc590",
-     "set": 288
+     "hex": "#bdaa7a",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "875",
-     "hex": "#bf5136",
-     "set": 288
+     "hex": "#a9533f",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "876",
-     "hex": "#e7efbe",
-     "set": 288
+     "hex": "#cbcf9e",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "877",
-     "hex": "#f9f8e1",
-     "set": 288
+     "hex": "#d7d5b7",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "878",
-     "hex": "#d5ecf9",
-     "set": 288
+     "hex": "#bccad2",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "879",
-     "hex": "#d9e2f2",
-     "set": 288
+     "hex": "#bdc1cc",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "880",
-     "hex": "#ede2ef",
-     "set": 288
+     "hex": "#cbc1c8",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "881",
-     "hex": "#fae6ea",
-     "set": 288
+     "hex": "#d5c5c1",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "882",
-     "hex": "#fae3e1",
-     "set": 288
+     "hex": "#d5c2ba",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "883",
-     "hex": "#fdf5f3",
-     "set": 288
+     "hex": "#d9d2c7",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "884",
-     "hex": "#e3e9eb",
-     "set": 288
+     "hex": "#c5c7c4",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "885",
-     "hex": "#a9dadd",
-     "set": 288
+     "hex": "#9dbac0",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "886",
-     "hex": "#e4f0e2",
-     "set": 288
+     "hex": "#c7cdbb",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "887",
-     "hex": "#fcf2d4",
-     "set": 288
+     "hex": "#d8d0ac",
+     "set": 288,
+     "src": "estimated"
     }
    ]
   },
@@ -1452,1443 +1740,1731 @@
    "colors": [
     {
      "code": "AG-171",
-     "hex": "#ced2d0",
-     "set": 240
+     "hex": "#79838c",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "AG-172",
-     "hex": "#bbc5c3",
-     "set": 240
+     "hex": "#7a8898",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "AG-173",
-     "hex": "#bcccce",
-     "set": 240
+     "hex": "#6b8294",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "AG-174",
-     "hex": "#b6c4ad",
-     "set": 240
+     "hex": "#828d87",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "AG-175",
-     "hex": "#9cac90",
-     "set": 240
+     "hex": "#727a6d",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "AG-176",
-     "hex": "#929d8b",
-     "set": 240
+     "hex": "#636d6c",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "AG-177",
-     "hex": "#c7c0af",
-     "set": 240
+     "hex": "#8a827e",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "AG-178",
-     "hex": "#c5aa9a",
-     "set": 240
+     "hex": "#8c6f6a",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "AG-179",
-     "hex": "#a89485",
-     "set": 240
+     "hex": "#78615b",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "AG-245",
-     "hex": "#e3d9d8",
-     "set": 288
+     "hex": "#a7a2ab",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "AG-246",
-     "hex": "#eadbc7",
-     "set": 288
+     "hex": "#b1aaa5",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "AG-247",
-     "hex": "#ddbea7",
-     "set": 288
+     "hex": "#af9b94",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "AG-248",
-     "hex": "#bf9c88",
-     "set": 288
+     "hex": "#987160",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "AG-249",
-     "hex": "#e0c885",
-     "set": 288
+     "hex": "#b6a478",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "AG-250",
-     "hex": "#c4af83",
-     "set": 288
+     "hex": "#a79774",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "AG-251",
-     "hex": "#a39e5a",
-     "set": 288
+     "hex": "#847a49",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "AG-252",
-     "hex": "#848948",
-     "set": 288
+     "hex": "#6d6d3d",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "AG-253",
-     "hex": "#968853",
-     "set": 288
+     "hex": "#886e22",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "AG-254",
-     "hex": "#918f66",
-     "set": 288
+     "hex": "#8a8453",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "AG-255",
-     "hex": "#7a8b82",
-     "set": 288
+     "hex": "#686b6d",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "AG-256",
-     "hex": "#9e7537",
-     "set": 288
+     "hex": "#a46a25",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "HC-608",
-     "hex": "#d8c37c",
-     "set": 192
+     "hex": "#9c861d",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "BL-201",
-     "hex": "#d7ede5",
-     "set": 192
+     "hex": "#a6acaf",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "BL-202",
-     "hex": "#94d1d2",
-     "set": 192
+     "hex": "#a6acaf",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "BL-203",
-     "hex": "#6bc7c9",
-     "set": 192
+     "hex": "#a8acae",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "BL-204",
-     "hex": "#c6e8f4",
-     "set": 192
+     "hex": "#a8acae",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "BL-205",
-     "hex": "#83d0ec",
-     "set": 192
+     "hex": "#abaeb0",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "BL-206",
-     "hex": "#5aa9ce",
-     "set": 192
+     "hex": "#b3b3b4",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "BL-207",
-     "hex": "#2e5586",
-     "set": 192
+     "hex": "#bdbcbb",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "BL-208",
-     "hex": "#4b74a4",
-     "set": 192
+     "hex": "#bfbdbc",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "BL-209",
-     "hex": "#434f8d",
-     "set": 192
+     "hex": "#c2bebd",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "BL-210",
-     "hex": "#02a3e7",
-     "set": 192
+     "hex": "#4c91e8",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "BL-211",
-     "hex": "#138fcd",
-     "set": 192
+     "hex": "#4a82ce",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "BL-212",
-     "hex": "#0c6eb5",
-     "set": 192
+     "hex": "#5073bf",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "BL-213",
-     "hex": "#0a9abd",
-     "set": 192
+     "hex": "#3080b8",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "BL-214",
-     "hex": "#0a88a0",
-     "set": 192
+     "hex": "#29729c",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "BL-215",
-     "hex": "#1a8ac9",
-     "set": 240
+     "hex": "#4d7fca",
+     "set": 240,
+     "src": "estimated"
     },
     {
      "code": "BL-257",
-     "hex": "#e8ecea",
-     "set": 288
+     "hex": "#a0a9b2",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "BL-258",
-     "hex": "#e1dfe0",
-     "set": 288
+     "hex": "#b5adb6",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "BL-259",
-     "hex": "#becae2",
-     "set": 288
+     "hex": "#8792ba",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "BL-260",
-     "hex": "#aeabd0",
-     "set": 288
+     "hex": "#8d81ba",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "BL-261",
-     "hex": "#879aca",
-     "set": 288
+     "hex": "#5f66be",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "BL-262",
-     "hex": "#52618b",
-     "set": 288
+     "hex": "#5e6087",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "BL-263",
-     "hex": "#766168",
-     "set": 288
+     "hex": "#6d575a",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "BL-264",
-     "hex": "#5b586b",
-     "set": 288
+     "hex": "#47376e",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "BL-265",
-     "hex": "#444964",
-     "set": 288
+     "hex": "#272264",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "BL-266",
-     "hex": "#235781",
-     "set": 288
+     "hex": "#202979",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "BL-267",
-     "hex": "#28637e",
-     "set": 288
+     "hex": "#273463",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "BL-268",
-     "hex": "#037b9d",
-     "set": 288
+     "hex": "#28508d",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "BR-701",
-     "hex": "#fcf2da",
-     "set": 192
+     "hex": "#b1aa9b",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "BR-702",
-     "hex": "#e6e0d1",
-     "set": 192
+     "hex": "#a0a09c",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "BR-703",
-     "hex": "#d5cab6",
-     "set": 192
+     "hex": "#9c948a",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "BR-704",
-     "hex": "#e1bf96",
-     "set": 192
+     "hex": "#ba9c78",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "BR-705",
-     "hex": "#ba9876",
-     "set": 192
+     "hex": "#816c5b",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "BR-706",
-     "hex": "#ae9679",
-     "set": 192
+     "hex": "#856f64",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "BR-707",
-     "hex": "#93614f",
-     "set": 192
+     "hex": "#88534b",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "BR-708",
-     "hex": "#705f4a",
-     "set": 192
+     "hex": "#5c4848",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "BR-709",
-     "hex": "#664c43",
-     "set": 192
+     "hex": "#433336",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "BR-710",
-     "hex": "#eeefd8",
-     "set": 192
+     "hex": "#b9bbad",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "BR-711",
-     "hex": "#cdc6a9",
-     "set": 192
+     "hex": "#a29585",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "BR-712",
-     "hex": "#e0d2bd",
-     "set": 192
+     "hex": "#b1a095",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "BR-713",
-     "hex": "#d9a569",
-     "set": 192
+     "hex": "#b18352",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "BR-714",
-     "hex": "#a98362",
-     "set": 192
+     "hex": "#8c684c",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "BR-715",
-     "hex": "#89714e",
-     "set": 192
+     "hex": "#745e3e",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "CB-901",
-     "hex": "#386b63",
-     "set": 192
+     "hex": "#90b49e",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CB-902",
-     "hex": "#275457",
-     "set": 192
+     "hex": "#85b08f",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CB-903",
-     "hex": "#555e4c",
-     "set": 192
+     "hex": "#619476",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CB-904",
-     "hex": "#5d5160",
-     "set": 192
+     "hex": "#84a847",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CB-905",
-     "hex": "#715863",
-     "set": 192
+     "hex": "#669230",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CB-906",
-     "hex": "#684a41",
-     "set": 192
+     "hex": "#458544",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CB-907",
-     "hex": "#4f4a3e",
-     "set": 192
+     "hex": "#336d2f",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CB-908",
-     "hex": "#424d67",
-     "set": 192
+     "hex": "#296147",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CB-909",
-     "hex": "#575f70",
-     "set": 192
+     "hex": "#335b48",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CB-910",
-     "hex": "#5b583d",
-     "set": 192
+     "hex": "#515335",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "CS-141",
-     "hex": "#fcfbe9",
-     "set": 192
+     "hex": "#c9c8bf",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CS-142",
-     "hex": "#fcf2d4",
-     "set": 192
+     "hex": "#cabda2",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CS-143",
-     "hex": "#f6d1bd",
-     "set": 192
+     "hex": "#bbac83",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CS-144",
-     "hex": "#f6eadf",
-     "set": 192
+     "hex": "#cebbb7",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CS-145",
-     "hex": "#f5e2b5",
-     "set": 192
+     "hex": "#d2ae9b",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CS-146",
-     "hex": "#f7d1d0",
-     "set": 192
+     "hex": "#deacae",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CS-147",
-     "hex": "#ecbfb7",
-     "set": 192
+     "hex": "#cf9594",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CS-148",
-     "hex": "#c8a89e",
-     "set": 192
+     "hex": "#bc948b",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CS-149",
-     "hex": "#bc8679",
-     "set": 192
+     "hex": "#ae6f65",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CS-501",
-     "hex": "#faf7f4",
-     "set": 192
+     "hex": "#cec7ca",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CS-502",
-     "hex": "#faebea",
-     "set": 192
+     "hex": "#d2c2bf",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CS-503",
-     "hex": "#fbf5e2",
-     "set": 192
+     "hex": "#d8c8b8",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CS-504",
-     "hex": "#fae1c4",
-     "set": 192
+     "hex": "#d5bea8",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CS-505",
-     "hex": "#fae9da",
-     "set": 192
+     "hex": "#d8c6b8",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CS-506",
-     "hex": "#f8dbcc",
-     "set": 192
+     "hex": "#dfb49e",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CS-507",
-     "hex": "#f3b49b",
-     "set": 192
+     "hex": "#e3a279",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CS-508",
-     "hex": "#f1adb8",
-     "set": 192
+     "hex": "#db89a0",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CS-509",
-     "hex": "#dbb09b",
-     "set": 192
+     "hex": "#b87e6c",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "CS-510",
-     "hex": "#fbf0ce",
-     "set": 192
+     "hex": "#c3bda3",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "CS-511",
-     "hex": "#f5b97e",
-     "set": 192
+     "hex": "#c69463",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "DB-161",
-     "hex": "#acd9d4",
-     "set": 192
+     "hex": "#8eacb8",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "DB-1610",
-     "hex": "#89acc2",
-     "set": 240
+     "hex": "#7a86a9",
+     "set": 240,
+     "src": "estimated"
     },
     {
      "code": "DB-1611",
-     "hex": "#90b0b4",
-     "set": 240
+     "hex": "#798598",
+     "set": 240,
+     "src": "estimated"
     },
     {
      "code": "DB-1612",
-     "hex": "#72a5b4",
-     "set": 240
+     "hex": "#66809f",
+     "set": 240,
+     "src": "estimated"
     },
     {
      "code": "DB-162",
-     "hex": "#a5d0d8",
-     "set": 192
+     "hex": "#7d9dba",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "DB-163",
-     "hex": "#9dbbb8",
-     "set": 192
+     "hex": "#7691a1",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "DB-164",
-     "hex": "#8fbbb6",
-     "set": 192
+     "hex": "#6d8a86",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "DB-165",
-     "hex": "#6c9f9b",
-     "set": 192
+     "hex": "#527f94",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "DB-166",
-     "hex": "#118d89",
-     "set": 192
+     "hex": "#34727f",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "DB-167",
-     "hex": "#24787d",
-     "set": 192
+     "hex": "#3c5f74",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "DB-168",
-     "hex": "#1e7183",
-     "set": 192
+     "hex": "#36597d",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "DB-169",
-     "hex": "#2c6072",
-     "set": 192
+     "hex": "#273753",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "DS-181",
-     "hex": "#eeb97e",
-     "set": 240
+     "hex": "#b3916b",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "DS-182",
-     "hex": "#b99164",
-     "set": 240
+     "hex": "#987455",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "DS-183",
-     "hex": "#9d784e",
-     "set": 240
+     "hex": "#735847",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "DS-184",
-     "hex": "#905452",
-     "set": 240
+     "hex": "#854a47",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "DS-185",
-     "hex": "#c17c66",
-     "set": 240
+     "hex": "#aa5d47",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "DS-186",
-     "hex": "#c79772",
-     "set": 240
+     "hex": "#996142",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "DS-187",
-     "hex": "#a17a58",
-     "set": 240
+     "hex": "#754a3b",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "DS-188",
-     "hex": "#856a54",
-     "set": 240
+     "hex": "#5d3937",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "DS-189",
-     "hex": "#685c4c",
-     "set": 240
+     "hex": "#3a2d2c",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "GB-401",
-     "hex": "#ffffff",
-     "set": 192
+     "hex": "#cdced1",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "GB-402",
-     "hex": "#dadedd",
-     "set": 192
+     "hex": "#a9aeb7",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "GB-403",
-     "hex": "#b8b8b8",
-     "set": 192
+     "hex": "#878d92",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "GB-404",
-     "hex": "#8b8b8b",
-     "set": 192
+     "hex": "#5f6774",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "GB-405",
-     "hex": "#322d2b",
-     "set": 192
+     "hex": "#222123",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "GB-406",
-     "hex": "#83776f",
-     "set": 192
+     "hex": "#776666",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "GB-407",
-     "hex": "#aba69c",
-     "set": 192
+     "hex": "#83797a",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "GB-408",
-     "hex": "#d7d4c6",
-     "set": 192
+     "hex": "#a69a90",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "GB-409",
-     "hex": "#eae6d9",
-     "set": 192
+     "hex": "#b4aea4",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "GB-410",
-     "hex": "#e0e2d6",
-     "set": 192
+     "hex": "#b1aeac",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "GB-411",
-     "hex": "#b2b2b4",
-     "set": 192
+     "hex": "#938793",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "GB-412",
-     "hex": "#4f504b",
-     "set": 192
+     "hex": "#4c5144",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "GR-101",
-     "hex": "#e5f2e3",
-     "set": 192
+     "hex": "#95b3b0",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "GR-1010",
-     "hex": "#53bca2",
-     "set": 240
+     "hex": "#3e8a9a",
+     "set": 240,
+     "src": "estimated"
     },
     {
      "code": "GR-1011",
-     "hex": "#b4ca63",
-     "set": 240
+     "hex": "#919f5e",
+     "set": 240,
+     "src": "estimated"
     },
     {
      "code": "GR-1012",
-     "hex": "#c4cf8b",
-     "set": 240
+     "hex": "#999d73",
+     "set": 240,
+     "src": "estimated"
     },
     {
      "code": "GR-1013",
-     "hex": "#9cc9ab",
-     "set": 240
+     "hex": "#7a9491",
+     "set": 240,
+     "src": "estimated"
     },
     {
      "code": "GR-102",
-     "hex": "#d8ead5",
-     "set": 192
+     "hex": "#53a0b7",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "GR-103",
-     "hex": "#acd6b1",
-     "set": 192
+     "hex": "#3886aa",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "GR-104",
-     "hex": "#d6e682",
-     "set": 192
+     "hex": "#88b4cb",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "GR-105",
-     "hex": "#a3c177",
-     "set": 192
+     "hex": "#5fa6d4",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "GR-106",
-     "hex": "#7bb777",
-     "set": 192
+     "hex": "#326ea9",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "GR-107",
-     "hex": "#5c9b67",
-     "set": 192
+     "hex": "#20365f",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "GR-108",
-     "hex": "#018d72",
-     "set": 192
+     "hex": "#2f4a95",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "GR-109",
-     "hex": "#47775d",
-     "set": 192
+     "hex": "#2b3888",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "GR-110",
-     "hex": "#e9f2b8",
-     "set": 192
+     "hex": "#b3bd95",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "GR-111",
-     "hex": "#a4d077",
-     "set": 192
+     "hex": "#819e70",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "GR-112",
-     "hex": "#779f59",
-     "set": 192
+     "hex": "#607954",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "GR-113",
-     "hex": "#0da174",
-     "set": 192
+     "hex": "#00787f",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "GR-114",
-     "hex": "#0a9fa0",
-     "set": 192
+     "hex": "#117b9d",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "GR-115",
-     "hex": "#0b7d67",
-     "set": 192
+     "hex": "#0d646b",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "HC-131",
-     "hex": "#81cbbb",
-     "set": 192
+     "hex": "#4ba5a6",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "HC-132",
-     "hex": "#a9d062",
-     "set": 192
+     "hex": "#6bc58c",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "HC-133",
-     "hex": "#e4ea74",
-     "set": 192
+     "hex": "#b1da79",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "HC-134",
-     "hex": "#f8ef0f",
-     "set": 192
+     "hex": "#d6d25c",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "HC-135",
-     "hex": "#f1a41c",
-     "set": 192
+     "hex": "#eaa268",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "HC-136",
-     "hex": "#ec99ba",
-     "set": 192
+     "hex": "#e494c7",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "HC-137",
-     "hex": "#c49ec4",
-     "set": 192
+     "hex": "#988fca",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "HC-138",
-     "hex": "#87d1f3",
-     "set": 192
+     "hex": "#69addd",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "HC-139",
-     "hex": "#eb7da2",
-     "set": 192
+     "hex": "#f87ea7",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "HC-601",
-     "hex": "#f7cdd0",
-     "set": 192
+     "hex": "#de92b1",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "HC-602",
-     "hex": "#f6f164",
-     "set": 192
+     "hex": "#cbd175",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "HC-603",
-     "hex": "#beda65",
-     "set": 192
+     "hex": "#aed990",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "HC-604",
-     "hex": "#73c0e8",
-     "set": 192
+     "hex": "#6496ca",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "HC-605",
-     "hex": "#999cc8",
-     "set": 192
+     "hex": "#686fc8",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "HC-606",
-     "hex": "#f1b16b",
-     "set": 192
+     "hex": "#f6b08a",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "HC-607",
-     "hex": "#f1b1b1",
-     "set": 192
+     "hex": "#f39f9f",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "HC-609",
-     "hex": "#c2c4c4",
-     "set": 192
+     "hex": "#a4a5a7",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "LC-111",
-     "hex": "#f3c7b7",
-     "set": 192
+     "hex": "#d88c8f",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "LC-1110",
-     "hex": "#e4d9d0",
-     "set": 240
+     "hex": "#b6a7a6",
+     "set": 240,
+     "src": "estimated"
     },
     {
      "code": "LC-112",
-     "hex": "#ef977e",
-     "set": 192
+     "hex": "#d97879",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "LC-113",
-     "hex": "#e85e4c",
-     "set": 192
+     "hex": "#db5056",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "LC-114",
-     "hex": "#da252c",
-     "set": 192
+     "hex": "#c22d31",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "LC-115",
-     "hex": "#f1a9b8",
-     "set": 192
+     "hex": "#dd859c",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "LC-116",
-     "hex": "#e9758f",
-     "set": 192
+     "hex": "#dc526a",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "LC-117",
-     "hex": "#d7898e",
-     "set": 192
+     "hex": "#c55b66",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "LC-118",
-     "hex": "#d57868",
-     "set": 192
+     "hex": "#bc5d53",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "LC-119",
-     "hex": "#b75963",
-     "set": 192
+     "hex": "#a73a4a",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "LC-191",
-     "hex": "#fefee5",
-     "set": 240
+     "hex": "#cec7b6",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "LC-192",
-     "hex": "#edf5df",
-     "set": 240
+     "hex": "#bdccbc",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "LC-193",
-     "hex": "#e9f5ed",
-     "set": 240
+     "hex": "#b5c8d1",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "LC-194",
-     "hex": "#e3f3f9",
-     "set": 240
+     "hex": "#b9c3d3",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "LC-195",
-     "hex": "#f4f0f4",
-     "set": 240
+     "hex": "#c4c0d3",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "LC-196",
-     "hex": "#fbeee6",
-     "set": 240
+     "hex": "#e0ccc4",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "LC-197",
-     "hex": "#fbf5e2",
-     "set": 240
+     "hex": "#decdb6",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "LC-198",
-     "hex": "#fdfae2",
-     "set": 240
+     "hex": "#d7cec5",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "LC-199",
-     "hex": "#f5f3ef",
-     "set": 240
+     "hex": "#bbbab8",
+     "set": 240,
+     "src": "measured"
     },
     {
      "code": "PC-233",
-     "hex": "#f3dfe5",
-     "set": 288
+     "hex": "#bfadbe",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "PC-234",
-     "hex": "#f0cbcf",
-     "set": 288
+     "hex": "#c39ea7",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "PC-235",
-     "hex": "#f6d1ce",
-     "set": 288
+     "hex": "#bfa9a9",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "PC-236",
-     "hex": "#c5b1bb",
-     "set": 288
+     "hex": "#a48899",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "PC-237",
-     "hex": "#d7a1af",
-     "set": 288
+     "hex": "#b68798",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "PC-238",
-     "hex": "#eda2c5",
-     "set": 288
+     "hex": "#ec76af",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "PC-239",
-     "hex": "#d7708f",
-     "set": 288
+     "hex": "#c05e8f",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "PC-240",
-     "hex": "#e25f76",
-     "set": 288
+     "hex": "#dd5b83",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "PC-241",
-     "hex": "#a94e76",
-     "set": 288
+     "hex": "#a24d76",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "PC-242",
-     "hex": "#a15354",
-     "set": 288
+     "hex": "#943e50",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "PC-243",
-     "hex": "#db6a51",
-     "set": 288
+     "hex": "#c85b42",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "PC-244",
-     "hex": "#f4b7a3",
-     "set": 288
+     "hex": "#d8ac98",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "PC-801",
-     "hex": "#f8e6e1",
-     "set": 192
+     "hex": "#caaab0",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "PC-802",
-     "hex": "#f3c0d6",
-     "set": 192
+     "hex": "#bd9ab0",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "PC-803",
-     "hex": "#f1abbe",
-     "set": 192
+     "hex": "#c78ba7",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "PC-804",
-     "hex": "#ec8daa",
-     "set": 192
+     "hex": "#c876a4",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "PC-805",
-     "hex": "#c85b91",
-     "set": 192
+     "hex": "#a5478c",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "PC-806",
-     "hex": "#e1577f",
-     "set": 192
+     "hex": "#cf6183",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "PC-807",
-     "hex": "#c8596c",
-     "set": 192
+     "hex": "#b75471",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "PC-808",
-     "hex": "#af536c",
-     "set": 192
+     "hex": "#9d486c",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "PC-809",
-     "hex": "#843e56",
-     "set": 192
+     "hex": "#7e3d59",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "PC-810",
-     "hex": "#fae9ef",
-     "set": 192
+     "hex": "#c9b9c3",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "PC-811",
-     "hex": "#efa1c2",
-     "set": 192
+     "hex": "#ce80a9",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "PC-812",
-     "hex": "#e372a6",
-     "set": 192
+     "hex": "#d060a4",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "PC-813",
-     "hex": "#c05679",
-     "set": 192
+     "hex": "#b34f78",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "PC-814",
-     "hex": "#d98a92",
-     "set": 192
+     "hex": "#b96d7c",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "PC-815",
-     "hex": "#a35c78",
-     "set": 192
+     "hex": "#98546f",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "PC-816",
-     "hex": "#ae8c92",
-     "set": 192
+     "hex": "#946d78",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "PC-817",
-     "hex": "#f1aac6",
-     "set": 240
+     "hex": "#ce86a9",
+     "set": 240,
+     "src": "estimated"
     },
     {
      "code": "PC-818",
-     "hex": "#de4b79",
-     "set": 240
+     "hex": "#d14587",
+     "set": 240,
+     "src": "estimated"
     },
     {
      "code": "PU-301",
-     "hex": "#e3e0ea",
-     "set": 192
+     "hex": "#8d87bb",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "PU-302",
-     "hex": "#cdb0ce",
-     "set": 192
+     "hex": "#8370ad",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "PU-303",
-     "hex": "#a584b6",
-     "set": 192
+     "hex": "#775ba7",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "PU-304",
-     "hex": "#706bad",
-     "set": 192
+     "hex": "#4f52b2",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "PU-305",
-     "hex": "#584b8b",
-     "set": 192
+     "hex": "#2b2775",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "PU-306",
-     "hex": "#924c96",
-     "set": 192
+     "hex": "#653f8a",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "PU-307",
-     "hex": "#c15595",
-     "set": 192
+     "hex": "#9b57a8",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "PU-308",
-     "hex": "#e8659d",
-     "set": 192
+     "hex": "#bd4f95",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "PU-309",
-     "hex": "#f2bad2",
-     "set": 192
+     "hex": "#cc96b9",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "PU-310",
-     "hex": "#f0dce7",
-     "set": 192
+     "hex": "#c4adbd",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "PU-311",
-     "hex": "#e7e4eb",
-     "set": 192
+     "hex": "#bab3c0",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "PU-312",
-     "hex": "#b9c1d9",
-     "set": 192
+     "hex": "#9e96b7",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "PU-313",
-     "hex": "#bdacbf",
-     "set": 192
+     "hex": "#a1859f",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "PU-314",
-     "hex": "#7f68a4",
-     "set": 192
+     "hex": "#8764a1",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "PU-315",
-     "hex": "#773073",
-     "set": 192
+     "hex": "#8a4b85",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "PU-316",
-     "hex": "#d2cdd8",
-     "set": 240
+     "hex": "#ad9eb1",
+     "set": 240,
+     "src": "estimated"
     },
     {
      "code": "PU-317",
-     "hex": "#bbbcce",
-     "set": 240
+     "hex": "#9e91ac",
+     "set": 240,
+     "src": "estimated"
     },
     {
      "code": "PU-318",
-     "hex": "#949fb3",
-     "set": 240
+     "hex": "#827c99",
+     "set": 240,
+     "src": "estimated"
     },
     {
      "code": "PU-319",
-     "hex": "#7a5082",
-     "set": 240
+     "hex": "#815682",
+     "set": 240,
+     "src": "estimated"
     },
     {
      "code": "PU-320",
-     "hex": "#5e668a",
-     "set": 240
+     "hex": "#646082",
+     "set": 240,
+     "src": "estimated"
     },
     {
      "code": "PU-321",
-     "hex": "#adafbc",
-     "set": 240
+     "hex": "#92869c",
+     "set": 240,
+     "src": "estimated"
     },
     {
      "code": "RY-01",
-     "hex": "#fdfbbc",
-     "set": 192
+     "hex": "#d3cb7c",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "RY-02",
-     "hex": "#fced04",
-     "set": 192
+     "hex": "#d7c343",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "RY-03",
-     "hex": "#f5c15a",
-     "set": 192
+     "hex": "#d8a44b",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "RY-04",
-     "hex": "#ef976b",
-     "set": 192
+     "hex": "#dc894d",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "RY-05",
-     "hex": "#e95c3a",
-     "set": 192
+     "hex": "#da6a58",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "RY-06",
-     "hex": "#e4342b",
-     "set": 192
+     "hex": "#d9434a",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "RY-07",
-     "hex": "#9b332f",
-     "set": 192
+     "hex": "#924949",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "RY-08",
-     "hex": "#7f3c30",
-     "set": 192
+     "hex": "#7e4847",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "RY-09",
-     "hex": "#9a6150",
-     "set": 192
+     "hex": "#8e5149",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "RY-10",
-     "hex": "#e96721",
-     "set": 192
+     "hex": "#dc6a39",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "RY-11",
-     "hex": "#e85649",
-     "set": 192
+     "hex": "#d75358",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "RY-12",
-     "hex": "#ca5b28",
-     "set": 192
+     "hex": "#bb5c32",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "RY-13",
-     "hex": "#af4431",
-     "set": 192
+     "hex": "#a54c37",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "RY-14",
-     "hex": "#912f2f",
-     "set": 192
+     "hex": "#8f4335",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "RY-15",
-     "hex": "#db6e3d",
-     "set": 240
+     "hex": "#c4653f",
+     "set": 240,
+     "src": "estimated"
     },
     {
      "code": "SG-151",
-     "hex": "#dae7b7",
-     "set": 192
+     "hex": "#8d9a7b",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "SG-152",
-     "hex": "#bfd1a9",
-     "set": 192
+     "hex": "#899f8d",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "SG-153",
-     "hex": "#a2c385",
-     "set": 192
+     "hex": "#658b5a",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "SG-154",
-     "hex": "#8b9e63",
-     "set": 192
+     "hex": "#646f4e",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "SG-155",
-     "hex": "#71ae8b",
-     "set": 192
+     "hex": "#497d6a",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "SG-156",
-     "hex": "#75a181",
-     "set": 192
+     "hex": "#56714e",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "SG-157",
-     "hex": "#717947",
-     "set": 192
+     "hex": "#48461f",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "SG-158",
-     "hex": "#546b46",
-     "set": 192
+     "hex": "#3a4423",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "SG-159",
-     "hex": "#065a3c",
-     "set": 192
+     "hex": "#253932",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "SG-221",
-     "hex": "#bce1e1",
-     "set": 288
+     "hex": "#88aebd",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "SG-222",
-     "hex": "#97d1c4",
-     "set": 288
+     "hex": "#8abeb4",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "SG-223",
-     "hex": "#b1cbb7",
-     "set": 288
+     "hex": "#8c9796",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "SG-224",
-     "hex": "#e4da59",
-     "set": 288
+     "hex": "#b9be35",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "SG-225",
-     "hex": "#d2e180",
-     "set": 288
+     "hex": "#b2c65c",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "SG-226",
-     "hex": "#8dc45a",
-     "set": 288
+     "hex": "#6eaa43",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "SG-227",
-     "hex": "#6ec193",
-     "set": 288
+     "hex": "#548d8a",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "SG-228",
-     "hex": "#51b564",
-     "set": 288
+     "hex": "#51a067",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "SG-229",
-     "hex": "#6eb351",
-     "set": 288
+     "hex": "#5b895f",
+     "set": 288,
+     "src": "estimated"
     },
     {
      "code": "SG-230",
-     "hex": "#69a340",
-     "set": 288
+     "hex": "#609637",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "SG-231",
-     "hex": "#288542",
-     "set": 288
+     "hex": "#306f3b",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "SG-232",
-     "hex": "#5b7c3d",
-     "set": 288
+     "hex": "#466136",
+     "set": 288,
+     "src": "measured"
     },
     {
      "code": "YE-130",
-     "hex": "#fcfbc8",
-     "set": 192
+     "hex": "#c1c7a1",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "YE-121",
-     "hex": "#faf7a5",
-     "set": 192
+     "hex": "#c9cb79",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "YE-1210",
-     "hex": "#eae0ac",
-     "set": 240
+     "hex": "#b6ae88",
+     "set": 240,
+     "src": "estimated"
     },
     {
      "code": "YE-1211",
-     "hex": "#cdc384",
-     "set": 240
+     "hex": "#a29569",
+     "set": 240,
+     "src": "estimated"
     },
     {
      "code": "YE-1212",
-     "hex": "#b1a579",
-     "set": 240
+     "hex": "#8e7d5f",
+     "set": 240,
+     "src": "estimated"
     },
     {
      "code": "YE-122",
-     "hex": "#f5f06e",
-     "set": 192
+     "hex": "#d2d067",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "YE-123",
-     "hex": "#fcdf33",
-     "set": 192
+     "hex": "#d7c243",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "YE-124",
-     "hex": "#f9cb04",
-     "set": 192
+     "hex": "#dbb823",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "YE-125",
-     "hex": "#f4b004",
-     "set": 192
+     "hex": "#e4a920",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "YE-126",
-     "hex": "#ee8333",
-     "set": 192
+     "hex": "#ea9731",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "YE-127",
-     "hex": "#d3ab4a",
-     "set": 192
+     "hex": "#ba9527",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "YE-128",
-     "hex": "#cebc67",
-     "set": 192
+     "hex": "#a29221",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "YE-129",
-     "hex": "#edd674",
-     "set": 192
+     "hex": "#b89c27",
+     "set": 192,
+     "src": "measured"
     },
     {
      "code": "YE-131",
-     "hex": "#f7f2c6",
-     "set": 192
+     "hex": "#bfbe9e",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "YE-132",
-     "hex": "#eeeb95",
-     "set": 192
+     "hex": "#babc7c",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "YE-133",
-     "hex": "#e2d955",
-     "set": 192
+     "hex": "#bdb855",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "YE-134",
-     "hex": "#fbde79",
-     "set": 192
+     "hex": "#cbb866",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "YE-135",
-     "hex": "#f9d278",
-     "set": 192
+     "hex": "#c9ac62",
+     "set": 192,
+     "src": "estimated"
     },
     {
      "code": "YE-136",
-     "hex": "#e19c29",
-     "set": 192
+     "hex": "#c78d2e",
+     "set": 192,
+     "src": "estimated"
     }
    ]
   }
