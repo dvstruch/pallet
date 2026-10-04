@@ -1,0 +1,7388 @@
+{
+ "pages": {
+  "1": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#282b2c",
+    "group": "Чёрные",
+    "marker": "807"
+   },
+   {
+    "code": "3",
+    "hex": "#2c2f33",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "4",
+    "hex": "#3c4046",
+    "group": "Серые",
+    "marker": "GB-404"
+   },
+   {
+    "code": "5",
+    "hex": "#494d4f",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "6",
+    "hex": "#92a3a1",
+    "group": "Серые",
+    "marker": "610"
+   },
+   {
+    "code": "7",
+    "hex": "#ccccc4",
+    "group": "Серые",
+    "marker": "803"
+   },
+   {
+    "code": "8",
+    "hex": "#b1795d",
+    "group": "Коричневые",
+    "marker": "756"
+   },
+   {
+    "code": "9",
+    "hex": "#c39c43",
+    "group": "Оранжевые",
+    "marker": "816"
+   },
+   {
+    "code": "0",
+    "hex": "#dca987",
+    "group": "Оранжевые",
+    "marker": "654"
+   },
+   {
+    "code": "a",
+    "hex": "#e3b951",
+    "group": "Оранжевые",
+    "marker": "815"
+   },
+   {
+    "code": "b",
+    "hex": "#fdcda1",
+    "group": "Оранжевые",
+    "marker": "724"
+   },
+   {
+    "code": "c",
+    "hex": "#18352e",
+    "group": "Чёрные",
+    "marker": "796"
+   },
+   {
+    "code": "d",
+    "hex": "#256537",
+    "group": "Зелёные",
+    "marker": "794"
+   },
+   {
+    "code": "e",
+    "hex": "#a5ddec",
+    "group": "Бирюзовые",
+    "marker": "821"
+   },
+   {
+    "code": "n",
+    "hex": "#0a243a",
+    "group": "Чёрные",
+    "marker": "688"
+   },
+   {
+    "code": "p",
+    "hex": "#2d5b92",
+    "group": "Синие",
+    "marker": "636"
+   },
+   {
+    "code": "q",
+    "hex": "#57729f",
+    "group": "Синие",
+    "marker": "826"
+   },
+   {
+    "code": "r",
+    "hex": "#427db4",
+    "group": "Синие",
+    "marker": "823"
+   },
+   {
+    "code": "s",
+    "hex": "#8791c7",
+    "group": "Синие",
+    "marker": "635"
+   },
+   {
+    "code": "t",
+    "hex": "#74afd9",
+    "group": "Синие",
+    "marker": "681"
+   },
+   {
+    "code": "u",
+    "hex": "#54c9f4",
+    "group": "Бирюзовые",
+    "marker": "822"
+   }
+  ],
+  "10": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные"
+   },
+   {
+    "code": "2",
+    "hex": "#323940",
+    "group": "Синие",
+    "marker": "806"
+   },
+   {
+    "code": "3",
+    "hex": "#47515a",
+    "group": "Серые",
+    "marker": "693"
+   },
+   {
+    "code": "4",
+    "hex": "#5c6777",
+    "group": "Синие",
+    "marker": "747"
+   },
+   {
+    "code": "5",
+    "hex": "#72716a",
+    "group": "Серые",
+    "marker": "BR-706"
+   },
+   {
+    "code": "6",
+    "hex": "#918d87",
+    "group": "Серые",
+    "marker": "BR-703"
+   },
+   {
+    "code": "7",
+    "hex": "#777d80",
+    "group": "Серые",
+    "marker": "GB-403"
+   },
+   {
+    "code": "8",
+    "hex": "#362e2a",
+    "group": "Коричневые",
+    "marker": "709"
+   },
+   {
+    "code": "9",
+    "hex": "#4f433e",
+    "group": "Коричневые",
+    "marker": "BR-708"
+   },
+   {
+    "code": "0",
+    "hex": "#805d54",
+    "group": "Красные",
+    "marker": "CS-509"
+   },
+   {
+    "code": "a",
+    "hex": "#b88a77",
+    "group": "Коричневые",
+    "marker": "CS-145"
+   },
+   {
+    "code": "b",
+    "hex": "#e2a78c",
+    "group": "Оранжевые",
+    "marker": "CS-504"
+   },
+   {
+    "code": "c",
+    "hex": "#b3804e",
+    "group": "Коричневые",
+    "marker": "644"
+   },
+   {
+    "code": "d",
+    "hex": "#ed7e40",
+    "group": "Оранжевые",
+    "marker": "725"
+   },
+   {
+    "code": "e",
+    "hex": "#fec761",
+    "group": "Оранжевые",
+    "marker": "603"
+   },
+   {
+    "code": "n",
+    "hex": "#b1a389",
+    "group": "Коричневые",
+    "marker": "753"
+   },
+   {
+    "code": "p",
+    "hex": "#dcc9a4",
+    "group": "Телесные",
+    "marker": "738"
+   },
+   {
+    "code": "q",
+    "hex": "#5b653b",
+    "group": "Зелёные",
+    "marker": "790"
+   },
+   {
+    "code": "r",
+    "hex": "#6e7b48",
+    "group": "Зелёные",
+    "marker": "793"
+   },
+   {
+    "code": "s",
+    "hex": "#99aa60",
+    "group": "Зелёные",
+    "marker": "640"
+   },
+   {
+    "code": "t",
+    "hex": "#b5bf79",
+    "group": "Жёлтые",
+    "marker": "735"
+   },
+   {
+    "code": "u",
+    "hex": "#a3bbcb",
+    "group": "Синие",
+    "marker": "804"
+   },
+   {
+    "code": "v",
+    "hex": "#aecada",
+    "group": "Синие",
+    "marker": "LC-194"
+   },
+   {
+    "code": "x",
+    "hex": "#d4e7f7",
+    "group": "Синие",
+    "marker": "736"
+   }
+  ],
+  "11": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#1e2227",
+    "group": "Чёрные",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#3a3d40",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#5c6166",
+    "group": "Серые",
+    "marker": "GB-403"
+   },
+   {
+    "code": "5",
+    "hex": "#7d8b89",
+    "group": "Серые",
+    "marker": "610"
+   },
+   {
+    "code": "6",
+    "hex": "#c2d2cd",
+    "group": "Бирюзовые",
+    "marker": "801"
+   },
+   {
+    "code": "7",
+    "hex": "#5a1922",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "8",
+    "hex": "#8d2724",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "9",
+    "hex": "#f58c89",
+    "group": "Красные",
+    "marker": "691"
+   },
+   {
+    "code": "0",
+    "hex": "#3c2a22",
+    "group": "Коричневые",
+    "marker": "DS-187"
+   },
+   {
+    "code": "a",
+    "hex": "#583523",
+    "group": "Коричневые",
+    "marker": "DS-186"
+   },
+   {
+    "code": "b",
+    "hex": "#9b5427",
+    "group": "Коричневые",
+    "marker": "785"
+   },
+   {
+    "code": "c",
+    "hex": "#825f42",
+    "group": "Коричневые",
+    "marker": "639"
+   },
+   {
+    "code": "d",
+    "hex": "#ce9a69",
+    "group": "Оранжевые",
+    "marker": "644"
+   },
+   {
+    "code": "e",
+    "hex": "#bb8d7c",
+    "group": "Коричневые",
+    "marker": "CS-509"
+   },
+   {
+    "code": "n",
+    "hex": "#eabd9b",
+    "group": "Телесные",
+    "marker": "CS-506"
+   },
+   {
+    "code": "p",
+    "hex": "#f68d51",
+    "group": "Оранжевые",
+    "marker": "604"
+   },
+   {
+    "code": "q",
+    "hex": "#fff464",
+    "group": "Жёлтые",
+    "marker": "615"
+   },
+   {
+    "code": "r",
+    "hex": "#f3e084",
+    "group": "Жёлтые",
+    "marker": "732"
+   },
+   {
+    "code": "s",
+    "hex": "#578241",
+    "group": "Зелёные",
+    "marker": "634"
+   },
+   {
+    "code": "t",
+    "hex": "#72a956",
+    "group": "Зелёные",
+    "marker": "665"
+   },
+   {
+    "code": "u",
+    "hex": "#8bc864",
+    "group": "Зелёные",
+    "marker": "687"
+   },
+   {
+    "code": "v",
+    "hex": "#56c3b8",
+    "group": "Бирюзовые",
+    "marker": "602"
+   },
+   {
+    "code": "x",
+    "hex": "#86d1d4",
+    "group": "Бирюзовые",
+    "marker": "737"
+   },
+   {
+    "code": "y",
+    "hex": "#abdddf",
+    "group": "Бирюзовые",
+    "marker": "736"
+   },
+   {
+    "code": "z",
+    "hex": "#213558",
+    "group": "Синие",
+    "marker": "BL-267"
+   },
+   {
+    "code": "в",
+    "hex": "#344c5d",
+    "group": "Синие",
+    "marker": "693"
+   },
+   {
+    "code": "к",
+    "hex": "#314e72",
+    "group": "Синие",
+    "marker": "747"
+   },
+   {
+    "code": "л",
+    "hex": "#4f707f",
+    "group": "Бирюзовые",
+    "marker": "767"
+   },
+   {
+    "code": "ц",
+    "hex": "#63848f",
+    "group": "Бирюзовые",
+    "marker": "AG-173"
+   },
+   {
+    "code": "ш",
+    "hex": "#89b1c0",
+    "group": "Бирюзовые",
+    "marker": "633"
+   }
+  ],
+  "12": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#1e2227",
+    "group": "Чёрные",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#3a3d40",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#5c6166",
+    "group": "Серые",
+    "marker": "GB-403"
+   },
+   {
+    "code": "5",
+    "hex": "#7d8b89",
+    "group": "Серые",
+    "marker": "610"
+   },
+   {
+    "code": "6",
+    "hex": "#c2d2cd",
+    "group": "Бирюзовые",
+    "marker": "801"
+   },
+   {
+    "code": "7",
+    "hex": "#5a1922",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "8",
+    "hex": "#8d2724",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "9",
+    "hex": "#f58c89",
+    "group": "Красные",
+    "marker": "691"
+   },
+   {
+    "code": "0",
+    "hex": "#3c2a22",
+    "group": "Коричневые",
+    "marker": "DS-187"
+   },
+   {
+    "code": "a",
+    "hex": "#583523",
+    "group": "Коричневые",
+    "marker": "DS-186"
+   },
+   {
+    "code": "b",
+    "hex": "#9b5427",
+    "group": "Коричневые",
+    "marker": "785"
+   },
+   {
+    "code": "c",
+    "hex": "#825f42",
+    "group": "Коричневые",
+    "marker": "639"
+   },
+   {
+    "code": "d",
+    "hex": "#ce9a69",
+    "group": "Оранжевые",
+    "marker": "644"
+   },
+   {
+    "code": "e",
+    "hex": "#bb8d7c",
+    "group": "Коричневые",
+    "marker": "CS-509"
+   },
+   {
+    "code": "n",
+    "hex": "#eabd9b",
+    "group": "Телесные",
+    "marker": "CS-506"
+   },
+   {
+    "code": "p",
+    "hex": "#f68d51",
+    "group": "Оранжевые",
+    "marker": "604"
+   },
+   {
+    "code": "q",
+    "hex": "#fff464",
+    "group": "Жёлтые",
+    "marker": "615"
+   },
+   {
+    "code": "r",
+    "hex": "#f3e084",
+    "group": "Жёлтые",
+    "marker": "732"
+   },
+   {
+    "code": "s",
+    "hex": "#578241",
+    "group": "Зелёные",
+    "marker": "634"
+   },
+   {
+    "code": "t",
+    "hex": "#72a956",
+    "group": "Зелёные",
+    "marker": "665"
+   },
+   {
+    "code": "u",
+    "hex": "#8bc864",
+    "group": "Зелёные",
+    "marker": "687"
+   },
+   {
+    "code": "v",
+    "hex": "#56c3b8",
+    "group": "Бирюзовые",
+    "marker": "602"
+   },
+   {
+    "code": "x",
+    "hex": "#86d1d4",
+    "group": "Бирюзовые",
+    "marker": "737"
+   },
+   {
+    "code": "y",
+    "hex": "#abdddf",
+    "group": "Бирюзовые",
+    "marker": "736"
+   },
+   {
+    "code": "z",
+    "hex": "#213558",
+    "group": "Синие",
+    "marker": "BL-267"
+   },
+   {
+    "code": "в",
+    "hex": "#344c5d",
+    "group": "Синие",
+    "marker": "693"
+   },
+   {
+    "code": "к",
+    "hex": "#314e72",
+    "group": "Синие",
+    "marker": "747"
+   },
+   {
+    "code": "л",
+    "hex": "#4f707f",
+    "group": "Бирюзовые",
+    "marker": "767"
+   },
+   {
+    "code": "ц",
+    "hex": "#63848f",
+    "group": "Бирюзовые",
+    "marker": "AG-173"
+   },
+   {
+    "code": "ш",
+    "hex": "#89b1c0",
+    "group": "Бирюзовые",
+    "marker": "633"
+   }
+  ],
+  "13": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#3d4042",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#9da2a5",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#bbc0c1",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "5",
+    "hex": "#ebf0f1",
+    "group": "Бирюзовые",
+    "marker": "801"
+   },
+   {
+    "code": "6",
+    "hex": "#577970",
+    "group": "Бирюзовые",
+    "marker": "792"
+   },
+   {
+    "code": "7",
+    "hex": "#82a88c",
+    "group": "Зелёные",
+    "marker": "696"
+   },
+   {
+    "code": "8",
+    "hex": "#5d1720",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "9",
+    "hex": "#bb3532",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "0",
+    "hex": "#b96955",
+    "group": "Красные",
+    "marker": "619"
+   },
+   {
+    "code": "a",
+    "hex": "#f5834b",
+    "group": "Оранжевые",
+    "marker": "604"
+   },
+   {
+    "code": "b",
+    "hex": "#fbb258",
+    "group": "Оранжевые",
+    "marker": "786"
+   },
+   {
+    "code": "c",
+    "hex": "#fbb67d",
+    "group": "Оранжевые",
+    "marker": "684"
+   },
+   {
+    "code": "d",
+    "hex": "#ffe57a",
+    "group": "Жёлтые",
+    "marker": "733"
+   },
+   {
+    "code": "e",
+    "hex": "#5a4e52",
+    "group": "Серые",
+    "marker": "620"
+   },
+   {
+    "code": "n",
+    "hex": "#7f6c65",
+    "group": "Серые",
+    "marker": "AG-179"
+   },
+   {
+    "code": "p",
+    "hex": "#c48b7f",
+    "group": "Красные",
+    "marker": "CS-509"
+   },
+   {
+    "code": "q",
+    "hex": "#df9e8b",
+    "group": "Красные",
+    "marker": "CS-506"
+   },
+   {
+    "code": "r",
+    "hex": "#f9b398",
+    "group": "Оранжевые",
+    "marker": "703"
+   },
+   {
+    "code": "s",
+    "hex": "#fccdb1",
+    "group": "Оранжевые",
+    "marker": "CS-505"
+   },
+   {
+    "code": "t",
+    "hex": "#173551",
+    "group": "Синие",
+    "marker": "BL-267"
+   },
+   {
+    "code": "u",
+    "hex": "#335581",
+    "group": "Синие",
+    "marker": "617"
+   },
+   {
+    "code": "v",
+    "hex": "#4775ab",
+    "group": "Синие",
+    "marker": "689"
+   },
+   {
+    "code": "x",
+    "hex": "#90d9f8",
+    "group": "Бирюзовые",
+    "marker": "822"
+   }
+  ],
+  "14": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#24282c",
+    "group": "Чёрные",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#3a3d40",
+    "group": "Серые",
+    "marker": "GB-404"
+   },
+   {
+    "code": "4",
+    "hex": "#575a5d",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "5",
+    "hex": "#787d7e",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "6",
+    "hex": "#adb2b4",
+    "group": "Серые",
+    "marker": "801"
+   },
+   {
+    "code": "7",
+    "hex": "#35151f",
+    "group": "Чёрные",
+    "marker": "779"
+   },
+   {
+    "code": "8",
+    "hex": "#521822",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "9",
+    "hex": "#db392f",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "0",
+    "hex": "#36302b",
+    "group": "Серые",
+    "marker": "643"
+   },
+   {
+    "code": "a",
+    "hex": "#5d5344",
+    "group": "Коричневые",
+    "marker": "757"
+   },
+   {
+    "code": "b",
+    "hex": "#756a54",
+    "group": "Коричневые",
+    "marker": "731"
+   },
+   {
+    "code": "c",
+    "hex": "#a48c68",
+    "group": "Коричневые",
+    "marker": "DS-181"
+   }
+  ],
+  "15": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#2a2d31",
+    "group": "Чёрные",
+    "marker": "807"
+   },
+   {
+    "code": "3",
+    "hex": "#404345",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "4",
+    "hex": "#6a6e70",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "5",
+    "hex": "#acb0b2",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "6",
+    "hex": "#d1d5d6",
+    "group": "Серые",
+    "marker": "801"
+   },
+   {
+    "code": "7",
+    "hex": "#342c28",
+    "group": "Коричневые",
+    "marker": "709"
+   },
+   {
+    "code": "8",
+    "hex": "#3b3837",
+    "group": "Серые",
+    "marker": "679"
+   },
+   {
+    "code": "9",
+    "hex": "#5b5753",
+    "group": "Серые",
+    "marker": "GB-407"
+   },
+   {
+    "code": "0",
+    "hex": "#827a72",
+    "group": "Серые",
+    "marker": "GB-408"
+   },
+   {
+    "code": "a",
+    "hex": "#61352a",
+    "group": "Красные",
+    "marker": "780"
+   },
+   {
+    "code": "b",
+    "hex": "#a22d2b",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "c",
+    "hex": "#725843",
+    "group": "Коричневые",
+    "marker": "639"
+   },
+   {
+    "code": "d",
+    "hex": "#987556",
+    "group": "Коричневые",
+    "marker": "644"
+   },
+   {
+    "code": "e",
+    "hex": "#7f602b",
+    "group": "Коричневые",
+    "marker": "816"
+   },
+   {
+    "code": "n",
+    "hex": "#a97d3a",
+    "group": "Коричневые",
+    "marker": "815"
+   },
+   {
+    "code": "p",
+    "hex": "#e9b37e",
+    "group": "Оранжевые",
+    "marker": "684"
+   },
+   {
+    "code": "q",
+    "hex": "#7b584d",
+    "group": "Красные",
+    "marker": "CS-509"
+   },
+   {
+    "code": "r",
+    "hex": "#ac7a65",
+    "group": "Коричневые",
+    "marker": "CS-145"
+   },
+   {
+    "code": "s",
+    "hex": "#e2a383",
+    "group": "Оранжевые",
+    "marker": "CS-504"
+   },
+   {
+    "code": "t",
+    "hex": "#fab89b",
+    "group": "Оранжевые",
+    "marker": "CS-144"
+   },
+   {
+    "code": "u",
+    "hex": "#9b8c79",
+    "group": "Коричневые",
+    "marker": "753"
+   },
+   {
+    "code": "v",
+    "hex": "#ddd0bc",
+    "group": "Телесные",
+    "marker": "738"
+   },
+   {
+    "code": "x",
+    "hex": "#305088",
+    "group": "Синие",
+    "marker": "617"
+   }
+  ],
+  "16": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#2c2f33",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#4c4f51",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#707375",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "5",
+    "hex": "#bbc0c1",
+    "group": "Серые",
+    "marker": "801"
+   },
+   {
+    "code": "6",
+    "hex": "#2b2828",
+    "group": "Чёрные",
+    "marker": "709"
+   },
+   {
+    "code": "7",
+    "hex": "#4a3e36",
+    "group": "Коричневые",
+    "marker": "BR-708"
+   },
+   {
+    "code": "8",
+    "hex": "#3a2c25",
+    "group": "Коричневые",
+    "marker": "DS-189"
+   },
+   {
+    "code": "9",
+    "hex": "#593f30",
+    "group": "Коричневые",
+    "marker": "DS-188"
+   },
+   {
+    "code": "0",
+    "hex": "#9b7260",
+    "group": "Коричневые",
+    "marker": "CS-509"
+   },
+   {
+    "code": "a",
+    "hex": "#d19478",
+    "group": "Оранжевые",
+    "marker": "CS-145"
+   },
+   {
+    "code": "b",
+    "hex": "#eaa884",
+    "group": "Оранжевые",
+    "marker": "CS-504"
+   },
+   {
+    "code": "c",
+    "hex": "#141a39",
+    "group": "Чёрные",
+    "marker": "763"
+   },
+   {
+    "code": "d",
+    "hex": "#2b3865",
+    "group": "Синие",
+    "marker": "BL-267"
+   },
+   {
+    "code": "e",
+    "hex": "#305697",
+    "group": "Синие",
+    "marker": "617"
+   },
+   {
+    "code": "n",
+    "hex": "#416eb6",
+    "group": "Синие",
+    "marker": "650"
+   },
+   {
+    "code": "p",
+    "hex": "#212a35",
+    "group": "Синие",
+    "marker": "806"
+   },
+   {
+    "code": "q",
+    "hex": "#333f4b",
+    "group": "Синие",
+    "marker": "693"
+   }
+  ],
+  "17": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#3d1820",
+    "group": "Красные",
+    "marker": "779"
+   },
+   {
+    "code": "3",
+    "hex": "#5d1720",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "4",
+    "hex": "#bb3532",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "5",
+    "hex": "#ec7b6d",
+    "group": "Красные",
+    "marker": "691"
+   },
+   {
+    "code": "6",
+    "hex": "#3b3629",
+    "group": "Коричневые",
+    "marker": "643"
+   },
+   {
+    "code": "7",
+    "hex": "#d4b783",
+    "group": "Оранжевые",
+    "marker": "731"
+   },
+   {
+    "code": "8",
+    "hex": "#896a2b",
+    "group": "Коричневые",
+    "marker": "816"
+   },
+   {
+    "code": "9",
+    "hex": "#c39c43",
+    "group": "Оранжевые",
+    "marker": "815"
+   },
+   {
+    "code": "0",
+    "hex": "#e3b951",
+    "group": "Оранжевые",
+    "marker": "656"
+   },
+   {
+    "code": "a",
+    "hex": "#3595cf",
+    "group": "Синие",
+    "marker": "822"
+   },
+   {
+    "code": "b",
+    "hex": "#7ad3f7",
+    "group": "Бирюзовые",
+    "marker": "821"
+   }
+  ],
+  "18": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#2c2f33",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#414446",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#bbc0c1",
+    "group": "Серые",
+    "marker": "AG-171"
+   },
+   {
+    "code": "5",
+    "hex": "#d5dada",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "6",
+    "hex": "#e9eeef",
+    "group": "Бирюзовые",
+    "marker": "801"
+   },
+   {
+    "code": "7",
+    "hex": "#535f6e",
+    "group": "Синие",
+    "marker": "693"
+   },
+   {
+    "code": "8",
+    "hex": "#8698af",
+    "group": "Синие",
+    "marker": "AG-173"
+   },
+   {
+    "code": "9",
+    "hex": "#6e6c65",
+    "group": "Серые",
+    "marker": "GB-406"
+   },
+   {
+    "code": "0",
+    "hex": "#9e968b",
+    "group": "Серые",
+    "marker": "753"
+   },
+   {
+    "code": "a",
+    "hex": "#c4c1b6",
+    "group": "Серые",
+    "marker": "738"
+   },
+   {
+    "code": "b",
+    "hex": "#5b251f",
+    "group": "Красные",
+    "marker": "784"
+   },
+   {
+    "code": "c",
+    "hex": "#8d3f27",
+    "group": "Красные",
+    "marker": "785"
+   },
+   {
+    "code": "d",
+    "hex": "#e27949",
+    "group": "Оранжевые",
+    "marker": "604"
+   },
+   {
+    "code": "e",
+    "hex": "#8f272e",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "n",
+    "hex": "#ea443b",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "p",
+    "hex": "#af7a68",
+    "group": "Красные",
+    "marker": "CS-509"
+   },
+   {
+    "code": "q",
+    "hex": "#e8a58c",
+    "group": "Телесные",
+    "marker": "CS-506"
+   },
+   {
+    "code": "r",
+    "hex": "#343827",
+    "group": "Зелёные",
+    "marker": "790"
+   },
+   {
+    "code": "s",
+    "hex": "#4c5431",
+    "group": "Зелёные",
+    "marker": "793"
+   },
+   {
+    "code": "t",
+    "hex": "#8c9855",
+    "group": "Зелёные",
+    "marker": "640"
+   },
+   {
+    "code": "u",
+    "hex": "#bfcb78",
+    "group": "Жёлтые",
+    "marker": "735"
+   },
+   {
+    "code": "v",
+    "hex": "#45c8f5",
+    "group": "Бирюзовые",
+    "marker": "722"
+   }
+  ],
+  "19": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#1b1f24",
+    "group": "Чёрные",
+    "marker": "807"
+   },
+   {
+    "code": "3",
+    "hex": "#2e3235",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "4",
+    "hex": "#55585a",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "5",
+    "hex": "#949a9c",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "6",
+    "hex": "#d4d8d9",
+    "group": "Серые",
+    "marker": "801"
+   },
+   {
+    "code": "7",
+    "hex": "#381821",
+    "group": "Чёрные",
+    "marker": "779"
+   },
+   {
+    "code": "8",
+    "hex": "#5d1720",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "9",
+    "hex": "#bb3532",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "0",
+    "hex": "#f37773",
+    "group": "Красные",
+    "marker": "691"
+   },
+   {
+    "code": "a",
+    "hex": "#2f2622",
+    "group": "Чёрные",
+    "marker": "DS-189"
+   },
+   {
+    "code": "b",
+    "hex": "#493a2a",
+    "group": "Коричневые",
+    "marker": "DS-188"
+   },
+   {
+    "code": "c",
+    "hex": "#aa856e",
+    "group": "Коричневые",
+    "marker": "755"
+   },
+   {
+    "code": "d",
+    "hex": "#dca987",
+    "group": "Оранжевые",
+    "marker": "654"
+   },
+   {
+    "code": "e",
+    "hex": "#c39c43",
+    "group": "Оранжевые",
+    "marker": "816"
+   },
+   {
+    "code": "n",
+    "hex": "#e3b951",
+    "group": "Оранжевые",
+    "marker": "815"
+   },
+   {
+    "code": "p",
+    "hex": "#ffebaf",
+    "group": "Оранжевые",
+    "marker": "656"
+   },
+   {
+    "code": "q",
+    "hex": "#de8a41",
+    "group": "Оранжевые",
+    "marker": "604"
+   },
+   {
+    "code": "r",
+    "hex": "#fbb87b",
+    "group": "Оранжевые",
+    "marker": "702"
+   },
+   {
+    "code": "s",
+    "hex": "#173551",
+    "group": "Синие",
+    "marker": "BL-267"
+   },
+   {
+    "code": "t",
+    "hex": "#335581",
+    "group": "Синие",
+    "marker": "617"
+   },
+   {
+    "code": "u",
+    "hex": "#4775ab",
+    "group": "Синие",
+    "marker": "823"
+   },
+   {
+    "code": "v",
+    "hex": "#a5ddec",
+    "group": "Бирюзовые",
+    "marker": "821"
+   }
+  ],
+  "20": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#1b1f24",
+    "group": "Чёрные",
+    "marker": "807"
+   },
+   {
+    "code": "3",
+    "hex": "#2e3235",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "4",
+    "hex": "#55585a",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "5",
+    "hex": "#949a9c",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "6",
+    "hex": "#d4d8d9",
+    "group": "Серые",
+    "marker": "801"
+   },
+   {
+    "code": "7",
+    "hex": "#381821",
+    "group": "Чёрные",
+    "marker": "779"
+   },
+   {
+    "code": "8",
+    "hex": "#5d1720",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "9",
+    "hex": "#bb3532",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "0",
+    "hex": "#f37773",
+    "group": "Красные",
+    "marker": "691"
+   },
+   {
+    "code": "a",
+    "hex": "#2f2622",
+    "group": "Чёрные",
+    "marker": "DS-189"
+   },
+   {
+    "code": "b",
+    "hex": "#493a2a",
+    "group": "Коричневые",
+    "marker": "DS-188"
+   },
+   {
+    "code": "c",
+    "hex": "#aa856e",
+    "group": "Коричневые",
+    "marker": "755"
+   },
+   {
+    "code": "d",
+    "hex": "#dca987",
+    "group": "Оранжевые",
+    "marker": "654"
+   },
+   {
+    "code": "e",
+    "hex": "#c39c43",
+    "group": "Оранжевые",
+    "marker": "816"
+   },
+   {
+    "code": "n",
+    "hex": "#e3b951",
+    "group": "Оранжевые",
+    "marker": "815"
+   },
+   {
+    "code": "p",
+    "hex": "#ffebaf",
+    "group": "Оранжевые",
+    "marker": "656"
+   },
+   {
+    "code": "q",
+    "hex": "#de8a41",
+    "group": "Оранжевые",
+    "marker": "604"
+   },
+   {
+    "code": "r",
+    "hex": "#fbb87b",
+    "group": "Оранжевые",
+    "marker": "702"
+   },
+   {
+    "code": "s",
+    "hex": "#173551",
+    "group": "Синие",
+    "marker": "BL-267"
+   },
+   {
+    "code": "t",
+    "hex": "#335581",
+    "group": "Синие",
+    "marker": "617"
+   },
+   {
+    "code": "u",
+    "hex": "#4775ab",
+    "group": "Синие",
+    "marker": "823"
+   },
+   {
+    "code": "v",
+    "hex": "#a5ddec",
+    "group": "Бирюзовые",
+    "marker": "821"
+   }
+  ],
+  "2": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#282b2c",
+    "group": "Чёрные",
+    "marker": "807"
+   },
+   {
+    "code": "3",
+    "hex": "#2c2f33",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "4",
+    "hex": "#3c4046",
+    "group": "Серые",
+    "marker": "GB-404"
+   },
+   {
+    "code": "5",
+    "hex": "#494d4f",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "6",
+    "hex": "#92a3a1",
+    "group": "Серые",
+    "marker": "610"
+   },
+   {
+    "code": "7",
+    "hex": "#9a97b2",
+    "group": "Синие",
+    "marker": "825"
+   },
+   {
+    "code": "8",
+    "hex": "#b9bdc2",
+    "group": "Серые",
+    "marker": "804"
+   },
+   {
+    "code": "9",
+    "hex": "#ccccc4",
+    "group": "Серые",
+    "marker": "803"
+   },
+   {
+    "code": "0",
+    "hex": "#4c423d",
+    "group": "Серые",
+    "marker": "709"
+   },
+   {
+    "code": "a",
+    "hex": "#5c3e32",
+    "group": "Коричневые",
+    "marker": "DS-187"
+   },
+   {
+    "code": "b",
+    "hex": "#7d5441",
+    "group": "Коричневые",
+    "marker": "639"
+   },
+   {
+    "code": "c",
+    "hex": "#a87d57",
+    "group": "Коричневые",
+    "marker": "644"
+   },
+   {
+    "code": "d",
+    "hex": "#2b505a",
+    "group": "Бирюзовые",
+    "marker": "797"
+   },
+   {
+    "code": "e",
+    "hex": "#3a99a3",
+    "group": "Бирюзовые",
+    "marker": "609"
+   },
+   {
+    "code": "n",
+    "hex": "#2d3546",
+    "group": "Синие",
+    "marker": "806"
+   },
+   {
+    "code": "p",
+    "hex": "#3b465b",
+    "group": "Синие",
+    "marker": "693"
+   },
+   {
+    "code": "q",
+    "hex": "#2d5295",
+    "group": "Синие",
+    "marker": "673"
+   },
+   {
+    "code": "r",
+    "hex": "#48607f",
+    "group": "Синие",
+    "marker": "747"
+   },
+   {
+    "code": "s",
+    "hex": "#607b9a",
+    "group": "Синие",
+    "marker": "633"
+   }
+  ],
+  "21": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#3a3d40",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#6a6e70",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#adb2b4",
+    "group": "Серые",
+    "marker": "801"
+   },
+   {
+    "code": "5",
+    "hex": "#465b61",
+    "group": "Бирюзовые",
+    "marker": "767"
+   },
+   {
+    "code": "6",
+    "hex": "#6c8288",
+    "group": "Серые",
+    "marker": "633"
+   },
+   {
+    "code": "7",
+    "hex": "#401620",
+    "group": "Красные",
+    "marker": "779"
+   },
+   {
+    "code": "8",
+    "hex": "#61161f",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "9",
+    "hex": "#a22d27",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "0",
+    "hex": "#6d3d48",
+    "group": "Красные",
+    "marker": "PC-809"
+   },
+   {
+    "code": "a",
+    "hex": "#9e5863",
+    "group": "Красные",
+    "marker": "PC-807"
+   },
+   {
+    "code": "b",
+    "hex": "#bb6f77",
+    "group": "Красные",
+    "marker": "772"
+   },
+   {
+    "code": "c",
+    "hex": "#df9498",
+    "group": "Красные",
+    "marker": "PC-803"
+   },
+   {
+    "code": "d",
+    "hex": "#3a241e",
+    "group": "Красные",
+    "marker": "DS-188"
+   },
+   {
+    "code": "e",
+    "hex": "#5d3524",
+    "group": "Коричневые",
+    "marker": "DS-184"
+   },
+   {
+    "code": "n",
+    "hex": "#39302b",
+    "group": "Коричневые",
+    "marker": "709"
+   },
+   {
+    "code": "p",
+    "hex": "#634f43",
+    "group": "Коричневые",
+    "marker": "BR-708"
+   },
+   {
+    "code": "q",
+    "hex": "#625d56",
+    "group": "Серые",
+    "marker": "BR-706"
+   },
+   {
+    "code": "r",
+    "hex": "#603e3b",
+    "group": "Красные",
+    "marker": "BR-707"
+   },
+   {
+    "code": "s",
+    "hex": "#a07263",
+    "group": "Красные",
+    "marker": "CS-509"
+   },
+   {
+    "code": "t",
+    "hex": "#d4977f",
+    "group": "Оранжевые",
+    "marker": "CS-145"
+   },
+   {
+    "code": "u",
+    "hex": "#efb08c",
+    "group": "Оранжевые",
+    "marker": "CS-504"
+   },
+   {
+    "code": "v",
+    "hex": "#fbbd9f",
+    "group": "Оранжевые",
+    "marker": "CS-505"
+   },
+   {
+    "code": "x",
+    "hex": "#a08f71",
+    "group": "Коричневые",
+    "marker": "731"
+   },
+   {
+    "code": "y",
+    "hex": "#dfca99",
+    "group": "Телесные",
+    "marker": "CS-143"
+   },
+   {
+    "code": "z",
+    "hex": "#253a38",
+    "group": "Бирюзовые",
+    "marker": "795"
+   },
+   {
+    "code": "в",
+    "hex": "#446159",
+    "group": "Бирюзовые",
+    "marker": "GR-109"
+   },
+   {
+    "code": "к",
+    "hex": "#56718f",
+    "group": "Синие",
+    "marker": "750"
+   },
+   {
+    "code": "л",
+    "hex": "#c1d6de",
+    "group": "Бирюзовые",
+    "marker": "736"
+   }
+  ],
+  "22": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#34383a",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#6a6e70",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#92989a",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "5",
+    "hex": "#c9372e",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "6",
+    "hex": "#f4817d",
+    "group": "Красные",
+    "marker": "691"
+   },
+   {
+    "code": "7",
+    "hex": "#512731",
+    "group": "Красные",
+    "marker": "769"
+   },
+   {
+    "code": "8",
+    "hex": "#954649",
+    "group": "Красные",
+    "marker": "674"
+   },
+   {
+    "code": "9",
+    "hex": "#c27371",
+    "group": "Красные",
+    "marker": "772"
+   },
+   {
+    "code": "0",
+    "hex": "#906155",
+    "group": "Красные",
+    "marker": "CS-149"
+   },
+   {
+    "code": "a",
+    "hex": "#c68a7a",
+    "group": "Красные",
+    "marker": "CS-145"
+   },
+   {
+    "code": "b",
+    "hex": "#f1b195",
+    "group": "Оранжевые",
+    "marker": "CS-504"
+   },
+   {
+    "code": "c",
+    "hex": "#f8ccb3",
+    "group": "Оранжевые",
+    "marker": "CS-505"
+   },
+   {
+    "code": "d",
+    "hex": "#2e201e",
+    "group": "Чёрные",
+    "marker": "DS-189"
+   },
+   {
+    "code": "e",
+    "hex": "#472c21",
+    "group": "Коричневые",
+    "marker": "DS-187"
+   },
+   {
+    "code": "n",
+    "hex": "#9f897f",
+    "group": "Коричневые",
+    "marker": "BR-706"
+   },
+   {
+    "code": "p",
+    "hex": "#c1aa94",
+    "group": "Оранжевые",
+    "marker": "753"
+   }
+  ],
+  "23": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#65696b",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "3",
+    "hex": "#9da2a5",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "4",
+    "hex": "#c5cacb",
+    "group": "Серые",
+    "marker": "801"
+   },
+   {
+    "code": "5",
+    "hex": "#802e39",
+    "group": "Красные",
+    "marker": "PC-809"
+   },
+   {
+    "code": "6",
+    "hex": "#da5f5a",
+    "group": "Красные",
+    "marker": "605"
+   },
+   {
+    "code": "7",
+    "hex": "#d5838b",
+    "group": "Красные",
+    "marker": "772"
+   },
+   {
+    "code": "8",
+    "hex": "#452f24",
+    "group": "Коричневые",
+    "marker": "DS-188"
+   },
+   {
+    "code": "9",
+    "hex": "#593e2e",
+    "group": "Коричневые",
+    "marker": "DS-187"
+   },
+   {
+    "code": "0",
+    "hex": "#7b4a3a",
+    "group": "Красные",
+    "marker": "DS-184"
+   },
+   {
+    "code": "a",
+    "hex": "#956636",
+    "group": "Коричневые",
+    "marker": "DS-186"
+   },
+   {
+    "code": "b",
+    "hex": "#c88649",
+    "group": "Оранжевые",
+    "marker": "618"
+   },
+   {
+    "code": "c",
+    "hex": "#f7a458",
+    "group": "Оранжевые",
+    "marker": "684"
+   },
+   {
+    "code": "d",
+    "hex": "#f0c185",
+    "group": "Оранжевые",
+    "marker": "683"
+   },
+   {
+    "code": "e",
+    "hex": "#fad23d",
+    "group": "Жёлтые",
+    "marker": "615"
+   },
+   {
+    "code": "n",
+    "hex": "#485b2d",
+    "group": "Зелёные",
+    "marker": "634"
+   },
+   {
+    "code": "p",
+    "hex": "#6f8443",
+    "group": "Зелёные",
+    "marker": "665"
+   },
+   {
+    "code": "q",
+    "hex": "#1a343b",
+    "group": "Бирюзовые",
+    "marker": "CB-902"
+   },
+   {
+    "code": "r",
+    "hex": "#264b4d",
+    "group": "Бирюзовые",
+    "marker": "800"
+   },
+   {
+    "code": "s",
+    "hex": "#3f7475",
+    "group": "Бирюзовые",
+    "marker": "609"
+   },
+   {
+    "code": "t",
+    "hex": "#e1f4fd",
+    "group": "Синие",
+    "marker": "736"
+   },
+   {
+    "code": "u",
+    "hex": "#448fcc",
+    "group": "Синие",
+    "marker": "601"
+   }
+  ],
+  "24": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#272b2f",
+    "group": "Чёрные",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#323538",
+    "group": "Серые",
+    "marker": "CB-404"
+   },
+   {
+    "code": "4",
+    "hex": "#575a5d",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "5",
+    "hex": "#949a9c",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "6",
+    "hex": "#203232",
+    "group": "Бирюзовые",
+    "marker": "795"
+   },
+   {
+    "code": "7",
+    "hex": "#33473f",
+    "group": "Зелёные",
+    "marker": "GR-109"
+   },
+   {
+    "code": "8",
+    "hex": "#6b698c",
+    "group": "Синие",
+    "marker": "827"
+   },
+   {
+    "code": "9",
+    "hex": "#9a97b2",
+    "group": "Синие",
+    "marker": "826"
+   },
+   {
+    "code": "0",
+    "hex": "#aaa8c3",
+    "group": "Синие",
+    "marker": "825"
+   },
+   {
+    "code": "a",
+    "hex": "#86524d",
+    "group": "Красные",
+    "marker": "CS-149"
+   },
+   {
+    "code": "b",
+    "hex": "#b97667",
+    "group": "Красные",
+    "marker": "CS-509"
+   },
+   {
+    "code": "c",
+    "hex": "#e2997f",
+    "group": "Красные",
+    "marker": "CS-145"
+   },
+   {
+    "code": "d",
+    "hex": "#a9776e",
+    "group": "Красные",
+    "marker": "AG-178"
+   },
+   {
+    "code": "e",
+    "hex": "#cb8c83",
+    "group": "Красные",
+    "marker": "CS-148"
+   },
+   {
+    "code": "n",
+    "hex": "#dfa996",
+    "group": "Красные",
+    "marker": "CS-144"
+   },
+   {
+    "code": "p",
+    "hex": "#f9ac95",
+    "group": "Красные",
+    "marker": "703"
+   },
+   {
+    "code": "q",
+    "hex": "#e6c7b6",
+    "group": "Телесные",
+    "marker": "LC-196"
+   },
+   {
+    "code": "r",
+    "hex": "#4d2e23",
+    "group": "Красные",
+    "marker": "DS-186"
+   },
+   {
+    "code": "s",
+    "hex": "#9c6339",
+    "group": "Коричневые",
+    "marker": "644"
+   },
+   {
+    "code": "t",
+    "hex": "#ba8850",
+    "group": "Коричневые",
+    "marker": "618"
+   },
+   {
+    "code": "u",
+    "hex": "#e39d60",
+    "group": "Оранжевые",
+    "marker": "802"
+   },
+   {
+    "code": "v",
+    "hex": "#5b4131",
+    "group": "Коричневые",
+    "marker": "643"
+   },
+   {
+    "code": "x",
+    "hex": "#846546",
+    "group": "Коричневые",
+    "marker": "757"
+   },
+   {
+    "code": "y",
+    "hex": "#2b3b47",
+    "group": "Синие",
+    "marker": "806"
+   },
+   {
+    "code": "z",
+    "hex": "#3c545f",
+    "group": "Бирюзовые",
+    "marker": "693"
+   },
+   {
+    "code": "в",
+    "hex": "#597d88",
+    "group": "Бирюзовые",
+    "marker": "633"
+   },
+   {
+    "code": "к",
+    "hex": "#5952a3",
+    "group": "Синие",
+    "marker": "607"
+   },
+   {
+    "code": "л",
+    "hex": "#3667b1",
+    "group": "Синие",
+    "marker": "650"
+   },
+   {
+    "code": "ц",
+    "hex": "#448fcc",
+    "group": "Синие",
+    "marker": "601"
+   },
+   {
+    "code": "ш",
+    "hex": "#5ca1d1",
+    "group": "Синие",
+    "marker": "822"
+   },
+   {
+    "code": "щ",
+    "hex": "#af3129",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "э",
+    "hex": "#d69fc8",
+    "group": "Розовые",
+    "marker": "723"
+   }
+  ],
+  "25": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#2c2f33",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#47494c",
+    "group": "Серые",
+    "marker": "GB-404"
+   },
+   {
+    "code": "4",
+    "hex": "#494d4f",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "5",
+    "hex": "#381821",
+    "group": "Чёрные",
+    "marker": "779"
+   },
+   {
+    "code": "6",
+    "hex": "#5b1a22",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "7",
+    "hex": "#d03d38",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "8",
+    "hex": "#2b2724",
+    "group": "Чёрные",
+    "marker": "DS-189"
+   },
+   {
+    "code": "9",
+    "hex": "#30241f",
+    "group": "Чёрные",
+    "marker": "DS-188"
+   },
+   {
+    "code": "0",
+    "hex": "#483325",
+    "group": "Коричневые",
+    "marker": "DS-187"
+   },
+   {
+    "code": "a",
+    "hex": "#9a6142",
+    "group": "Коричневые",
+    "marker": "DS-186"
+   },
+   {
+    "code": "b",
+    "hex": "#6e4a3c",
+    "group": "Коричневые",
+    "marker": "BR-707"
+   },
+   {
+    "code": "c",
+    "hex": "#b1795d",
+    "group": "Коричневые",
+    "marker": "CS-149"
+   },
+   {
+    "code": "d",
+    "hex": "#f2b181",
+    "group": "Оранжевые",
+    "marker": "CS-145"
+   },
+   {
+    "code": "e",
+    "hex": "#ffebaf",
+    "group": "Оранжевые",
+    "marker": "LC-191"
+   },
+   {
+    "code": "n",
+    "hex": "#896a2b",
+    "group": "Коричневые",
+    "marker": "816"
+   },
+   {
+    "code": "p",
+    "hex": "#c39c43",
+    "group": "Оранжевые",
+    "marker": "815"
+   },
+   {
+    "code": "q",
+    "hex": "#e3b951",
+    "group": "Оранжевые",
+    "marker": "656"
+   },
+   {
+    "code": "r",
+    "hex": "#e17744",
+    "group": "Оранжевые",
+    "marker": "725"
+   },
+   {
+    "code": "s",
+    "hex": "#f89e58",
+    "group": "Оранжевые",
+    "marker": "649"
+   },
+   {
+    "code": "t",
+    "hex": "#fcbd79",
+    "group": "Оранжевые",
+    "marker": "702"
+   },
+   {
+    "code": "u",
+    "hex": "#bd9f91",
+    "group": "Оранжевые",
+    "marker": "CS-148"
+   },
+   {
+    "code": "v",
+    "hex": "#2a4738",
+    "group": "Зелёные",
+    "marker": "796"
+   },
+   {
+    "code": "x",
+    "hex": "#366a39",
+    "group": "Зелёные",
+    "marker": "676"
+   },
+   {
+    "code": "y",
+    "hex": "#78b662",
+    "group": "Зелёные",
+    "marker": "687"
+   },
+   {
+    "code": "z",
+    "hex": "#2b505a",
+    "group": "Бирюзовые",
+    "marker": "798"
+   },
+   {
+    "code": "в",
+    "hex": "#5387a8",
+    "group": "Синие",
+    "marker": "823"
+   },
+   {
+    "code": "к",
+    "hex": "#0a243a",
+    "group": "Чёрные",
+    "marker": "BL-267"
+   },
+   {
+    "code": "л",
+    "hex": "#19304d",
+    "group": "Синие",
+    "marker": "617"
+   },
+   {
+    "code": "ц",
+    "hex": "#1b4561",
+    "group": "Синие",
+    "marker": "650"
+   },
+   {
+    "code": "ш",
+    "hex": "#a5ddec",
+    "group": "Бирюзовые",
+    "marker": "628"
+   },
+   {
+    "code": "щ",
+    "hex": "#6f8497",
+    "group": "Синие",
+    "marker": "633"
+   }
+  ],
+  "26": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#3a3d40",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#5d6062",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#7c7f84",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "5",
+    "hex": "#bbb8b4",
+    "group": "Серые",
+    "marker": "801"
+   },
+   {
+    "code": "6",
+    "hex": "#6c2128",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "7",
+    "hex": "#c2413f",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "8",
+    "hex": "#594f28",
+    "group": "Жёлтые",
+    "marker": "816"
+   },
+   {
+    "code": "9",
+    "hex": "#846f35",
+    "group": "Коричневые",
+    "marker": "817"
+   },
+   {
+    "code": "0",
+    "hex": "#c8a74d",
+    "group": "Оранжевые",
+    "marker": "813"
+   },
+   {
+    "code": "a",
+    "hex": "#dd8351",
+    "group": "Оранжевые",
+    "marker": "649"
+   },
+   {
+    "code": "b",
+    "hex": "#fdc688",
+    "group": "Оранжевые",
+    "marker": "683"
+   },
+   {
+    "code": "c",
+    "hex": "#dadf4f",
+    "group": "Жёлтые",
+    "marker": "615"
+   },
+   {
+    "code": "d",
+    "hex": "#16193a",
+    "group": "Чёрные",
+    "marker": "763"
+   },
+   {
+    "code": "e",
+    "hex": "#212c50",
+    "group": "Синие",
+    "marker": "BL-267"
+   },
+   {
+    "code": "n",
+    "hex": "#2e375f",
+    "group": "Синие",
+    "marker": "746"
+   },
+   {
+    "code": "p",
+    "hex": "#0a1b33",
+    "group": "Чёрные",
+    "marker": "688"
+   },
+   {
+    "code": "q",
+    "hex": "#192f4d",
+    "group": "Синие",
+    "marker": "617"
+   },
+   {
+    "code": "r",
+    "hex": "#425b8c",
+    "group": "Синие",
+    "marker": "749"
+   },
+   {
+    "code": "s",
+    "hex": "#5673a1",
+    "group": "Синие",
+    "marker": "689"
+   },
+   {
+    "code": "t",
+    "hex": "#3f9ad5",
+    "group": "Синие",
+    "marker": "822"
+   },
+   {
+    "code": "u",
+    "hex": "#71d0f6",
+    "group": "Бирюзовые",
+    "marker": "821"
+   }
+  ],
+  "27": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#2a2d31",
+    "group": "Чёрные",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#47494c",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#858a8c",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "5",
+    "hex": "#ced3d3",
+    "group": "Серые",
+    "marker": "801"
+   },
+   {
+    "code": "6",
+    "hex": "#391720",
+    "group": "Чёрные",
+    "marker": "779"
+   },
+   {
+    "code": "7",
+    "hex": "#5e1a22",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "8",
+    "hex": "#2d241f",
+    "group": "Чёрные",
+    "marker": "DS-189"
+   },
+   {
+    "code": "9",
+    "hex": "#344438",
+    "group": "Зелёные",
+    "marker": "GR-109"
+   },
+   {
+    "code": "0",
+    "hex": "#547056",
+    "group": "Зелёные",
+    "marker": "GR-103"
+   },
+   {
+    "code": "a",
+    "hex": "#81a87b",
+    "group": "Зелёные",
+    "marker": "GR-102"
+   },
+   {
+    "code": "b",
+    "hex": "#94c48f",
+    "group": "Зелёные",
+    "marker": "LC-192"
+   },
+   {
+    "code": "c",
+    "hex": "#355979",
+    "group": "Синие",
+    "marker": "749"
+   },
+   {
+    "code": "d",
+    "hex": "#456c97",
+    "group": "Синие",
+    "marker": "689"
+   },
+   {
+    "code": "e",
+    "hex": "#558bc0",
+    "group": "Синие",
+    "marker": "821"
+   },
+   {
+    "code": "n",
+    "hex": "#1c1a3b",
+    "group": "Синие",
+    "marker": "678"
+   },
+   {
+    "code": "p",
+    "hex": "#3a2b5b",
+    "group": "Фиолетовые",
+    "marker": "743"
+   },
+   {
+    "code": "q",
+    "hex": "#4c3474",
+    "group": "Фиолетовые",
+    "marker": "778"
+   },
+   {
+    "code": "r",
+    "hex": "#403c87",
+    "group": "Синие",
+    "marker": "607"
+   },
+   {
+    "code": "s",
+    "hex": "#754495",
+    "group": "Фиолетовые",
+    "marker": "833"
+   },
+   {
+    "code": "t",
+    "hex": "#392248",
+    "group": "Фиолетовые",
+    "marker": "808"
+   },
+   {
+    "code": "u",
+    "hex": "#a666aa",
+    "group": "Розовые",
+    "marker": "606"
+   },
+   {
+    "code": "v",
+    "hex": "#a681b4",
+    "group": "Фиолетовые",
+    "marker": "658"
+   },
+   {
+    "code": "x",
+    "hex": "#34182e",
+    "group": "Чёрные",
+    "marker": "705"
+   },
+   {
+    "code": "y",
+    "hex": "#58193c",
+    "group": "Розовые",
+    "marker": "671"
+   },
+   {
+    "code": "z",
+    "hex": "#5a3d59",
+    "group": "Розовые",
+    "marker": "675"
+   },
+   {
+    "code": "в",
+    "hex": "#923457",
+    "group": "Розовые",
+    "marker": "713"
+   },
+   {
+    "code": "к",
+    "hex": "#dd6a97",
+    "group": "Розовые",
+    "marker": "761"
+   }
+  ],
+  "28": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#29313a",
+    "group": "Синие",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#707375",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#a5aaac",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "5",
+    "hex": "#c5cacb",
+    "group": "Серые",
+    "marker": "801"
+   },
+   {
+    "code": "6",
+    "hex": "#391b1e",
+    "group": "Красные",
+    "marker": "780"
+   },
+   {
+    "code": "7",
+    "hex": "#4e2520",
+    "group": "Красные",
+    "marker": "672"
+   },
+   {
+    "code": "8",
+    "hex": "#6c2128",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "9",
+    "hex": "#c2413f",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "0",
+    "hex": "#f15e57",
+    "group": "Красные",
+    "marker": "RY-06"
+   },
+   {
+    "code": "a",
+    "hex": "#382822",
+    "group": "Коричневые",
+    "marker": "DS-188"
+   },
+   {
+    "code": "b",
+    "hex": "#5c3d2b",
+    "group": "Коричневые",
+    "marker": "DS-187"
+   },
+   {
+    "code": "c",
+    "hex": "#73554d",
+    "group": "Красные",
+    "marker": "756"
+   },
+   {
+    "code": "d",
+    "hex": "#8e7264",
+    "group": "Коричневые",
+    "marker": "AG-178"
+   },
+   {
+    "code": "e",
+    "hex": "#bb8977",
+    "group": "Красные",
+    "marker": "654"
+   },
+   {
+    "code": "n",
+    "hex": "#eab198",
+    "group": "Телесные",
+    "marker": "724"
+   },
+   {
+    "code": "p",
+    "hex": "#594f28",
+    "group": "Жёлтые",
+    "marker": "816"
+   },
+   {
+    "code": "q",
+    "hex": "#c8a74d",
+    "group": "Оранжевые",
+    "marker": "815"
+   },
+   {
+    "code": "r",
+    "hex": "#ffd361",
+    "group": "Оранжевые",
+    "marker": "656"
+   },
+   {
+    "code": "s",
+    "hex": "#39533c",
+    "group": "Зелёные",
+    "marker": "792"
+   },
+   {
+    "code": "t",
+    "hex": "#0a1b33",
+    "group": "Чёрные",
+    "marker": "BL-267"
+   },
+   {
+    "code": "u",
+    "hex": "#192f4d",
+    "group": "Синие",
+    "marker": "617"
+   },
+   {
+    "code": "v",
+    "hex": "#2b4457",
+    "group": "Синие",
+    "marker": "747"
+   },
+   {
+    "code": "x",
+    "hex": "#375167",
+    "group": "Синие",
+    "marker": "750"
+   },
+   {
+    "code": "y",
+    "hex": "#5673a1",
+    "group": "Синие",
+    "marker": "745"
+   },
+   {
+    "code": "z",
+    "hex": "#3f9ad5",
+    "group": "Синие",
+    "marker": "822"
+   },
+   {
+    "code": "в",
+    "hex": "#71d0f6",
+    "group": "Бирюзовые",
+    "marker": "821"
+   }
+  ],
+  "29": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#868b8e",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "3",
+    "hex": "#ced3d3",
+    "group": "Серые",
+    "marker": "801"
+   },
+   {
+    "code": "4",
+    "hex": "#272124",
+    "group": "Чёрные",
+    "marker": "DS-189"
+   },
+   {
+    "code": "5",
+    "hex": "#40312e",
+    "group": "Красные",
+    "marker": "DS-188"
+   },
+   {
+    "code": "6",
+    "hex": "#614427",
+    "group": "Коричневые",
+    "marker": "757"
+   },
+   {
+    "code": "7",
+    "hex": "#081931",
+    "group": "Чёрные",
+    "marker": "688"
+   },
+   {
+    "code": "8",
+    "hex": "#162d47",
+    "group": "Синие",
+    "marker": "774"
+   },
+   {
+    "code": "9",
+    "hex": "#3c538d",
+    "group": "Синие",
+    "marker": "651"
+   },
+   {
+    "code": "0",
+    "hex": "#5067a7",
+    "group": "Синие",
+    "marker": "629"
+   },
+   {
+    "code": "a",
+    "hex": "#3f4157",
+    "group": "Синие",
+    "marker": "827"
+   },
+   {
+    "code": "b",
+    "hex": "#6b698c",
+    "group": "Синие",
+    "marker": "826"
+   },
+   {
+    "code": "c",
+    "hex": "#9a97b2",
+    "group": "Синие",
+    "marker": "825"
+   },
+   {
+    "code": "d",
+    "hex": "#344438",
+    "group": "Зелёные",
+    "marker": "GR-109"
+   },
+   {
+    "code": "e",
+    "hex": "#547056",
+    "group": "Зелёные",
+    "marker": "GR-103"
+   },
+   {
+    "code": "n",
+    "hex": "#81a87b",
+    "group": "Зелёные",
+    "marker": "GR-102"
+   },
+   {
+    "code": "p",
+    "hex": "#94c48f",
+    "group": "Зелёные",
+    "marker": "LC-192"
+   },
+   {
+    "code": "q",
+    "hex": "#392248",
+    "group": "Фиолетовые",
+    "marker": "675"
+   },
+   {
+    "code": "r",
+    "hex": "#5a3d59",
+    "group": "Розовые",
+    "marker": "739"
+   },
+   {
+    "code": "s",
+    "hex": "#a681b4",
+    "group": "Фиолетовые",
+    "marker": "658"
+   },
+   {
+    "code": "t",
+    "hex": "#34182e",
+    "group": "Чёрные",
+    "marker": "705"
+   },
+   {
+    "code": "u",
+    "hex": "#58193c",
+    "group": "Розовые",
+    "marker": "671"
+   },
+   {
+    "code": "v",
+    "hex": "#b43865",
+    "group": "Розовые",
+    "marker": "713"
+   },
+   {
+    "code": "x",
+    "hex": "#6c5ea4",
+    "group": "Синие",
+    "marker": "623"
+   }
+  ],
+  "3": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#2e3235",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#575a5d",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#999fa1",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "5",
+    "hex": "#ced3d3",
+    "group": "Серые",
+    "marker": "803"
+   },
+   {
+    "code": "6",
+    "hex": "#572824",
+    "group": "Красные",
+    "marker": "DS-184"
+   },
+   {
+    "code": "7",
+    "hex": "#69262c",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "8",
+    "hex": "#824236",
+    "group": "Красные",
+    "marker": "DS-185"
+   },
+   {
+    "code": "9",
+    "hex": "#764e43",
+    "group": "Красные",
+    "marker": "CS-149"
+   },
+   {
+    "code": "0",
+    "hex": "#d44f44",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "a",
+    "hex": "#f37c75",
+    "group": "Красные",
+    "marker": "691"
+   },
+   {
+    "code": "b",
+    "hex": "#372a26",
+    "group": "Красные",
+    "marker": "DS-189"
+   },
+   {
+    "code": "c",
+    "hex": "#7b573f",
+    "group": "Коричневые",
+    "marker": "DS-187"
+   },
+   {
+    "code": "d",
+    "hex": "#896a2b",
+    "group": "Коричневые",
+    "marker": "816"
+   },
+   {
+    "code": "e",
+    "hex": "#b28738",
+    "group": "Оранжевые",
+    "marker": "817"
+   },
+   {
+    "code": "n",
+    "hex": "#b28c5b",
+    "group": "Коричневые",
+    "marker": "DS-181"
+   },
+   {
+    "code": "p",
+    "hex": "#bb8875",
+    "group": "Коричневые",
+    "marker": "CS-145"
+   },
+   {
+    "code": "q",
+    "hex": "#ecad47",
+    "group": "Оранжевые",
+    "marker": "813"
+   },
+   {
+    "code": "r",
+    "hex": "#eab39b",
+    "group": "Телесные",
+    "marker": "CS-504"
+   },
+   {
+    "code": "s",
+    "hex": "#ebce90",
+    "group": "Телесные",
+    "marker": "683"
+   },
+   {
+    "code": "t",
+    "hex": "#fdbb56",
+    "group": "Оранжевые",
+    "marker": "656"
+   },
+   {
+    "code": "u",
+    "hex": "#99ac6d",
+    "group": "Зелёные",
+    "marker": "682"
+   },
+   {
+    "code": "v",
+    "hex": "#c8df89",
+    "group": "Зелёные",
+    "marker": "727"
+   },
+   {
+    "code": "x",
+    "hex": "#606f4b",
+    "group": "Зелёные",
+    "marker": "697"
+   },
+   {
+    "code": "y",
+    "hex": "#203355",
+    "group": "Синие",
+    "marker": "BL-267"
+   },
+   {
+    "code": "z",
+    "hex": "#305788",
+    "group": "Синие",
+    "marker": "617"
+   },
+   {
+    "code": "в",
+    "hex": "#4b6a89",
+    "group": "Синие",
+    "marker": "747"
+   },
+   {
+    "code": "к",
+    "hex": "#5f99c1",
+    "group": "Синие",
+    "marker": "689"
+   },
+   {
+    "code": "л",
+    "hex": "#4ba0cb",
+    "group": "Синие",
+    "marker": "822"
+   },
+   {
+    "code": "ц",
+    "hex": "#8bb6d5",
+    "group": "Синие",
+    "marker": "768"
+   },
+   {
+    "code": "ш",
+    "hex": "#8accf0",
+    "group": "Синие",
+    "marker": "821"
+   },
+   {
+    "code": "щ",
+    "hex": "#b1d3ec",
+    "group": "Синие",
+    "marker": "LC-193"
+   }
+  ],
+  "4": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#2e3235",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#575a5d",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#999fa1",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "5",
+    "hex": "#ced3d3",
+    "group": "Серые",
+    "marker": "803"
+   },
+   {
+    "code": "6",
+    "hex": "#572824",
+    "group": "Красные",
+    "marker": "DS-184"
+   },
+   {
+    "code": "7",
+    "hex": "#69262c",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "8",
+    "hex": "#824236",
+    "group": "Красные",
+    "marker": "DS-185"
+   },
+   {
+    "code": "9",
+    "hex": "#764e43",
+    "group": "Красные",
+    "marker": "CS-149"
+   },
+   {
+    "code": "0",
+    "hex": "#d44f44",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "a",
+    "hex": "#f37c75",
+    "group": "Красные",
+    "marker": "691"
+   },
+   {
+    "code": "b",
+    "hex": "#372a26",
+    "group": "Красные",
+    "marker": "DS-189"
+   },
+   {
+    "code": "c",
+    "hex": "#7b573f",
+    "group": "Коричневые",
+    "marker": "DS-187"
+   },
+   {
+    "code": "d",
+    "hex": "#896a2b",
+    "group": "Коричневые",
+    "marker": "816"
+   },
+   {
+    "code": "e",
+    "hex": "#b28738",
+    "group": "Оранжевые",
+    "marker": "817"
+   },
+   {
+    "code": "n",
+    "hex": "#b28c5b",
+    "group": "Коричневые",
+    "marker": "DS-181"
+   },
+   {
+    "code": "p",
+    "hex": "#bb8875",
+    "group": "Коричневые",
+    "marker": "CS-145"
+   },
+   {
+    "code": "q",
+    "hex": "#ecad47",
+    "group": "Оранжевые",
+    "marker": "813"
+   },
+   {
+    "code": "r",
+    "hex": "#eab39b",
+    "group": "Телесные",
+    "marker": "CS-504"
+   },
+   {
+    "code": "s",
+    "hex": "#ebce90",
+    "group": "Телесные",
+    "marker": "683"
+   },
+   {
+    "code": "t",
+    "hex": "#fdbb56",
+    "group": "Оранжевые",
+    "marker": "656"
+   },
+   {
+    "code": "u",
+    "hex": "#99ac6d",
+    "group": "Зелёные",
+    "marker": "682"
+   },
+   {
+    "code": "v",
+    "hex": "#c8df89",
+    "group": "Зелёные",
+    "marker": "727"
+   },
+   {
+    "code": "x",
+    "hex": "#606f4b",
+    "group": "Зелёные",
+    "marker": "697"
+   },
+   {
+    "code": "y",
+    "hex": "#203355",
+    "group": "Синие",
+    "marker": "BL-267"
+   },
+   {
+    "code": "z",
+    "hex": "#305788",
+    "group": "Синие",
+    "marker": "617"
+   },
+   {
+    "code": "в",
+    "hex": "#4b6a89",
+    "group": "Синие",
+    "marker": "747"
+   },
+   {
+    "code": "к",
+    "hex": "#5f99c1",
+    "group": "Синие",
+    "marker": "689"
+   },
+   {
+    "code": "л",
+    "hex": "#4ba0cb",
+    "group": "Синие",
+    "marker": "822"
+   },
+   {
+    "code": "ц",
+    "hex": "#8bb6d5",
+    "group": "Синие",
+    "marker": "768"
+   },
+   {
+    "code": "ш",
+    "hex": "#8accf0",
+    "group": "Синие",
+    "marker": "821"
+   },
+   {
+    "code": "щ",
+    "hex": "#b1d3ec",
+    "group": "Синие",
+    "marker": "LC-193"
+   }
+  ],
+  "30": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#5d455a",
+    "group": "Розовые",
+    "marker": "PC-809"
+   },
+   {
+    "code": "3",
+    "hex": "#c16d76",
+    "group": "Красные",
+    "marker": "PC-807"
+   },
+   {
+    "code": "4",
+    "hex": "#e38583",
+    "group": "Красные",
+    "marker": "691"
+   },
+   {
+    "code": "5",
+    "hex": "#f4aba1",
+    "group": "Красные",
+    "marker": "704"
+   },
+   {
+    "code": "6",
+    "hex": "#f8bdd7",
+    "group": "Розовые",
+    "marker": "723"
+   },
+   {
+    "code": "7",
+    "hex": "#39312d",
+    "group": "Коричневые",
+    "marker": "DS-187"
+   },
+   {
+    "code": "8",
+    "hex": "#6f5742",
+    "group": "Коричневые",
+    "marker": "639"
+   },
+   {
+    "code": "9",
+    "hex": "#ac8561",
+    "group": "Коричневые",
+    "marker": "644"
+   },
+   {
+    "code": "0",
+    "hex": "#182133",
+    "group": "Чёрные",
+    "marker": "806"
+   },
+   {
+    "code": "a",
+    "hex": "#242d40",
+    "group": "Синие",
+    "marker": "693"
+   },
+   {
+    "code": "b",
+    "hex": "#454c64",
+    "group": "Синие",
+    "marker": "747"
+   },
+   {
+    "code": "c",
+    "hex": "#4a4a61",
+    "group": "Синие",
+    "marker": "827"
+   },
+   {
+    "code": "d",
+    "hex": "#767298",
+    "group": "Синие",
+    "marker": "826"
+   },
+   {
+    "code": "e",
+    "hex": "#a79bcb",
+    "group": "Синие",
+    "marker": "825"
+   },
+   {
+    "code": "n",
+    "hex": "#161438",
+    "group": "Чёрные",
+    "marker": "764"
+   },
+   {
+    "code": "p",
+    "hex": "#2f2b5e",
+    "group": "Синие",
+    "marker": "678"
+   }
+  ],
+  "31": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#1e2227",
+    "group": "Чёрные",
+    "marker": "807"
+   },
+   {
+    "code": "3",
+    "hex": "#3d4042",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "4",
+    "hex": "#686c6e",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "5",
+    "hex": "#92989a",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "6",
+    "hex": "#243226",
+    "group": "Зелёные",
+    "marker": "791"
+   },
+   {
+    "code": "7",
+    "hex": "#54763c",
+    "group": "Зелёные",
+    "marker": "682"
+   },
+   {
+    "code": "8",
+    "hex": "#241e40",
+    "group": "Синие",
+    "marker": "678"
+   },
+   {
+    "code": "9",
+    "hex": "#44376a",
+    "group": "Фиолетовые",
+    "marker": "743"
+   },
+   {
+    "code": "0",
+    "hex": "#7060aa",
+    "group": "Синие",
+    "marker": "623"
+   }
+  ],
+  "32": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#2c2f33",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#494d4f",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#a9afa7",
+    "group": "Серые",
+    "marker": "853"
+   },
+   {
+    "code": "5",
+    "hex": "#adb6ba",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "6",
+    "hex": "#dadfe0",
+    "group": "Серые",
+    "marker": "801"
+   },
+   {
+    "code": "7",
+    "hex": "#30241f",
+    "group": "Чёрные",
+    "marker": "DS-188"
+   },
+   {
+    "code": "8",
+    "hex": "#483325",
+    "group": "Коричневые",
+    "marker": "DS-187"
+   },
+   {
+    "code": "9",
+    "hex": "#42332c",
+    "group": "Коричневые",
+    "marker": "620"
+   },
+   {
+    "code": "0",
+    "hex": "#504a40",
+    "group": "Серые",
+    "marker": "BR-706"
+   },
+   {
+    "code": "a",
+    "hex": "#696056",
+    "group": "Серые",
+    "marker": "BR-703"
+   },
+   {
+    "code": "b",
+    "hex": "#896a2b",
+    "group": "Коричневые",
+    "marker": "816"
+   },
+   {
+    "code": "c",
+    "hex": "#b1795d",
+    "group": "Коричневые",
+    "marker": "755"
+   },
+   {
+    "code": "d",
+    "hex": "#f2b181",
+    "group": "Оранжевые",
+    "marker": "654"
+   },
+   {
+    "code": "e",
+    "hex": "#607b9a",
+    "group": "Синие",
+    "marker": "747"
+   }
+  ],
+  "33": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#5b1a22",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "3",
+    "hex": "#d03d38",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "4",
+    "hex": "#da5f5a",
+    "group": "Красные",
+    "marker": "710"
+   },
+   {
+    "code": "5",
+    "hex": "#f4826f",
+    "group": "Красные",
+    "marker": "677"
+   },
+   {
+    "code": "6",
+    "hex": "#ab4c33",
+    "group": "Красные",
+    "marker": "785"
+   },
+   {
+    "code": "7",
+    "hex": "#f47e4d",
+    "group": "Оранжевые",
+    "marker": "604"
+   },
+   {
+    "code": "8",
+    "hex": "#4a382e",
+    "group": "Коричневые",
+    "marker": "708"
+   },
+   {
+    "code": "9",
+    "hex": "#9a8067",
+    "group": "Коричневые",
+    "marker": "758"
+   },
+   {
+    "code": "0",
+    "hex": "#dca987",
+    "group": "Оранжевые",
+    "marker": "654"
+   },
+   {
+    "code": "a",
+    "hex": "#324329",
+    "group": "Зелёные",
+    "marker": "676"
+   },
+   {
+    "code": "b",
+    "hex": "#6d9245",
+    "group": "Зелёные",
+    "marker": "665"
+   },
+   {
+    "code": "c",
+    "hex": "#2d3546",
+    "group": "Синие",
+    "marker": "806"
+   },
+   {
+    "code": "d",
+    "hex": "#3b465b",
+    "group": "Синие",
+    "marker": "693"
+   },
+   {
+    "code": "e",
+    "hex": "#5e7594",
+    "group": "Синие",
+    "marker": "750"
+   }
+  ],
+  "34": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#2c2f33",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#494d4f",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#adb6ba",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "5",
+    "hex": "#5b1a22",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "6",
+    "hex": "#d03d38",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "7",
+    "hex": "#45392d",
+    "group": "Коричневые",
+    "marker": "643"
+   },
+   {
+    "code": "8",
+    "hex": "#8c7359",
+    "group": "Коричневые",
+    "marker": "757"
+   },
+   {
+    "code": "9",
+    "hex": "#c3af8c",
+    "group": "Оранжевые",
+    "marker": "731"
+   },
+   {
+    "code": "0",
+    "hex": "#b1795d",
+    "group": "Коричневые",
+    "marker": "644"
+   },
+   {
+    "code": "a",
+    "hex": "#fdc892",
+    "group": "Оранжевые",
+    "marker": "717"
+   },
+   {
+    "code": "b",
+    "hex": "#ffe3b7",
+    "group": "Оранжевые",
+    "marker": "720"
+   },
+   {
+    "code": "c",
+    "hex": "#2d3546",
+    "group": "Синие",
+    "marker": "806"
+   },
+   {
+    "code": "d",
+    "hex": "#3b465b",
+    "group": "Синие",
+    "marker": "693"
+   },
+   {
+    "code": "e",
+    "hex": "#48607f",
+    "group": "Синие",
+    "marker": "747"
+   },
+   {
+    "code": "n",
+    "hex": "#607b9a",
+    "group": "Синие",
+    "marker": "750"
+   },
+   {
+    "code": "p",
+    "hex": "#5387a8",
+    "group": "Синие",
+    "marker": "823"
+   },
+   {
+    "code": "q",
+    "hex": "#74afd9",
+    "group": "Синие",
+    "marker": "681"
+   }
+  ],
+  "35": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#6a6e70",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "3",
+    "hex": "#6e282c",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "4",
+    "hex": "#c9473b",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "5",
+    "hex": "#f28c87",
+    "group": "Красные",
+    "marker": "691"
+   },
+   {
+    "code": "6",
+    "hex": "#4d3225",
+    "group": "Коричневые",
+    "marker": "DS-186"
+   },
+   {
+    "code": "7",
+    "hex": "#77542d",
+    "group": "Коричневые",
+    "marker": "DS-182"
+   },
+   {
+    "code": "8",
+    "hex": "#a4733a",
+    "group": "Коричневые",
+    "marker": "618"
+   },
+   {
+    "code": "9",
+    "hex": "#e8a15a",
+    "group": "Оранжевые",
+    "marker": "802"
+   },
+   {
+    "code": "0",
+    "hex": "#4b3c35",
+    "group": "Коричневые",
+    "marker": "708"
+   },
+   {
+    "code": "a",
+    "hex": "#67473f",
+    "group": "Красные",
+    "marker": "620"
+   },
+   {
+    "code": "b",
+    "hex": "#986954",
+    "group": "Коричневые",
+    "marker": "AG-178"
+   },
+   {
+    "code": "c",
+    "hex": "#dc9771",
+    "group": "Оранжевые",
+    "marker": "755"
+   },
+   {
+    "code": "d",
+    "hex": "#ffe1ab",
+    "group": "Оранжевые",
+    "marker": "683"
+   },
+   {
+    "code": "e",
+    "hex": "#213659",
+    "group": "Синие",
+    "marker": "BL-267"
+   },
+   {
+    "code": "n",
+    "hex": "#275387",
+    "group": "Синие",
+    "marker": "617"
+   },
+   {
+    "code": "p",
+    "hex": "#57b3d7",
+    "group": "Бирюзовые",
+    "marker": "822"
+   },
+   {
+    "code": "q",
+    "hex": "#88d4e8",
+    "group": "Бирюзовые",
+    "marker": "821"
+   },
+   {
+    "code": "r",
+    "hex": "#403a57",
+    "group": "Синие",
+    "marker": "742"
+   },
+   {
+    "code": "s",
+    "hex": "#675c88",
+    "group": "Синие",
+    "marker": "699"
+   },
+   {
+    "code": "t",
+    "hex": "#7d70aa",
+    "group": "Синие",
+    "marker": "698"
+   }
+  ],
+  "36": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#6a5655",
+    "group": "Серые",
+    "marker": "AG-178"
+   },
+   {
+    "code": "3",
+    "hex": "#9b8d8b",
+    "group": "Серые",
+    "marker": "AG-177"
+   },
+   {
+    "code": "4",
+    "hex": "#391b1e",
+    "group": "Красные",
+    "marker": "780"
+   },
+   {
+    "code": "5",
+    "hex": "#4e2520",
+    "group": "Красные",
+    "marker": "672"
+   },
+   {
+    "code": "6",
+    "hex": "#975e56",
+    "group": "Красные",
+    "marker": "CS-149"
+   },
+   {
+    "code": "7",
+    "hex": "#e19982",
+    "group": "Красные",
+    "marker": "CS-145"
+   },
+   {
+    "code": "8",
+    "hex": "#de8a76",
+    "group": "Красные",
+    "marker": "CS-147"
+   },
+   {
+    "code": "9",
+    "hex": "#f4af96",
+    "group": "Оранжевые",
+    "marker": "CS-504"
+   },
+   {
+    "code": "0",
+    "hex": "#fcccbb",
+    "group": "Оранжевые",
+    "marker": "CS-505"
+   },
+   {
+    "code": "a",
+    "hex": "#382822",
+    "group": "Коричневые",
+    "marker": "DS-188"
+   },
+   {
+    "code": "b",
+    "hex": "#573f30",
+    "group": "Коричневые",
+    "marker": "DS-187"
+   },
+   {
+    "code": "c",
+    "hex": "#9d765d",
+    "group": "Коричневые",
+    "marker": "639"
+   },
+   {
+    "code": "d",
+    "hex": "#d88e5d",
+    "group": "Оранжевые",
+    "marker": "702"
+   },
+   {
+    "code": "e",
+    "hex": "#e8a57b",
+    "group": "Оранжевые",
+    "marker": "701"
+   },
+   {
+    "code": "n",
+    "hex": "#f9a268",
+    "group": "Оранжевые",
+    "marker": "649"
+   },
+   {
+    "code": "p",
+    "hex": "#fcbe85",
+    "group": "Оранжевые",
+    "marker": "684"
+   },
+   {
+    "code": "q",
+    "hex": "#e5c5ad",
+    "group": "Телесные",
+    "marker": "CS-142"
+   },
+   {
+    "code": "r",
+    "hex": "#f3ded8",
+    "group": "Красные",
+    "marker": "CS-141"
+   },
+   {
+    "code": "s",
+    "hex": "#fff9c4",
+    "group": "Жёлтые",
+    "marker": "732"
+   },
+   {
+    "code": "t",
+    "hex": "#37382a",
+    "group": "Жёлтые",
+    "marker": "790"
+   },
+   {
+    "code": "u",
+    "hex": "#515135",
+    "group": "Жёлтые",
+    "marker": "793"
+   },
+   {
+    "code": "v",
+    "hex": "#7e8157",
+    "group": "Жёлтые",
+    "marker": "640"
+   },
+   {
+    "code": "x",
+    "hex": "#47437b",
+    "group": "Синие",
+    "marker": "742"
+   },
+   {
+    "code": "y",
+    "hex": "#6e6899",
+    "group": "Синие",
+    "marker": "699"
+   },
+   {
+    "code": "z",
+    "hex": "#8d87b5",
+    "group": "Синие",
+    "marker": "698"
+   },
+   {
+    "code": "в",
+    "hex": "#2e2431",
+    "group": "Фиолетовые",
+    "marker": "808"
+   },
+   {
+    "code": "к",
+    "hex": "#513145",
+    "group": "Розовые",
+    "marker": "705"
+   }
+  ],
+  "37": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#8e988e",
+    "group": "Серые",
+    "marker": "AG-174"
+   },
+   {
+    "code": "3",
+    "hex": "#ccccc4",
+    "group": "Серые",
+    "marker": "801"
+   },
+   {
+    "code": "4",
+    "hex": "#381821",
+    "group": "Чёрные",
+    "marker": "779"
+   },
+   {
+    "code": "5",
+    "hex": "#5b1a22",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "6",
+    "hex": "#d77775",
+    "group": "Красные",
+    "marker": "691"
+   },
+   {
+    "code": "7",
+    "hex": "#5b2520",
+    "group": "Красные",
+    "marker": "780"
+   },
+   {
+    "code": "8",
+    "hex": "#9b543f",
+    "group": "Красные",
+    "marker": "672"
+   },
+   {
+    "code": "9",
+    "hex": "#703529",
+    "group": "Красные",
+    "marker": "DS-184"
+   },
+   {
+    "code": "0",
+    "hex": "#945836",
+    "group": "Коричневые",
+    "marker": "DS-185"
+   },
+   {
+    "code": "a",
+    "hex": "#e39d60",
+    "group": "Оранжевые",
+    "marker": "618"
+   },
+   {
+    "code": "b",
+    "hex": "#696056",
+    "group": "Серые",
+    "marker": "BR-708"
+   },
+   {
+    "code": "c",
+    "hex": "#9a8067",
+    "group": "Коричневые",
+    "marker": "BR-706"
+   },
+   {
+    "code": "d",
+    "hex": "#8a5c37",
+    "group": "Коричневые",
+    "marker": "644"
+   },
+   {
+    "code": "e",
+    "hex": "#e2a775",
+    "group": "Оранжевые",
+    "marker": "717"
+   },
+   {
+    "code": "n",
+    "hex": "#fdc892",
+    "group": "Оранжевые",
+    "marker": "720"
+   },
+   {
+    "code": "p",
+    "hex": "#ffe3b7",
+    "group": "Оранжевые",
+    "marker": "LC-198"
+   },
+   {
+    "code": "q",
+    "hex": "#99574f",
+    "group": "Красные",
+    "marker": "LC-119"
+   },
+   {
+    "code": "r",
+    "hex": "#dd7e6b",
+    "group": "Красные",
+    "marker": "LC-117"
+   },
+   {
+    "code": "s",
+    "hex": "#ceb789",
+    "group": "Оранжевые",
+    "marker": "731"
+   },
+   {
+    "code": "t",
+    "hex": "#598140",
+    "group": "Зелёные",
+    "marker": "665"
+   },
+   {
+    "code": "u",
+    "hex": "#8bd3dd",
+    "group": "Бирюзовые",
+    "marker": "628"
+   }
+  ],
+  "38": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#2c2f33",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#494d4f",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#92a3a1",
+    "group": "Серые",
+    "marker": "610"
+   },
+   {
+    "code": "5",
+    "hex": "#b8b7b2",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "6",
+    "hex": "#ccccc4",
+    "group": "Серые",
+    "marker": "801"
+   },
+   {
+    "code": "7",
+    "hex": "#491f25",
+    "group": "Красные",
+    "marker": "780"
+   },
+   {
+    "code": "8",
+    "hex": "#823f4e",
+    "group": "Красные",
+    "marker": "PC-807"
+   },
+   {
+    "code": "9",
+    "hex": "#d5838b",
+    "group": "Красные",
+    "marker": "PC-803"
+   },
+   {
+    "code": "0",
+    "hex": "#30241f",
+    "group": "Чёрные",
+    "marker": "DS-189"
+   },
+   {
+    "code": "a",
+    "hex": "#352c26",
+    "group": "Коричневые",
+    "marker": "BR-709"
+   },
+   {
+    "code": "b",
+    "hex": "#45392d",
+    "group": "Коричневые",
+    "marker": "BR-708"
+   },
+   {
+    "code": "c",
+    "hex": "#504a40",
+    "group": "Серые",
+    "marker": "BR-706"
+   },
+   {
+    "code": "d",
+    "hex": "#4d2e23",
+    "group": "Красные",
+    "marker": "DS-188"
+   },
+   {
+    "code": "e",
+    "hex": "#6b4531",
+    "group": "Коричневые",
+    "marker": "DS-187"
+   },
+   {
+    "code": "n",
+    "hex": "#7d5441",
+    "group": "Коричневые",
+    "marker": "639"
+   },
+   {
+    "code": "p",
+    "hex": "#a87d57",
+    "group": "Коричневые",
+    "marker": "644"
+   },
+   {
+    "code": "q",
+    "hex": "#696056",
+    "group": "Серые",
+    "marker": "759"
+   },
+   {
+    "code": "r",
+    "hex": "#a18577",
+    "group": "Коричневые",
+    "marker": "753"
+   },
+   {
+    "code": "s",
+    "hex": "#e17744",
+    "group": "Оранжевые",
+    "marker": "725"
+   },
+   {
+    "code": "t",
+    "hex": "#ffdd47",
+    "group": "Жёлтые",
+    "marker": "615"
+   },
+   {
+    "code": "u",
+    "hex": "#8d8a3b",
+    "group": "Жёлтые",
+    "marker": "788"
+   },
+   {
+    "code": "v",
+    "hex": "#598140",
+    "group": "Зелёные",
+    "marker": "634"
+   },
+   {
+    "code": "x",
+    "hex": "#72ac4d",
+    "group": "Зелёные",
+    "marker": "687"
+   },
+   {
+    "code": "y",
+    "hex": "#bfd95d",
+    "group": "Зелёные",
+    "marker": "648"
+   },
+   {
+    "code": "z",
+    "hex": "#2b505a",
+    "group": "Бирюзовые",
+    "marker": "774"
+   },
+   {
+    "code": "в",
+    "hex": "#577f87",
+    "group": "Бирюзовые",
+    "marker": "767"
+   }
+  ],
+  "39": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#2c2f33",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#494d4f",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#a9afa7",
+    "group": "Серые",
+    "marker": "610"
+   },
+   {
+    "code": "5",
+    "hex": "#d2d3c2",
+    "group": "Жёлтые",
+    "marker": "801"
+   },
+   {
+    "code": "6",
+    "hex": "#802e39",
+    "group": "Красные",
+    "marker": "PC-809"
+   },
+   {
+    "code": "7",
+    "hex": "#da5f5a",
+    "group": "Красные",
+    "marker": "605"
+   },
+   {
+    "code": "8",
+    "hex": "#d5838b",
+    "group": "Красные",
+    "marker": "772"
+   },
+   {
+    "code": "9",
+    "hex": "#5b1a22",
+    "group": "Красные",
+    "marker": "780"
+   },
+   {
+    "code": "0",
+    "hex": "#d03d38",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "a",
+    "hex": "#df663e",
+    "group": "Красные",
+    "marker": "631"
+   },
+   {
+    "code": "b",
+    "hex": "#fdbb57",
+    "group": "Оранжевые",
+    "marker": "656"
+   },
+   {
+    "code": "c",
+    "hex": "#fff45c",
+    "group": "Жёлтые",
+    "marker": "777"
+   },
+   {
+    "code": "d",
+    "hex": "#ffd392",
+    "group": "Оранжевые",
+    "marker": "683"
+   },
+   {
+    "code": "e",
+    "hex": "#f8f395",
+    "group": "Жёлтые",
+    "marker": "732"
+   },
+   {
+    "code": "n",
+    "hex": "#4d2e23",
+    "group": "Красные",
+    "marker": "DS-187"
+   },
+   {
+    "code": "p",
+    "hex": "#9c6339",
+    "group": "Коричневые",
+    "marker": "DS-186"
+   },
+   {
+    "code": "q",
+    "hex": "#ba8850",
+    "group": "Коричневые",
+    "marker": "644"
+   },
+   {
+    "code": "r",
+    "hex": "#e39d60",
+    "group": "Оранжевые",
+    "marker": "618"
+   },
+   {
+    "code": "s",
+    "hex": "#6b698c",
+    "group": "Синие",
+    "marker": "827"
+   },
+   {
+    "code": "t",
+    "hex": "#9a97b2",
+    "group": "Синие",
+    "marker": "826"
+   },
+   {
+    "code": "u",
+    "hex": "#aaa8c3",
+    "group": "Синие",
+    "marker": "825"
+   },
+   {
+    "code": "v",
+    "hex": "#324329",
+    "group": "Зелёные",
+    "marker": "697"
+   },
+   {
+    "code": "x",
+    "hex": "#6d9245",
+    "group": "Зелёные",
+    "marker": "682"
+   },
+   {
+    "code": "y",
+    "hex": "#d1e286",
+    "group": "Зелёные",
+    "marker": "648"
+   },
+   {
+    "code": "z",
+    "hex": "#3667b1",
+    "group": "Синие",
+    "marker": "650"
+   },
+   {
+    "code": "в",
+    "hex": "#448fcc",
+    "group": "Синие",
+    "marker": "601"
+   },
+   {
+    "code": "к",
+    "hex": "#a5ddec",
+    "group": "Бирюзовые",
+    "marker": "821"
+   },
+   {
+    "code": "л",
+    "hex": "#5952a3",
+    "group": "Синие",
+    "marker": "742"
+   }
+  ],
+  "40": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#5b1a22",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "3",
+    "hex": "#d03d38",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "4",
+    "hex": "#d5838b",
+    "group": "Красные",
+    "marker": "691"
+   },
+   {
+    "code": "5",
+    "hex": "#df663e",
+    "group": "Красные",
+    "marker": "631"
+   },
+   {
+    "code": "6",
+    "hex": "#ef8c37",
+    "group": "Оранжевые",
+    "marker": "604"
+   },
+   {
+    "code": "7",
+    "hex": "#ffee49",
+    "group": "Жёлтые",
+    "marker": "615"
+   },
+   {
+    "code": "8",
+    "hex": "#fff68d",
+    "group": "Жёлтые",
+    "marker": "732"
+   },
+   {
+    "code": "9",
+    "hex": "#9c6339",
+    "group": "Коричневые",
+    "marker": "DS-186"
+   },
+   {
+    "code": "0",
+    "hex": "#b87b3e",
+    "group": "Оранжевые",
+    "marker": "644"
+   },
+   {
+    "code": "a",
+    "hex": "#e39d60",
+    "group": "Оранжевые",
+    "marker": "618"
+   },
+   {
+    "code": "b",
+    "hex": "#ffd392",
+    "group": "Оранжевые",
+    "marker": "683"
+   },
+   {
+    "code": "c",
+    "hex": "#404f30",
+    "group": "Зелёные",
+    "marker": "697"
+   },
+   {
+    "code": "d",
+    "hex": "#596b38",
+    "group": "Зелёные",
+    "marker": "634"
+   },
+   {
+    "code": "e",
+    "hex": "#7d8d46",
+    "group": "Зелёные",
+    "marker": "682"
+   },
+   {
+    "code": "n",
+    "hex": "#a2bd57",
+    "group": "Зелёные",
+    "marker": "647"
+   },
+   {
+    "code": "p",
+    "hex": "#f1607a",
+    "group": "Красные",
+    "marker": "712"
+   },
+   {
+    "code": "q",
+    "hex": "#2c325f",
+    "group": "Синие",
+    "marker": "673"
+   },
+   {
+    "code": "r",
+    "hex": "#304c9a",
+    "group": "Синие",
+    "marker": "659"
+   },
+   {
+    "code": "s",
+    "hex": "#3667b1",
+    "group": "Синие",
+    "marker": "601"
+   },
+   {
+    "code": "t",
+    "hex": "#47c0ef",
+    "group": "Бирюзовые",
+    "marker": "820"
+   },
+   {
+    "code": "u",
+    "hex": "#a2cfe2",
+    "group": "Бирюзовые",
+    "marker": "821"
+   },
+   {
+    "code": "v",
+    "hex": "#4f4ea1",
+    "group": "Синие",
+    "marker": "742"
+   },
+   {
+    "code": "x",
+    "hex": "#7c73b5",
+    "group": "Синие",
+    "marker": "699"
+   },
+   {
+    "code": "y",
+    "hex": "#a79bcb",
+    "group": "Синие",
+    "marker": "698"
+   },
+   {
+    "code": "z",
+    "hex": "#c7bede",
+    "group": "Фиолетовые",
+    "marker": "744"
+   }
+  ],
+  "41": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#2a2d31",
+    "group": "Чёрные",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#494d4f",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#7b8082",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "5",
+    "hex": "#76564f",
+    "group": "Красные",
+    "marker": "BR-707"
+   },
+   {
+    "code": "6",
+    "hex": "#a97a6e",
+    "group": "Красные",
+    "marker": "CS-149"
+   },
+   {
+    "code": "7",
+    "hex": "#d9a68d",
+    "group": "Оранжевые",
+    "marker": "CS-145"
+   },
+   {
+    "code": "8",
+    "hex": "#eed4bb",
+    "group": "Телесные",
+    "marker": "CS-504"
+   },
+   {
+    "code": "9",
+    "hex": "#3e3631",
+    "group": "Серые",
+    "marker": "BR-708"
+   },
+   {
+    "code": "0",
+    "hex": "#726457",
+    "group": "Коричневые",
+    "marker": "BR-706"
+   },
+   {
+    "code": "a",
+    "hex": "#2d3f49",
+    "group": "Синие",
+    "marker": "806"
+   },
+   {
+    "code": "b",
+    "hex": "#507279",
+    "group": "Бирюзовые",
+    "marker": "748"
+   },
+   {
+    "code": "c",
+    "hex": "#72acaf",
+    "group": "Бирюзовые",
+    "marker": "685"
+   },
+   {
+    "code": "d",
+    "hex": "#8ad2d5",
+    "group": "Бирюзовые",
+    "marker": "737"
+   },
+   {
+    "code": "e",
+    "hex": "#233451",
+    "group": "Синие",
+    "marker": "BL-267"
+   },
+   {
+    "code": "n",
+    "hex": "#2f4761",
+    "group": "Синие",
+    "marker": "617"
+   },
+   {
+    "code": "p",
+    "hex": "#ef4334",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "q",
+    "hex": "#655885",
+    "group": "Фиолетовые",
+    "marker": "623"
+   }
+  ],
+  "42": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#878274",
+    "group": "Серые",
+    "marker": "GB-408"
+   },
+   {
+    "code": "3",
+    "hex": "#c1b8a8",
+    "group": "Оранжевые",
+    "marker": "753"
+   },
+   {
+    "code": "4",
+    "hex": "#d9d7c9",
+    "group": "Жёлтые",
+    "marker": "738"
+   },
+   {
+    "code": "5",
+    "hex": "#372c28",
+    "group": "Коричневые",
+    "marker": "708"
+   },
+   {
+    "code": "6",
+    "hex": "#514034",
+    "group": "Коричневые",
+    "marker": "758"
+   },
+   {
+    "code": "7",
+    "hex": "#5a4f42",
+    "group": "Коричневые",
+    "marker": "AG-179"
+   },
+   {
+    "code": "8",
+    "hex": "#7e5f55",
+    "group": "Красные",
+    "marker": "756"
+   },
+   {
+    "code": "9",
+    "hex": "#b68974",
+    "group": "Коричневые",
+    "marker": "654"
+   },
+   {
+    "code": "0",
+    "hex": "#e4ad90",
+    "group": "Телесные",
+    "marker": "724"
+   },
+   {
+    "code": "a",
+    "hex": "#fdd2bb",
+    "group": "Оранжевые",
+    "marker": "LC-198"
+   },
+   {
+    "code": "b",
+    "hex": "#253839",
+    "group": "Бирюзовые",
+    "marker": "797"
+   },
+   {
+    "code": "c",
+    "hex": "#325652",
+    "group": "Бирюзовые",
+    "marker": "800"
+   },
+   {
+    "code": "d",
+    "hex": "#4c836a",
+    "group": "Зелёные",
+    "marker": "622"
+   },
+   {
+    "code": "e",
+    "hex": "#384d39",
+    "group": "Зелёные",
+    "marker": "676"
+   },
+   {
+    "code": "n",
+    "hex": "#537148",
+    "group": "Зелёные",
+    "marker": "665"
+   },
+   {
+    "code": "p",
+    "hex": "#95b669",
+    "group": "Зелёные",
+    "marker": "727"
+   },
+   {
+    "code": "q",
+    "hex": "#4d3948",
+    "group": "Розовые",
+    "marker": "705"
+   },
+   {
+    "code": "r",
+    "hex": "#8d6883",
+    "group": "Розовые",
+    "marker": "772"
+   },
+   {
+    "code": "s",
+    "hex": "#4798b9",
+    "group": "Бирюзовые",
+    "marker": "820"
+   },
+   {
+    "code": "t",
+    "hex": "#dbd9a6",
+    "group": "Жёлтые",
+    "marker": "626"
+   }
+  ],
+  "43": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#373b3d",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#494d4f",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#b3b8ba",
+    "group": "Серые",
+    "marker": "801"
+   },
+   {
+    "code": "5",
+    "hex": "#502324",
+    "group": "Красные",
+    "marker": "780"
+   },
+   {
+    "code": "6",
+    "hex": "#7b3c31",
+    "group": "Красные",
+    "marker": "672"
+   },
+   {
+    "code": "7",
+    "hex": "#7f504b",
+    "group": "Красные",
+    "marker": "756"
+   },
+   {
+    "code": "8",
+    "hex": "#cd8073",
+    "group": "Красные",
+    "marker": "619"
+   },
+   {
+    "code": "9",
+    "hex": "#c58871",
+    "group": "Коричневые",
+    "marker": "755"
+   },
+   {
+    "code": "0",
+    "hex": "#9f7765",
+    "group": "Коричневые",
+    "marker": "754"
+   },
+   {
+    "code": "a",
+    "hex": "#e09d7d",
+    "group": "Оранжевые",
+    "marker": "654"
+   },
+   {
+    "code": "b",
+    "hex": "#ebac8f",
+    "group": "Телесные",
+    "marker": "724"
+   },
+   {
+    "code": "c",
+    "hex": "#fdd9c8",
+    "group": "Оранжевые",
+    "marker": "LC-198"
+   },
+   {
+    "code": "d",
+    "hex": "#43352b",
+    "group": "Коричневые",
+    "marker": "708"
+   },
+   {
+    "code": "e",
+    "hex": "#7b5a4c",
+    "group": "Коричневые",
+    "marker": "AG-178"
+   },
+   {
+    "code": "n",
+    "hex": "#dfaa47",
+    "group": "Оранжевые",
+    "marker": "815"
+   },
+   {
+    "code": "p",
+    "hex": "#ffcc46",
+    "group": "Оранжевые",
+    "marker": "615"
+   },
+   {
+    "code": "q",
+    "hex": "#5f7355",
+    "group": "Зелёные",
+    "marker": "792"
+   },
+   {
+    "code": "r",
+    "hex": "#748872",
+    "group": "Серые",
+    "marker": "696"
+   },
+   {
+    "code": "s",
+    "hex": "#b7c3a6",
+    "group": "Зелёные",
+    "marker": "707"
+   },
+   {
+    "code": "t",
+    "hex": "#2a3542",
+    "group": "Синие",
+    "marker": "806"
+   },
+   {
+    "code": "u",
+    "hex": "#44566a",
+    "group": "Синие",
+    "marker": "693"
+   },
+   {
+    "code": "v",
+    "hex": "#5f84a0",
+    "group": "Синие",
+    "marker": "750"
+   },
+   {
+    "code": "x",
+    "hex": "#72a5b9",
+    "group": "Бирюзовые",
+    "marker": "681"
+   },
+   {
+    "code": "y",
+    "hex": "#94c5d6",
+    "group": "Бирюзовые",
+    "marker": "821"
+   }
+  ],
+  "44": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#2c2f33",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#575a5d",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#92989a",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "5",
+    "hex": "#cacecf",
+    "group": "Серые",
+    "marker": "801"
+   },
+   {
+    "code": "6",
+    "hex": "#313948",
+    "group": "Синие",
+    "marker": "806"
+   },
+   {
+    "code": "7",
+    "hex": "#506891",
+    "group": "Синие",
+    "marker": "747"
+   },
+   {
+    "code": "8",
+    "hex": "#5b9fd1",
+    "group": "Синие",
+    "marker": "822"
+   },
+   {
+    "code": "9",
+    "hex": "#85c5d6",
+    "group": "Бирюзовые",
+    "marker": "821"
+   },
+   {
+    "code": "0",
+    "hex": "#cde1de",
+    "group": "Бирюзовые",
+    "marker": "706"
+   },
+   {
+    "code": "a",
+    "hex": "#7b2024",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "b",
+    "hex": "#b53730",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "c",
+    "hex": "#896a2b",
+    "group": "Коричневые",
+    "marker": "816"
+   },
+   {
+    "code": "d",
+    "hex": "#c39c43",
+    "group": "Оранжевые",
+    "marker": "815"
+   },
+   {
+    "code": "e",
+    "hex": "#f79338",
+    "group": "Оранжевые",
+    "marker": "786"
+   },
+   {
+    "code": "n",
+    "hex": "#febf43",
+    "group": "Оранжевые",
+    "marker": "615"
+   },
+   {
+    "code": "p",
+    "hex": "#6d635f",
+    "group": "Серые",
+    "marker": "BR-706"
+   },
+   {
+    "code": "q",
+    "hex": "#87817f",
+    "group": "Серые",
+    "marker": "BR-703"
+   },
+   {
+    "code": "r",
+    "hex": "#58645d",
+    "group": "Серые",
+    "marker": "642"
+   }
+  ],
+  "45": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#2c2f33",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#3c4046",
+    "group": "Серые",
+    "marker": "GB-404"
+   },
+   {
+    "code": "4",
+    "hex": "#494d4f",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "5",
+    "hex": "#92a3a1",
+    "group": "Серые",
+    "marker": "610"
+   },
+   {
+    "code": "6",
+    "hex": "#adb6ba",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "7",
+    "hex": "#381821",
+    "group": "Чёрные",
+    "marker": "779"
+   },
+   {
+    "code": "8",
+    "hex": "#5b1a22",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "9",
+    "hex": "#f16a79",
+    "group": "Красные",
+    "marker": "712"
+   },
+   {
+    "code": "0",
+    "hex": "#3e352e",
+    "group": "Коричневые",
+    "marker": "BR-708"
+   },
+   {
+    "code": "a",
+    "hex": "#5c3e32",
+    "group": "Коричневые",
+    "marker": "620"
+   },
+   {
+    "code": "b",
+    "hex": "#685648",
+    "group": "Коричневые",
+    "marker": "758"
+   },
+   {
+    "code": "c",
+    "hex": "#9a8067",
+    "group": "Коричневые",
+    "marker": "BR-703"
+   },
+   {
+    "code": "d",
+    "hex": "#d8b28f",
+    "group": "Оранжевые",
+    "marker": "BR-701"
+   },
+   {
+    "code": "e",
+    "hex": "#fedbbb",
+    "group": "Оранжевые",
+    "marker": "LC-191"
+   },
+   {
+    "code": "n",
+    "hex": "#c39c43",
+    "group": "Оранжевые",
+    "marker": "815"
+   },
+   {
+    "code": "p",
+    "hex": "#577f87",
+    "group": "Бирюзовые",
+    "marker": "767"
+   }
+  ],
+  "46": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#404345",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#65696b",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#849ba4",
+    "group": "Бирюзовые",
+    "marker": "610"
+   },
+   {
+    "code": "5",
+    "hex": "#9da2a5",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "6",
+    "hex": "#d5dada",
+    "group": "Серые",
+    "marker": "801"
+   },
+   {
+    "code": "7",
+    "hex": "#5d1720",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "8",
+    "hex": "#bb3532",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "9",
+    "hex": "#f16d66",
+    "group": "Красные",
+    "marker": "691"
+   },
+   {
+    "code": "0",
+    "hex": "#8e665a",
+    "group": "Красные",
+    "marker": "CS-149"
+   },
+   {
+    "code": "a",
+    "hex": "#bc9181",
+    "group": "Оранжевые",
+    "marker": "CS-148"
+   },
+   {
+    "code": "b",
+    "hex": "#eab89f",
+    "group": "Телесные",
+    "marker": "CS-144"
+   },
+   {
+    "code": "c",
+    "hex": "#fddfd6",
+    "group": "Красные",
+    "marker": "LC-198"
+   },
+   {
+    "code": "d",
+    "hex": "#857057",
+    "group": "Коричневые",
+    "marker": "757"
+   },
+   {
+    "code": "e",
+    "hex": "#b99e75",
+    "group": "Коричневые",
+    "marker": "CS-143"
+   },
+   {
+    "code": "n",
+    "hex": "#173551",
+    "group": "Синие",
+    "marker": "BL-267"
+   },
+   {
+    "code": "p",
+    "hex": "#335581",
+    "group": "Синие",
+    "marker": "617"
+   },
+   {
+    "code": "q",
+    "hex": "#4775ab",
+    "group": "Синие",
+    "marker": "823"
+   }
+  ],
+  "47": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#373b3d",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#6d6f6e",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#afb2af",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "5",
+    "hex": "#3f4943",
+    "group": "Серые",
+    "marker": "642"
+   },
+   {
+    "code": "6",
+    "hex": "#57625a",
+    "group": "Серые",
+    "marker": "AG-175"
+   },
+   {
+    "code": "7",
+    "hex": "#8d968d",
+    "group": "Серые",
+    "marker": "AG-174"
+   },
+   {
+    "code": "8",
+    "hex": "#34251f",
+    "group": "Коричневые",
+    "marker": "DS-188"
+   },
+   {
+    "code": "9",
+    "hex": "#583924",
+    "group": "Коричневые",
+    "marker": "DS-187"
+   },
+   {
+    "code": "0",
+    "hex": "#5f4c3b",
+    "group": "Коричневые",
+    "marker": "643"
+   },
+   {
+    "code": "a",
+    "hex": "#7d654c",
+    "group": "Коричневые",
+    "marker": "757"
+   },
+   {
+    "code": "b",
+    "hex": "#bd9870",
+    "group": "Коричневые",
+    "marker": "731"
+   },
+   {
+    "code": "c",
+    "hex": "#635c51",
+    "group": "Серые",
+    "marker": "BR-706"
+   },
+   {
+    "code": "d",
+    "hex": "#7d715e",
+    "group": "Коричневые",
+    "marker": "AG-177"
+   },
+   {
+    "code": "e",
+    "hex": "#8e6657",
+    "group": "Коричневые",
+    "marker": "CS-509"
+   },
+   {
+    "code": "n",
+    "hex": "#cf917a",
+    "group": "Оранжевые",
+    "marker": "CS-506"
+   },
+   {
+    "code": "p",
+    "hex": "#e3ab8c",
+    "group": "Телесные",
+    "marker": "703"
+   },
+   {
+    "code": "q",
+    "hex": "#b39f87",
+    "group": "Коричневые",
+    "marker": "753"
+   },
+   {
+    "code": "r",
+    "hex": "#e0c8a7",
+    "group": "Телесные",
+    "marker": "738"
+   },
+   {
+    "code": "s",
+    "hex": "#40a5cb",
+    "group": "Бирюзовые",
+    "marker": "822"
+   },
+   {
+    "code": "t",
+    "hex": "#bbe6fb",
+    "group": "Бирюзовые",
+    "marker": "821"
+   },
+   {
+    "code": "u",
+    "hex": "#35161f",
+    "group": "Чёрные",
+    "marker": "779"
+   },
+   {
+    "code": "v",
+    "hex": "#561822",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "x",
+    "hex": "#9a322a",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "y",
+    "hex": "#df7563",
+    "group": "Красные",
+    "marker": "691"
+   }
+  ],
+  "48": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#2c2f33",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#494d4f",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#a9afa7",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "5",
+    "hex": "#dadfe0",
+    "group": "Серые",
+    "marker": "801"
+   },
+   {
+    "code": "6",
+    "hex": "#703529",
+    "group": "Красные",
+    "marker": "DS-184"
+   },
+   {
+    "code": "7",
+    "hex": "#945836",
+    "group": "Коричневые",
+    "marker": "DS-185"
+   },
+   {
+    "code": "8",
+    "hex": "#e39d60",
+    "group": "Оранжевые",
+    "marker": "618"
+   },
+   {
+    "code": "9",
+    "hex": "#4a382e",
+    "group": "Коричневые",
+    "marker": "708"
+   },
+   {
+    "code": "0",
+    "hex": "#9a8067",
+    "group": "Коричневые",
+    "marker": "758"
+   },
+   {
+    "code": "a",
+    "hex": "#b1795d",
+    "group": "Коричневые",
+    "marker": "756"
+   },
+   {
+    "code": "b",
+    "hex": "#f2b181",
+    "group": "Оранжевые",
+    "marker": "654"
+   },
+   {
+    "code": "c",
+    "hex": "#fccaa8",
+    "group": "Оранжевые",
+    "marker": "724"
+   },
+   {
+    "code": "d",
+    "hex": "#3f306b",
+    "group": "Фиолетовые",
+    "marker": "607"
+   },
+   {
+    "code": "e",
+    "hex": "#734788",
+    "group": "Фиолетовые",
+    "marker": "833"
+   },
+   {
+    "code": "n",
+    "hex": "#886fb1",
+    "group": "Фиолетовые",
+    "marker": "699"
+   },
+   {
+    "code": "p",
+    "hex": "#bd528e",
+    "group": "Розовые",
+    "marker": "PU-308"
+   },
+   {
+    "code": "q",
+    "hex": "#f5a9b9",
+    "group": "Красные",
+    "marker": "873"
+   },
+   {
+    "code": "r",
+    "hex": "#fbccc5",
+    "group": "Красные",
+    "marker": "624"
+   },
+   {
+    "code": "s",
+    "hex": "#e29784",
+    "group": "Красные",
+    "marker": "CS-147"
+   }
+  ],
+  "49": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#2e3235",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#606366",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#6b698c",
+    "group": "Синие",
+    "marker": "827"
+   },
+   {
+    "code": "5",
+    "hex": "#9a97b2",
+    "group": "Синие",
+    "marker": "826"
+   },
+   {
+    "code": "6",
+    "hex": "#aaa8c3",
+    "group": "Синие",
+    "marker": "825"
+   },
+   {
+    "code": "7",
+    "hex": "#5d1f26",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "8",
+    "hex": "#9a7269",
+    "group": "Красные",
+    "marker": "CS-149"
+   },
+   {
+    "code": "9",
+    "hex": "#dea28b",
+    "group": "Оранжевые",
+    "marker": "CS-145"
+   },
+   {
+    "code": "0",
+    "hex": "#d6c5af",
+    "group": "Телесные",
+    "marker": "LC-197"
+   },
+   {
+    "code": "a",
+    "hex": "#564c3f",
+    "group": "Коричневые",
+    "marker": "643"
+   },
+   {
+    "code": "b",
+    "hex": "#71624e",
+    "group": "Коричневые",
+    "marker": "757"
+   },
+   {
+    "code": "c",
+    "hex": "#a28d6d",
+    "group": "Коричневые",
+    "marker": "731"
+   },
+   {
+    "code": "d",
+    "hex": "#845331",
+    "group": "Коричневые",
+    "marker": "DS-186"
+   },
+   {
+    "code": "e",
+    "hex": "#ba8850",
+    "group": "Коричневые",
+    "marker": "644"
+   },
+   {
+    "code": "n",
+    "hex": "#e39d60",
+    "group": "Оранжевые",
+    "marker": "618"
+   },
+   {
+    "code": "p",
+    "hex": "#3dc0ef",
+    "group": "Бирюзовые",
+    "marker": "601"
+   },
+   {
+    "code": "q",
+    "hex": "#9eddf9",
+    "group": "Бирюзовые",
+    "marker": "821"
+   },
+   {
+    "code": "r",
+    "hex": "#223548",
+    "group": "Синие",
+    "marker": "806"
+   },
+   {
+    "code": "s",
+    "hex": "#3b556c",
+    "group": "Синие",
+    "marker": "693"
+   }
+  ],
+  "5": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#282b2c",
+    "group": "Чёрные",
+    "marker": "807"
+   },
+   {
+    "code": "3",
+    "hex": "#2c2f33",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "4",
+    "hex": "#3c4046",
+    "group": "Серые",
+    "marker": "GB-404"
+   },
+   {
+    "code": "5",
+    "hex": "#494d4f",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "6",
+    "hex": "#92a3a1",
+    "group": "Серые",
+    "marker": "610"
+   },
+   {
+    "code": "7",
+    "hex": "#ccccc4",
+    "group": "Серые",
+    "marker": "803"
+   },
+   {
+    "code": "8",
+    "hex": "#483325",
+    "group": "Коричневые",
+    "marker": "DS-188"
+   },
+   {
+    "code": "9",
+    "hex": "#504a40",
+    "group": "Серые",
+    "marker": "708"
+   },
+   {
+    "code": "0",
+    "hex": "#7d5441",
+    "group": "Коричневые",
+    "marker": "DS-187"
+   },
+   {
+    "code": "a",
+    "hex": "#696056",
+    "group": "Серые",
+    "marker": "643"
+   },
+   {
+    "code": "b",
+    "hex": "#434d35",
+    "group": "Зелёные",
+    "marker": "791"
+   },
+   {
+    "code": "c",
+    "hex": "#99ac6d",
+    "group": "Зелёные",
+    "marker": "682"
+   },
+   {
+    "code": "d",
+    "hex": "#c8df89",
+    "group": "Зелёные",
+    "marker": "727"
+   },
+   {
+    "code": "e",
+    "hex": "#606f4b",
+    "group": "Зелёные",
+    "marker": "697"
+   },
+   {
+    "code": "n",
+    "hex": "#2b505a",
+    "group": "Бирюзовые",
+    "marker": "797"
+   },
+   {
+    "code": "p",
+    "hex": "#3b465b",
+    "group": "Синие",
+    "marker": "806"
+   },
+   {
+    "code": "q",
+    "hex": "#48607f",
+    "group": "Синие",
+    "marker": "693"
+   },
+   {
+    "code": "r",
+    "hex": "#5387a8",
+    "group": "Синие",
+    "marker": "748"
+   }
+  ],
+  "50": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#34383a",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#494d4f",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#9da2a5",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "5",
+    "hex": "#d1d5d6",
+    "group": "Серые",
+    "marker": "801"
+   },
+   {
+    "code": "6",
+    "hex": "#4c4a43",
+    "group": "Серые",
+    "marker": "AG-179"
+   },
+   {
+    "code": "7",
+    "hex": "#726f63",
+    "group": "Серые",
+    "marker": "AG-177"
+   },
+   {
+    "code": "8",
+    "hex": "#90897c",
+    "group": "Серые",
+    "marker": "BR-703"
+   },
+   {
+    "code": "9",
+    "hex": "#c7bdaf",
+    "group": "Телесные",
+    "marker": "BR-701"
+   },
+   {
+    "code": "0",
+    "hex": "#5d1720",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "a",
+    "hex": "#bb3532",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "b",
+    "hex": "#d5899d",
+    "group": "Розовые",
+    "marker": "691"
+   },
+   {
+    "code": "c",
+    "hex": "#352522",
+    "group": "Красные",
+    "marker": "DS-189"
+   },
+   {
+    "code": "d",
+    "hex": "#54362a",
+    "group": "Коричневые",
+    "marker": "DS-188"
+   },
+   {
+    "code": "e",
+    "hex": "#ae672d",
+    "group": "Коричневые",
+    "marker": "631"
+   },
+   {
+    "code": "n",
+    "hex": "#ef8c31",
+    "group": "Оранжевые",
+    "marker": "604"
+   },
+   {
+    "code": "p",
+    "hex": "#ffd58b",
+    "group": "Оранжевые",
+    "marker": "656"
+   },
+   {
+    "code": "q",
+    "hex": "#173551",
+    "group": "Синие",
+    "marker": "BL-267"
+   },
+   {
+    "code": "r",
+    "hex": "#335581",
+    "group": "Синие",
+    "marker": "617"
+   },
+   {
+    "code": "s",
+    "hex": "#4775ab",
+    "group": "Синие",
+    "marker": "823"
+   },
+   {
+    "code": "t",
+    "hex": "#edb28b",
+    "group": "Телесные",
+    "marker": "717"
+   },
+   {
+    "code": "u",
+    "hex": "#fdcca8",
+    "group": "Оранжевые",
+    "marker": "720"
+   }
+  ],
+  "51": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#b2b7b8",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "3",
+    "hex": "#3d1820",
+    "group": "Красные",
+    "marker": "779"
+   },
+   {
+    "code": "4",
+    "hex": "#5d1720",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "5",
+    "hex": "#bb3532",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "6",
+    "hex": "#875c53",
+    "group": "Красные",
+    "marker": "CS-149"
+   },
+   {
+    "code": "7",
+    "hex": "#b67b6c",
+    "group": "Красные",
+    "marker": "CS-509"
+   },
+   {
+    "code": "8",
+    "hex": "#f8a287",
+    "group": "Красные",
+    "marker": "CS-506"
+   },
+   {
+    "code": "9",
+    "hex": "#fac1b3",
+    "group": "Красные",
+    "marker": "CS-144"
+   },
+   {
+    "code": "0",
+    "hex": "#644736",
+    "group": "Коричневые",
+    "marker": "DS-181"
+   },
+   {
+    "code": "a",
+    "hex": "#a67c50",
+    "group": "Коричневые",
+    "marker": "684"
+   },
+   {
+    "code": "b",
+    "hex": "#e2af71",
+    "group": "Оранжевые",
+    "marker": "683"
+   },
+   {
+    "code": "c",
+    "hex": "#896a2b",
+    "group": "Коричневые",
+    "marker": "816"
+   },
+   {
+    "code": "d",
+    "hex": "#c39c43",
+    "group": "Оранжевые",
+    "marker": "817"
+   },
+   {
+    "code": "e",
+    "hex": "#e3b951",
+    "group": "Оранжевые",
+    "marker": "813"
+   },
+   {
+    "code": "n",
+    "hex": "#ef8c61",
+    "group": "Оранжевые",
+    "marker": "CS-507"
+   },
+   {
+    "code": "p",
+    "hex": "#fec576",
+    "group": "Оранжевые",
+    "marker": "656"
+   },
+   {
+    "code": "q",
+    "hex": "#ffd8a0",
+    "group": "Оранжевые",
+    "marker": "732"
+   },
+   {
+    "code": "r",
+    "hex": "#173551",
+    "group": "Синие",
+    "marker": "BL-267"
+   },
+   {
+    "code": "s",
+    "hex": "#335581",
+    "group": "Синие",
+    "marker": "617"
+   },
+   {
+    "code": "t",
+    "hex": "#4775ab",
+    "group": "Синие",
+    "marker": "823"
+   },
+   {
+    "code": "u",
+    "hex": "#3a3b50",
+    "group": "Синие",
+    "marker": "746"
+   },
+   {
+    "code": "v",
+    "hex": "#6b698c",
+    "group": "Синие",
+    "marker": "827"
+   },
+   {
+    "code": "x",
+    "hex": "#7c75a3",
+    "group": "Синие",
+    "marker": "773"
+   }
+  ],
+  "52": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#272b2f",
+    "group": "Чёрные",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#47494c",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#858a8c",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "5",
+    "hex": "#413e38",
+    "group": "Серые",
+    "marker": "679"
+   },
+   {
+    "code": "6",
+    "hex": "#585046",
+    "group": "Серые",
+    "marker": "759"
+   },
+   {
+    "code": "7",
+    "hex": "#726052",
+    "group": "Коричневые",
+    "marker": "753"
+   },
+   {
+    "code": "8",
+    "hex": "#381821",
+    "group": "Чёрные",
+    "marker": "779"
+   },
+   {
+    "code": "9",
+    "hex": "#5b1a22",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "0",
+    "hex": "#9f3828",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "a",
+    "hex": "#bf5c5b",
+    "group": "Красные",
+    "marker": "691"
+   },
+   {
+    "code": "b",
+    "hex": "#f26a40",
+    "group": "Красные",
+    "marker": "725"
+   },
+   {
+    "code": "c",
+    "hex": "#fcb74e",
+    "group": "Оранжевые",
+    "marker": "603"
+   },
+   {
+    "code": "d",
+    "hex": "#2b2724",
+    "group": "Чёрные",
+    "marker": "DS-189"
+   },
+   {
+    "code": "e",
+    "hex": "#46382e",
+    "group": "Коричневые",
+    "marker": "DS-188"
+   },
+   {
+    "code": "n",
+    "hex": "#7c584b",
+    "group": "Красные",
+    "marker": "756"
+   },
+   {
+    "code": "p",
+    "hex": "#b1806b",
+    "group": "Коричневые",
+    "marker": "654"
+   },
+   {
+    "code": "q",
+    "hex": "#e5a889",
+    "group": "Оранжевые",
+    "marker": "724"
+   },
+   {
+    "code": "r",
+    "hex": "#f5c7a6",
+    "group": "Оранжевые",
+    "marker": "LC-197"
+   },
+   {
+    "code": "s",
+    "hex": "#8a534e",
+    "group": "Красные",
+    "marker": "LC-117"
+   },
+   {
+    "code": "t",
+    "hex": "#896633",
+    "group": "Коричневые",
+    "marker": "816"
+   },
+   {
+    "code": "u",
+    "hex": "#b28042",
+    "group": "Оранжевые",
+    "marker": "815"
+   },
+   {
+    "code": "v",
+    "hex": "#fec678",
+    "group": "Оранжевые",
+    "marker": "656"
+   },
+   {
+    "code": "x",
+    "hex": "#0a243a",
+    "group": "Чёрные",
+    "marker": "688"
+   },
+   {
+    "code": "y",
+    "hex": "#14334c",
+    "group": "Синие",
+    "marker": "774"
+   },
+   {
+    "code": "z",
+    "hex": "#1b4561",
+    "group": "Синие",
+    "marker": "748"
+   },
+   {
+    "code": "в",
+    "hex": "#6f8497",
+    "group": "Синие",
+    "marker": "633"
+   }
+  ],
+  "53": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#34383a",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#525557",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#9da2a5",
+    "group": "Серые",
+    "marker": "686"
+   },
+   {
+    "code": "5",
+    "hex": "#727d96",
+    "group": "Синие",
+    "marker": "826"
+   },
+   {
+    "code": "6",
+    "hex": "#9c97ad",
+    "group": "Синие",
+    "marker": "825"
+   },
+   {
+    "code": "7",
+    "hex": "#42171f",
+    "group": "Красные",
+    "marker": "779"
+   },
+   {
+    "code": "8",
+    "hex": "#5d1720",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "9",
+    "hex": "#bb3532",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "0",
+    "hex": "#aa5c53",
+    "group": "Красные",
+    "marker": "619"
+   },
+   {
+    "code": "a",
+    "hex": "#d58687",
+    "group": "Красные",
+    "marker": "691"
+   },
+   {
+    "code": "b",
+    "hex": "#654741",
+    "group": "Красные",
+    "marker": "CS-149"
+   },
+   {
+    "code": "c",
+    "hex": "#98695c",
+    "group": "Красные",
+    "marker": "CS-509"
+   },
+   {
+    "code": "d",
+    "hex": "#d9977b",
+    "group": "Оранжевые",
+    "marker": "CS-145"
+   },
+   {
+    "code": "e",
+    "hex": "#e7b99f",
+    "group": "Телесные",
+    "marker": "CS-504"
+   },
+   {
+    "code": "n",
+    "hex": "#4c372d",
+    "group": "Коричневые",
+    "marker": "DS-188"
+   },
+   {
+    "code": "p",
+    "hex": "#c7683b",
+    "group": "Оранжевые",
+    "marker": "631"
+   },
+   {
+    "code": "q",
+    "hex": "#f58447",
+    "group": "Оранжевые",
+    "marker": "604"
+   },
+   {
+    "code": "r",
+    "hex": "#f8a27e",
+    "group": "Оранжевые",
+    "marker": "CS-507"
+   },
+   {
+    "code": "s",
+    "hex": "#ffd370",
+    "group": "Оранжевые",
+    "marker": "656"
+   },
+   {
+    "code": "t",
+    "hex": "#ffeb97",
+    "group": "Жёлтые",
+    "marker": "683"
+   },
+   {
+    "code": "u",
+    "hex": "#57bceb",
+    "group": "Бирюзовые",
+    "marker": "822"
+   },
+   {
+    "code": "v",
+    "hex": "#92d7e5",
+    "group": "Бирюзовые",
+    "marker": "818"
+   },
+   {
+    "code": "x",
+    "hex": "#c7e9f6",
+    "group": "Бирюзовые",
+    "marker": "706"
+   },
+   {
+    "code": "y",
+    "hex": "#615ea3",
+    "group": "Синие",
+    "marker": "742"
+   },
+   {
+    "code": "z",
+    "hex": "#7b75b7",
+    "group": "Синие",
+    "marker": "623"
+   },
+   {
+    "code": "в",
+    "hex": "#bdb7db",
+    "group": "Синие",
+    "marker": "744"
+   }
+  ],
+  "6": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#2c2f33",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#92a3a1",
+    "group": "Серые",
+    "marker": "610"
+   },
+   {
+    "code": "4",
+    "hex": "#ccccc4",
+    "group": "Серые",
+    "marker": "801"
+   },
+   {
+    "code": "5",
+    "hex": "#381821",
+    "group": "Чёрные",
+    "marker": "779"
+   },
+   {
+    "code": "6",
+    "hex": "#5b1a22",
+    "group": "Красные",
+    "marker": "R755"
+   },
+   {
+    "code": "7",
+    "hex": "#823f4e",
+    "group": "Красные",
+    "marker": "674"
+   },
+   {
+    "code": "8",
+    "hex": "#d03d38",
+    "group": "Красные",
+    "marker": "664"
+   },
+   {
+    "code": "9",
+    "hex": "#d5838b",
+    "group": "Красные",
+    "marker": "612"
+   },
+   {
+    "code": "0",
+    "hex": "#504a40",
+    "group": "Серые",
+    "marker": "BR-708"
+   },
+   {
+    "code": "a",
+    "hex": "#696056",
+    "group": "Серые",
+    "marker": "BR-706"
+   },
+   {
+    "code": "b",
+    "hex": "#c39c43",
+    "group": "Оранжевые",
+    "marker": "816"
+   },
+   {
+    "code": "c",
+    "hex": "#e3b951",
+    "group": "Оранжевые",
+    "marker": "815"
+   },
+   {
+    "code": "d",
+    "hex": "#ffebaf",
+    "group": "Оранжевые",
+    "marker": "656"
+   },
+   {
+    "code": "e",
+    "hex": "#a5ddec",
+    "group": "Бирюзовые",
+    "marker": "821"
+   },
+   {
+    "code": "n",
+    "hex": "#74afd9",
+    "group": "Синие",
+    "marker": "689"
+   },
+   {
+    "code": "p",
+    "hex": "#54c9f4",
+    "group": "Бирюзовые",
+    "marker": "822"
+   }
+  ],
+  "7": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#282b2c",
+    "group": "Чёрные",
+    "marker": "807"
+   },
+   {
+    "code": "3",
+    "hex": "#2c2f33",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "4",
+    "hex": "#494d4f",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "5",
+    "hex": "#92a3a1",
+    "group": "Серые",
+    "marker": "610"
+   },
+   {
+    "code": "6",
+    "hex": "#ccccc4",
+    "group": "Серые",
+    "marker": "801"
+   },
+   {
+    "code": "7",
+    "hex": "#83624d",
+    "group": "Коричневые",
+    "marker": "756"
+   },
+   {
+    "code": "8",
+    "hex": "#9c6339",
+    "group": "Коричневые",
+    "marker": "DS-186"
+   },
+   {
+    "code": "9",
+    "hex": "#ba8850",
+    "group": "Коричневые",
+    "marker": "644"
+   },
+   {
+    "code": "0",
+    "hex": "#e39d60",
+    "group": "Оранжевые",
+    "marker": "618"
+   },
+   {
+    "code": "a",
+    "hex": "#dca987",
+    "group": "Оранжевые",
+    "marker": "654"
+   },
+   {
+    "code": "b",
+    "hex": "#fdcda1",
+    "group": "Оранжевые",
+    "marker": "724"
+   },
+   {
+    "code": "c",
+    "hex": "#fecd80",
+    "group": "Оранжевые",
+    "marker": "656"
+   },
+   {
+    "code": "d",
+    "hex": "#2a4738",
+    "group": "Зелёные",
+    "marker": "796"
+   },
+   {
+    "code": "e",
+    "hex": "#366a39",
+    "group": "Зелёные",
+    "marker": "794"
+   },
+   {
+    "code": "n",
+    "hex": "#74afd9",
+    "group": "Синие",
+    "marker": "681"
+   },
+   {
+    "code": "p",
+    "hex": "#54c9f4",
+    "group": "Бирюзовые",
+    "marker": "822"
+   }
+  ],
+  "8": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#212429",
+    "group": "Чёрные",
+    "marker": "807"
+   },
+   {
+    "code": "3",
+    "hex": "#34383a",
+    "group": "Серые",
+    "marker": "680"
+   },
+   {
+    "code": "4",
+    "hex": "#4c4f51",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "5",
+    "hex": "#4f5666",
+    "group": "Синие",
+    "marker": "827"
+   },
+   {
+    "code": "6",
+    "hex": "#717285",
+    "group": "Серые",
+    "marker": "826"
+   },
+   {
+    "code": "7",
+    "hex": "#837d7e",
+    "group": "Серые",
+    "marker": "753"
+   },
+   {
+    "code": "8",
+    "hex": "#939899",
+    "group": "Серые",
+    "marker": "853"
+   },
+   {
+    "code": "9",
+    "hex": "#c3c7c9",
+    "group": "Серые",
+    "marker": "801"
+   },
+   {
+    "code": "0",
+    "hex": "#3d1d22",
+    "group": "Красные",
+    "marker": "779"
+   },
+   {
+    "code": "a",
+    "hex": "#4d2225",
+    "group": "Красные",
+    "marker": "780"
+   },
+   {
+    "code": "b",
+    "hex": "#a73e3e",
+    "group": "Красные",
+    "marker": "RY-06"
+   },
+   {
+    "code": "c",
+    "hex": "#a76f63",
+    "group": "Красные",
+    "marker": "CS-509"
+   },
+   {
+    "code": "d",
+    "hex": "#b98271",
+    "group": "Красные",
+    "marker": "CS-148"
+   },
+   {
+    "code": "e",
+    "hex": "#e09b85",
+    "group": "Красные",
+    "marker": "CS-145"
+   },
+   {
+    "code": "n",
+    "hex": "#f9b6a8",
+    "group": "Красные",
+    "marker": "CS-144"
+   },
+   {
+    "code": "p",
+    "hex": "#302827",
+    "group": "Чёрные",
+    "marker": "709"
+   },
+   {
+    "code": "q",
+    "hex": "#3d322c",
+    "group": "Коричневые",
+    "marker": "BR-708"
+   },
+   {
+    "code": "r",
+    "hex": "#634a3c",
+    "group": "Коричневые",
+    "marker": "BR-706"
+   },
+   {
+    "code": "s",
+    "hex": "#976f5b",
+    "group": "Коричневые",
+    "marker": "BR-704"
+   },
+   {
+    "code": "t",
+    "hex": "#f47e46",
+    "group": "Оранжевые",
+    "marker": "604"
+   },
+   {
+    "code": "u",
+    "hex": "#ffd480",
+    "group": "Оранжевые",
+    "marker": "656"
+   },
+   {
+    "code": "v",
+    "hex": "#293546",
+    "group": "Синие",
+    "marker": "806"
+   },
+   {
+    "code": "x",
+    "hex": "#394a61",
+    "group": "Синие",
+    "marker": "693"
+   },
+   {
+    "code": "y",
+    "hex": "#3075a2",
+    "group": "Синие",
+    "marker": "616"
+   },
+   {
+    "code": "z",
+    "hex": "#56718f",
+    "group": "Синие",
+    "marker": "633"
+   },
+   {
+    "code": "в",
+    "hex": "#567aae",
+    "group": "Синие",
+    "marker": "750"
+   },
+   {
+    "code": "к",
+    "hex": "#acc1e4",
+    "group": "Синие",
+    "marker": "LC-194"
+   }
+  ],
+  "9": [
+   {
+    "code": "1",
+    "hex": "#020814",
+    "group": "Чёрные",
+    "marker": "611"
+   },
+   {
+    "code": "2",
+    "hex": "#2a2d31",
+    "group": "Чёрные",
+    "marker": "680"
+   },
+   {
+    "code": "3",
+    "hex": "#44474a",
+    "group": "Серые",
+    "marker": "805"
+   },
+   {
+    "code": "4",
+    "hex": "#979c9f",
+    "group": "Серые",
+    "marker": "610"
+   },
+   {
+    "code": "5",
+    "hex": "#471f1f",
+    "group": "Красные",
+    "marker": "DS-184"
+   },
+   {
+    "code": "6",
+    "hex": "#6c281f",
+    "group": "Красные",
+    "marker": "784"
+   },
+   {
+    "code": "7",
+    "hex": "#cd5b34",
+    "group": "Красные",
+    "marker": "632"
+   },
+   {
+    "code": "8",
+    "hex": "#3a2829",
+    "group": "Красные",
+    "marker": "776"
+   },
+   {
+    "code": "9",
+    "hex": "#563c3c",
+    "group": "Красные",
+    "marker": "620"
+   },
+   {
+    "code": "0",
+    "hex": "#936d5e",
+    "group": "Коричневые",
+    "marker": "754"
+   },
+   {
+    "code": "a",
+    "hex": "#613134",
+    "group": "Красные",
+    "marker": "672"
+   },
+   {
+    "code": "b",
+    "hex": "#a55847",
+    "group": "Красные",
+    "marker": "619"
+   },
+   {
+    "code": "c",
+    "hex": "#b55039",
+    "group": "Красные",
+    "marker": "785"
+   },
+   {
+    "code": "d",
+    "hex": "#de683a",
+    "group": "Оранжевые",
+    "marker": "663"
+   },
+   {
+    "code": "e",
+    "hex": "#f57f3a",
+    "group": "Оранжевые",
+    "marker": "725"
+   },
+   {
+    "code": "n",
+    "hex": "#f89942",
+    "group": "Оранжевые",
+    "marker": "649"
+   },
+   {
+    "code": "p",
+    "hex": "#fcb54e",
+    "group": "Оранжевые",
+    "marker": "615"
+   },
+   {
+    "code": "q",
+    "hex": "#ffec70",
+    "group": "Жёлтые",
+    "marker": "777"
+   },
+   {
+    "code": "r",
+    "hex": "#a86c5b",
+    "group": "Красные",
+    "marker": "CS-509"
+   },
+   {
+    "code": "s",
+    "hex": "#d59377",
+    "group": "Оранжевые",
+    "marker": "CS-506"
+   },
+   {
+    "code": "t",
+    "hex": "#f8b696",
+    "group": "Оранжевые",
+    "marker": "CS-505"
+   },
+   {
+    "code": "u",
+    "hex": "#fcd0c0",
+    "group": "Красные",
+    "marker": "CS-501"
+   },
+   {
+    "code": "v",
+    "hex": "#c36653",
+    "group": "Красные",
+    "marker": "667"
+   },
+   {
+    "code": "x",
+    "hex": "#e9866d",
+    "group": "Красные",
+    "marker": "677"
+   },
+   {
+    "code": "y",
+    "hex": "#f0deb6",
+    "group": "Телесные",
+    "marker": "LC-198"
+   },
+   {
+    "code": "z",
+    "hex": "#21384b",
+    "group": "Синие",
+    "marker": "688"
+   }
+  ]
+ },
+ "titles": {
+  "1": "Мстители. Локи",
+  "10": "Мстители. Брюс - Халк",
+  "11": "Лего Мстители",
+  "12": "Лего Мстители",
+  "13": "Эра Альтрона. Капитан Америка",
+  "14": "Эра Альтрона. Альтрон",
+  "15": "Эра Альтрона. Стэн Ли",
+  "16": "Эра Альтрона. Стив Роджерс",
+  "17": "Эра Альтрона. Халкбастер",
+  "18": "Эра Альтрона. Черная Вдова и Халк",
+  "19": "Эра Альтрона. Железный Человек и Капитан Америка",
+  "20": "Эра Альтрона. Железный Человек и Капитан Америка",
+  "2": "Мстители. Ник Фьюри",
+  "21": "Эра Альтрона. Клинт, Ртуть и Ванда",
+  "22": "Эра Альтрона. Ванда",
+  "23": "Эра Альтрона. Вижн",
+  "24": "Война бесконечности. Смерть Локи",
+  "25": "Война бесконечности. Доктор Стрэндж",
+  "26": "Война бесконечности. Человек Паук",
+  "27": "Война бесконечности. Гамора и Небула",
+  "28": "Война бесконечности. Звездный Лорд и Человек Паук",
+  "29": "Война бесконечности. Камень Души",
+  "3": "Мстители",
+  "4": "Мстители",
+  "30": "Война бесконечности. Танос",
+  "31": "Война бесконечности. Черная пантера",
+  "32": "Война бесконечности. Баки Барнс",
+  "33": "Война бесконечности. Грут",
+  "34": "Война бесконечности. Тор",
+  "35": "Война бесконечности. Человек Паук и Перчатка",
+  "36": "Война бесконечности. Мантис, Звездный Лорд и Танос",
+  "37": "Война бесконечности. Алая Ведьма",
+  "38": "Война бесконечности. Сокол",
+  "39": "Война бесконечности. Смерть Вижна",
+  "40": "Война бесконечности. Танос",
+  "41": "Финал. Тони Старк",
+  "42": "Финал. Скотт Лэнг",
+  "43": "Финал. Наташа и Клинт",
+  "44": "Финал. Ронин",
+  "45": "Финал. Ракета",
+  "46": "Финал. Битва двух Капитанов",
+  "47": "Финал. Всё ещё достоин",
+  "48": "Финал. Жертва на Вормире",
+  "49": "Финал. Тор против Таноса",
+  "5": "Мстители. Халк",
+  "50": "Финал. Капитан Америка",
+  "51": "Финал. Капитан Марвел",
+  "52": "Финал. 1 шанс из 14.000.000",
+  "53": "Финал",
+  "6": "Мстители. Железный человек",
+  "7": "Мстители. Локи",
+  "8": "Мстители. Соколиный глаз",
+  "9": "Мстители. Черная вдова"
+ }
+}
