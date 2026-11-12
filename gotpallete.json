@@ -8,713 +8,942 @@
      "code": "600",
      "hex": "#ffffff",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "601",
-     "hex": "#4996d4",
+     "hex": "#2f93c7",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-210"
+     ]
     },
     {
      "code": "602",
-     "hex": "#009b98",
+     "hex": "#51b3b2",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "HC-131"
+     ]
     },
     {
      "code": "603",
-     "hex": "#ffe23d",
+     "hex": "#e5ca00",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "YE-123"
+     ]
     },
     {
      "code": "604",
-     "hex": "#f68f26",
+     "hex": "#ce5b0f",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "605",
-     "hex": "#bd333a",
+     "hex": "#d93f50",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "LC-116"
+     ]
     },
     {
      "code": "606",
-     "hex": "#bf429d",
+     "hex": "#cc4da8",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PC-812"
+     ]
     },
     {
      "code": "607",
-     "hex": "#522d86",
+     "hex": "#41418c",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-262"
+     ]
     },
     {
      "code": "608",
-     "hex": "#2d3e8d",
+     "hex": "#173060",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "609",
-     "hex": "#005858",
+     "hex": "#008166",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "GR-115"
+     ]
     },
     {
      "code": "610",
-     "hex": "#7f878d",
+     "hex": "#90a3a8",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "GB-411"
+     ]
     },
     {
      "code": "611",
-     "hex": "#060606",
+     "hex": "#000000",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "612",
-     "hex": "#da6d92",
+     "hex": "#e37fa8",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "613",
-     "hex": "#2c1f54",
+     "hex": "#3e3069",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-264"
+     ]
     },
     {
      "code": "614",
-     "hex": "#52bc6d",
+     "hex": "#399a4b",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "615",
-     "hex": "#efcd16",
+     "hex": "#f3d000",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "YE-124"
+     ]
     },
     {
      "code": "616",
-     "hex": "#015876",
+     "hex": "#157590",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-213"
+     ]
     },
     {
      "code": "617",
-     "hex": "#1d335a",
+     "hex": "#1c2054",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "618",
-     "hex": "#b76700",
+     "hex": "#c07900",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "YE-136"
+     ]
     },
     {
      "code": "619",
-     "hex": "#af6253",
+     "hex": "#923f3d",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "620",
-     "hex": "#5a463f",
+     "hex": "#4b2c26",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "621",
-     "hex": "#08327c",
+     "hex": "#12619c",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-215"
+     ]
     },
     {
      "code": "622",
-     "hex": "#427c6f",
+     "hex": "#33836a",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "SG-155"
+     ]
     },
     {
      "code": "623",
-     "hex": "#81659f",
+     "hex": "#7a68b8",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PU-303"
+     ]
     },
     {
      "code": "624",
-     "hex": "#f7cfcb",
+     "hex": "#ffd7d3",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PC-235"
+     ]
     },
     {
      "code": "625",
-     "hex": "#f8c19f",
+     "hex": "#f0b997",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "626",
-     "hex": "#fbefa5",
+     "hex": "#d7eea1",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "YE-130"
+     ]
     },
     {
      "code": "627",
-     "hex": "#94dc5b",
+     "hex": "#78c690",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "GR-102"
+     ]
     },
     {
      "code": "628",
-     "hex": "#94cddc",
+     "hex": "#6cb9ec",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "629",
-     "hex": "#95a2cd",
+     "hex": "#778ac8",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PU-312"
+     ]
     },
     {
      "code": "630",
-     "hex": "#c8b0a2",
+     "hex": "#b5a6a0",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "631",
-     "hex": "#c95827",
+     "hex": "#b75100",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "RY-15"
+     ]
     },
     {
      "code": "632",
      "hex": "#d56931",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PC-243"
+     ]
     },
     {
      "code": "633",
-     "hex": "#637e8f",
+     "hex": "#71929c",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "DB-163"
+     ]
     },
     {
      "code": "634",
-     "hex": "#386617",
+     "hex": "#314c12",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "635",
-     "hex": "#a694dd",
+     "hex": "#a69cd8",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-260"
+     ]
     },
     {
      "code": "636",
-     "hex": "#004b96",
+     "hex": "#2a6b8f",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-268"
+     ]
     },
     {
      "code": "637",
-     "hex": "#73713d",
+     "hex": "#8a823c",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "AG-254"
+     ]
     },
     {
      "code": "638",
-     "hex": "#968a64",
+     "hex": "#afa890",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BR-711"
+     ]
     },
     {
      "code": "639",
-     "hex": "#784c37",
+     "hex": "#603824",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "640",
-     "hex": "#8e9b5c",
+     "hex": "#9ea664",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "GR-1012"
+     ]
     },
     {
      "code": "641",
-     "hex": "#76a495",
+     "hex": "#539994",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "GR-1013"
+     ]
     },
     {
      "code": "642",
-     "hex": "#4f5b51",
+     "hex": "#5a6659",
      "set": 240,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "643",
-     "hex": "#624725",
+     "hex": "#5d4631",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BR-715"
+     ]
     },
     {
      "code": "644",
-     "hex": "#a06e3f",
+     "hex": "#98603d",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BR-713"
+     ]
     },
     {
      "code": "645",
-     "hex": "#bcac58",
+     "hex": "#c0a278",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "AG-249"
+     ]
     },
     {
      "code": "646",
-     "hex": "#bcb792",
+     "hex": "#d7d1be",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BR-710"
+     ]
     },
     {
      "code": "647",
-     "hex": "#a4b22d",
+     "hex": "#6b740e",
      "set": 240,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "648",
-     "hex": "#b8d275",
+     "hex": "#aece4e",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "SG-225"
+     ]
     },
     {
      "code": "649",
-     "hex": "#ffa831",
+     "hex": "#d67e4c",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "CS-511"
+     ]
     },
     {
      "code": "650",
-     "hex": "#185cba",
+     "hex": "#2369ad",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-211"
+     ]
     },
     {
      "code": "651",
-     "hex": "#6967a8",
+     "hex": "#6773bf",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-261"
+     ]
     },
     {
      "code": "652",
-     "hex": "#afa856",
+     "hex": "#9ea345",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "653",
-     "hex": "#00808f",
+     "hex": "#058776",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "GR-1010"
+     ]
     },
     {
      "code": "654",
-     "hex": "#bf9c82",
+     "hex": "#986d56",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "655",
-     "hex": "#e764b2",
+     "hex": "#e193c3",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PC-811"
+     ]
     },
     {
      "code": "656",
-     "hex": "#ffbe63",
+     "hex": "#e5b04e",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "YE-134"
+     ]
     },
     {
      "code": "657",
-     "hex": "#a2a900",
+     "hex": "#818600",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "GR-1011"
+     ]
     },
     {
      "code": "658",
-     "hex": "#f289d3",
+     "hex": "#d585aa",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PU-309"
+     ]
     },
     {
      "code": "659",
-     "hex": "#0c34a1",
+     "hex": "#0f4d92",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-212"
+     ]
     },
     {
      "code": "660",
      "hex": "#f88db0",
      "set": 240,
-     "src": "verified",
-     "neon": true
+     "src": "scanned",
+     "neon": true,
+     "analog": [
+      "HC-139"
+     ]
     },
     {
      "code": "661",
      "hex": "#ff8969",
      "set": 240,
-     "src": "verified",
+     "src": "scanned",
      "neon": true
     },
     {
      "code": "662",
      "hex": "#7ecc6f",
      "set": 240,
-     "src": "verified",
+     "src": "scanned",
      "neon": true
     },
     {
      "code": "663",
      "hex": "#e97941",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "RY-10"
+     ]
     },
     {
      "code": "664",
-     "hex": "#d71810",
+     "hex": "#c7071c",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "665",
-     "hex": "#619500",
+     "hex": "#397b24",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "SG-230"
+     ]
     },
     {
      "code": "666",
-     "hex": "#924e8b",
+     "hex": "#96457d",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PC-241"
+     ]
     },
     {
      "code": "667",
-     "hex": "#e6615d",
+     "hex": "#dd4853",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "668",
-     "hex": "#36994f",
+     "hex": "#00a857",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "SG-228"
+     ]
     },
     {
      "code": "669",
-     "hex": "#65c45e",
+     "hex": "#5ea956",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "GR-111"
+     ]
     },
     {
      "code": "670",
-     "hex": "#5e7ece",
+     "hex": "#4d72b0",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "671",
-     "hex": "#a14474",
+     "hex": "#b42d59",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PC-813"
+     ]
     },
     {
      "code": "672",
-     "hex": "#5d3425",
+     "hex": "#78472d",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "RY-07"
+     ]
     },
     {
      "code": "673",
-     "hex": "#262c7b",
+     "hex": "#132a68",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-209",
+      "BL-266"
+     ]
     },
     {
      "code": "674",
-     "hex": "#7e2d3d",
+     "hex": "#902e3f",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PC-242"
+     ]
     },
     {
      "code": "675",
-     "hex": "#4f354c",
+     "hex": "#604053",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-263"
+     ]
     },
     {
      "code": "676",
-     "hex": "#2f5e26",
+     "hex": "#064316",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "677",
-     "hex": "#e9747b",
+     "hex": "#df7f78",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "LC-111"
+     ]
     },
     {
      "code": "678",
-     "hex": "#2e0275",
+     "hex": "#2f306d",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-265"
+     ]
     },
     {
      "code": "679",
-     "hex": "#423735",
+     "hex": "#373430",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "680",
-     "hex": "#272727",
+     "hex": "#323a3c",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "GB-412"
+     ]
     },
     {
      "code": "681",
-     "hex": "#6f8ca5",
+     "hex": "#74a2b8",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "DB-162"
+     ]
     },
     {
      "code": "682",
-     "hex": "#608036",
+     "hex": "#527a2e",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "GR-112"
+     ]
     },
     {
      "code": "683",
-     "hex": "#f7d383",
+     "hex": "#eecd94",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "684",
-     "hex": "#f0b770",
+     "hex": "#eab168",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "YE-135"
+     ]
     },
     {
      "code": "685",
-     "hex": "#55ae82",
+     "hex": "#44b985",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "SG-227"
+     ]
     },
     {
      "code": "686",
-     "hex": "#b0aea7",
+     "hex": "#989891",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "GB-410"
+     ]
     },
     {
      "code": "687",
-     "hex": "#7caa00",
+     "hex": "#538819",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "GR-105"
+     ]
     },
     {
      "code": "688",
-     "hex": "#0a182b",
+     "hex": "#00334e",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "DB-169"
+     ]
     },
     {
      "code": "689",
-     "hex": "#6c9dd2",
+     "hex": "#679fc4",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "690",
-     "hex": "#507d82",
+     "hex": "#4b6a60",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "DB-164"
+     ]
     },
     {
      "code": "691",
-     "hex": "#de8478",
+     "hex": "#e15a60",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "692",
-     "hex": "#e86f8c",
+     "hex": "#e26f8a",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "LC-115"
+     ]
     },
     {
      "code": "693",
-     "hex": "#3c4553",
+     "hex": "#152734",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "694",
-     "hex": "#103640",
+     "hex": "#23545f",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "DB-167"
+     ]
     },
     {
      "code": "695",
-     "hex": "#00414b",
+     "hex": "#006d64",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "DB-166"
+     ]
     },
     {
      "code": "696",
-     "hex": "#649867",
+     "hex": "#588e5c",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "SG-153"
+     ]
     },
     {
      "code": "697",
-     "hex": "#274c32",
+     "hex": "#334728",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "SG-158"
+     ]
     },
     {
      "code": "698",
-     "hex": "#a292b9",
+     "hex": "#ab9fee",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PU-301"
+     ]
     },
     {
      "code": "699",
-     "hex": "#9275af",
+     "hex": "#8e72bf",
      "set": 240,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "700",
-     "hex": "#d0dc61",
+     "hex": "#9ea945",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "701",
-     "hex": "#f8cca1",
+     "hex": "#ffce85",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "702",
-     "hex": "#f0b654",
+     "hex": "#ffaa62",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "703",
-     "hex": "#fccbb3",
+     "hex": "#edcbb1",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "704",
-     "hex": "#ffb99b",
+     "hex": "#efb099",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PC-244"
+     ]
     },
     {
      "code": "705",
-     "hex": "#772740",
+     "hex": "#703b48",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PC-809"
+     ]
     },
     {
      "code": "706",
-     "hex": "#cedbda",
+     "hex": "#c9e0d4",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "707",
-     "hex": "#bdc3a3",
+     "hex": "#bfd0a5",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "SG-151"
+     ]
     },
     {
      "code": "708",
-     "hex": "#463026",
+     "hex": "#37261f",
      "set": 240,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "709",
-     "hex": "#382922",
+     "hex": "#312724",
      "set": 240,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "710",
-     "hex": "#d54f5b",
+     "hex": "#d35a54",
      "set": 240,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "711",
-     "hex": "#cc6d8f",
+     "hex": "#d1577f",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PC-239"
+     ]
     },
     {
      "code": "712",
-     "hex": "#ff8ac7",
+     "hex": "#ff78b7",
      "set": 168,
-     "src": "verified",
-     "neon": true
+     "src": "scanned",
+     "neon": true,
+     "analog": [
+      "PC-238"
+     ]
     },
     {
      "code": "713",
-     "hex": "#c43e64",
+     "hex": "#ca4c59",
      "set": 240,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "714",
-     "hex": "#a42453",
+     "hex": "#d03959",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PC-818"
+     ]
     },
     {
      "code": "715",
-     "hex": "#d02734",
+     "hex": "#cf3038",
      "set": 240,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "716",
-     "hex": "#fcaab3",
+     "hex": "#eeb5b7",
      "set": 240,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "717",
-     "hex": "#dab076",
+     "hex": "#a57f5e",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "718",
@@ -724,676 +953,937 @@
     },
     {
      "code": "719",
-     "hex": "#f8d9ae",
+     "hex": "#facf92",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "CS-510"
+     ]
     },
     {
      "code": "720",
-     "hex": "#ffddaf",
+     "hex": "#f0cca1",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "YE-131"
+     ]
     },
     {
      "code": "721",
-     "hex": "#f7d6bd",
+     "hex": "#f8decb",
      "set": 240,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "722",
-     "hex": "#00708b",
+     "hex": "#0a7e8a",
      "set": 240,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "723",
-     "hex": "#dcabc9",
+     "hex": "#edb9dc",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PC-810"
+     ]
     },
     {
      "code": "724",
-     "hex": "#ffd4b6",
+     "hex": "#f8d8b1",
      "set": 240,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "725",
-     "hex": "#f98a00",
+     "hex": "#f87c00",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "YE-126"
+     ]
     },
     {
      "code": "726",
-     "hex": "#752c7e",
+     "hex": "#73346a",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PU-319"
+     ]
     },
     {
      "code": "727",
-     "hex": "#b6c052",
+     "hex": "#7b8e30",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "728",
-     "hex": "#007767",
+     "hex": "#008a4e",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "GR-113"
+     ]
     },
     {
      "code": "729",
-     "hex": "#c6ba72",
+     "hex": "#b3c35e",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "YE-132"
+     ]
     },
     {
      "code": "730",
-     "hex": "#d2e7b5",
+     "hex": "#afc8a2",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "GR-110"
+     ]
     },
     {
      "code": "731",
-     "hex": "#988d69",
+     "hex": "#aa9375",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "AG-250"
+     ]
     },
     {
      "code": "732",
-     "hex": "#eae26f",
+     "hex": "#ece16e",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "733",
-     "hex": "#dfcd4a",
+     "hex": "#ffe944",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "734",
-     "hex": "#cab2c3",
+     "hex": "#dbc0e5",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PU-310"
+     ]
     },
     {
      "code": "735",
-     "hex": "#b2c74f",
+     "hex": "#8aa163",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "736",
-     "hex": "#ccdae0",
+     "hex": "#cad5d9",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-257"
+     ]
     },
     {
      "code": "737",
-     "hex": "#8ed2c4",
+     "hex": "#7be2cd",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "SG-222"
+     ]
     },
     {
      "code": "738",
-     "hex": "#d1beae",
+     "hex": "#e4d4c2",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "AG-246"
+     ]
     },
     {
      "code": "739",
-     "hex": "#752c72",
+     "hex": "#763d57",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PC-815"
+     ]
     },
     {
      "code": "740",
-     "hex": "#39904d",
+     "hex": "#0b6c15",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "741",
-     "hex": "#718654",
+     "hex": "#6c8053",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "SG-154"
+     ]
     },
     {
      "code": "742",
-     "hex": "#492f9a",
+     "hex": "#4a3bae",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "743",
-     "hex": "#451580",
+     "hex": "#453c85",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PU-314"
+     ]
     },
     {
      "code": "744",
-     "hex": "#cbb6d5",
+     "hex": "#d7cef2",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PU-311"
+     ]
     },
     {
      "code": "745",
-     "hex": "#6d88c7",
+     "hex": "#5785bc",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "746",
-     "hex": "#222c59",
+     "hex": "#162a54",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PU-320"
+     ]
     },
     {
      "code": "747",
-     "hex": "#4e5d7e",
+     "hex": "#435877",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PU-318"
+     ]
     },
     {
      "code": "748",
-     "hex": "#144b72",
+     "hex": "#377183",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "DB-1612"
+     ]
     },
     {
      "code": "749",
-     "hex": "#475c8b",
+     "hex": "#426e90",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "DB-1610"
+     ]
     },
     {
      "code": "750",
-     "hex": "#4f6784",
+     "hex": "#4b6f89",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "DB-1611"
+     ]
     },
     {
      "code": "751",
-     "hex": "#b6b0a5",
+     "hex": "#beb7af",
      "set": 240,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "752",
-     "hex": "#b4a4a2",
+     "hex": "#b9aaa8",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "LC-1110"
+     ]
     },
     {
      "code": "753",
-     "hex": "#ac9a8c",
+     "hex": "#a79b8c",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BR-703"
+     ]
     },
     {
      "code": "754",
-     "hex": "#c19f96",
+     "hex": "#a47a6c",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "AG-247"
+     ]
     },
     {
      "code": "755",
-     "hex": "#be8070",
+     "hex": "#b07468",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "CS-509"
+     ]
     },
     {
      "code": "756",
-     "hex": "#a86b63",
+     "hex": "#ae6959",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "CS-149"
+     ]
     },
     {
      "code": "757",
-     "hex": "#826332",
+     "hex": "#7e5c3e",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "YE-1212"
+     ]
     },
     {
      "code": "758",
-     "hex": "#725b47",
+     "hex": "#796054",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "AG-179"
+     ]
     },
     {
      "code": "759",
-     "hex": "#6c5f5f",
+     "hex": "#504441",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "GB-406"
+     ]
     },
     {
      "code": "760",
-     "hex": "#a7001d",
+     "hex": "#bb000f",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "LC-114"
+     ]
     },
     {
      "code": "761",
-     "hex": "#f85885",
+     "hex": "#e57990",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PC-240"
+     ]
     },
     {
      "code": "762",
-     "hex": "#ffa3c4",
+     "hex": "#ff81c3",
      "set": 240,
-     "src": "verified",
-     "neon": true
+     "src": "scanned",
+     "neon": true,
+     "analog": [
+      "PC-817"
+     ]
     },
     {
      "code": "763",
-     "hex": "#070d29",
+     "hex": "#0f2034",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "CB-908"
+     ]
     },
     {
      "code": "764",
-     "hex": "#0f0036",
+     "hex": "#1d2142",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "CB-904"
+     ]
     },
     {
      "code": "765",
-     "hex": "#f0e120",
+     "hex": "#ffe93e",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "YE-122"
+     ]
     },
     {
      "code": "766",
-     "hex": "#eae75e",
+     "hex": "#f5e358",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "YE-121"
+     ]
     },
     {
      "code": "767",
-     "hex": "#396773",
+     "hex": "#40727d",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "DB-165"
+     ]
     },
     {
      "code": "768",
-     "hex": "#88a6b0",
+     "hex": "#84b0b5",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "DB-161"
+     ]
     },
     {
      "code": "769",
-     "hex": "#392630",
+     "hex": "#5a3b3d",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "770",
-     "hex": "#5b4b56",
+     "hex": "#7e5f6d",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PC-816"
+     ]
     },
     {
      "code": "771",
-     "hex": "#a88f8d",
+     "hex": "#c6b5af",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BR-712"
+     ]
     },
     {
      "code": "772",
-     "hex": "#9b6978",
+     "hex": "#af6375",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PC-814"
+     ]
     },
     {
      "code": "773",
-     "hex": "#8f769a",
+     "hex": "#928aa6",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PU-313"
+     ]
     },
     {
      "code": "774",
-     "hex": "#003752",
+     "hex": "#225566",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "DB-168"
+     ]
     },
     {
      "code": "775",
-     "hex": "#a8c7ab",
+     "hex": "#9abba2",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "SG-152"
+     ]
     },
     {
      "code": "776",
-     "hex": "#3f2d2c",
+     "hex": "#29191a",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BR-709"
+     ]
     },
     {
      "code": "777",
-     "hex": "#f0d50f",
+     "hex": "#e6d129",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "RY-02"
+     ]
     },
     {
      "code": "778",
-     "hex": "#4d2656",
+     "hex": "#472a5c",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PU-315"
+     ]
     },
     {
      "code": "779",
-     "hex": "#372523",
+     "hex": "#23090f",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "780",
-     "hex": "#3d2322",
+     "hex": "#512123",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "781",
-     "hex": "#7f1c32",
+     "hex": "#830021",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "RY-14"
+     ]
     },
     {
      "code": "782",
-     "hex": "#d94926",
+     "hex": "#f84b00",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "RY-11"
+     ]
     },
     {
      "code": "783",
      "hex": "#de5c2d",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "784",
-     "hex": "#8f280d",
+     "hex": "#912214",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "RY-13"
+     ]
     },
     {
      "code": "785",
-     "hex": "#b04118",
+     "hex": "#c55200",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "RY-12"
+     ]
     },
     {
      "code": "786",
-     "hex": "#f5a100",
+     "hex": "#ea9d00",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "787",
-     "hex": "#a0a52f",
+     "hex": "#869b00",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "YE-133"
+     ]
     },
     {
      "code": "788",
-     "hex": "#8a830e",
+     "hex": "#587f36",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "AG-251"
+     ]
     },
     {
      "code": "789",
-     "hex": "#393801",
+     "hex": "#515236",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "CB-910"
+     ]
     },
     {
      "code": "790",
-     "hex": "#3b4100",
+     "hex": "#2c4515",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "SG-157"
+     ]
     },
     {
      "code": "791",
-     "hex": "#14240e",
+     "hex": "#24301f",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "CB-903"
+     ]
     },
     {
      "code": "792",
-     "hex": "#526c59",
+     "hex": "#436a50",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "SG-156"
+     ]
     },
     {
      "code": "793",
-     "hex": "#5c6117",
+     "hex": "#5e6c2b",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "AG-252"
+     ]
     },
     {
      "code": "794",
-     "hex": "#0a5b3a",
+     "hex": "#005f23",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "SG-231"
+     ]
     },
     {
      "code": "795",
-     "hex": "#07221b",
+     "hex": "#073a2b",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "SG-159"
+     ]
     },
     {
      "code": "796",
-     "hex": "#183329",
+     "hex": "#032f17",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "797",
-     "hex": "#002329",
+     "hex": "#00363f",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "798",
-     "hex": "#053561",
+     "hex": "#105f74",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-214"
+     ]
     },
     {
      "code": "799",
-     "hex": "#15677b",
+     "hex": "#0b797c",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "GR-114"
+     ]
     },
     {
      "code": "800",
-     "hex": "#254549",
+     "hex": "#004f4b",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "801",
-     "hex": "#cfcfcf",
+     "hex": "#d1d1d1",
      "set": 240,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "802",
-     "hex": "#e79825",
+     "hex": "#f59d3a",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "RY-03"
+     ]
     },
     {
      "code": "803",
-     "hex": "#b9b9b9",
+     "hex": "#b1b7b7",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-258"
+     ]
     },
     {
      "code": "804",
-     "hex": "#aaa8ab",
+     "hex": "#9ca5ac",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "GB-402"
+     ]
     },
     {
      "code": "805",
-     "hex": "#54585a",
+     "hex": "#4f5456",
      "set": 240,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "806",
-     "hex": "#29303f",
+     "hex": "#2b3c4f",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "CB-909"
+     ]
     },
     {
      "code": "807",
-     "hex": "#212121",
+     "hex": "#252522",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "CB-907"
+     ]
     },
     {
      "code": "808",
-     "hex": "#301f29",
+     "hex": "#453142",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "CB-905"
+     ]
     },
     {
      "code": "809",
-     "hex": "#b2d6b4",
+     "hex": "#8cd4ab",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "GR-101"
+     ]
     },
     {
      "code": "810",
-     "hex": "#baab5a",
+     "hex": "#a6b56b",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "YE-1210"
+     ]
     },
     {
      "code": "811",
-     "hex": "#8d8538",
+     "hex": "#858d38",
      "set": 240,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "812",
-     "hex": "#81742b",
+     "hex": "#7f8333",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "YE-1211"
+     ]
     },
     {
      "code": "813",
-     "hex": "#9d890e",
+     "hex": "#9a8b00",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "YE-129"
+     ]
     },
     {
      "code": "814",
-     "hex": "#ac8f25",
+     "hex": "#af9e22",
      "set": 240,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "815",
-     "hex": "#a68706",
+     "hex": "#a99600",
      "set": 240,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "816",
-     "hex": "#7b6216",
+     "hex": "#806f15",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "AG-253"
+     ]
     },
     {
      "code": "817",
-     "hex": "#97770a",
+     "hex": "#9b8500",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "YE-127"
+     ]
     },
     {
      "code": "818",
-     "hex": "#88c0c8",
+     "hex": "#b1e6d8",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-201"
+     ]
     },
     {
      "code": "819",
-     "hex": "#50a7b1",
+     "hex": "#5dcece",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-202"
+     ]
     },
     {
      "code": "820",
-     "hex": "#00819c",
+     "hex": "#37a1ad",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-203"
+     ]
     },
     {
      "code": "821",
-     "hex": "#93cee9",
+     "hex": "#9fe7f3",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-204"
+     ]
     },
     {
      "code": "822",
-     "hex": "#5bbcf3",
+     "hex": "#6dcdf1",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-205"
+     ]
     },
     {
      "code": "823",
-     "hex": "#206197",
+     "hex": "#3683a1",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-206"
+     ]
     },
     {
      "code": "824",
-     "hex": "#0e223f",
+     "hex": "#123f5f",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BL-207"
+     ]
     },
     {
      "code": "825",
-     "hex": "#b2a6c7",
+     "hex": "#b7b7cd",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PU-316"
+     ]
     },
     {
      "code": "826",
-     "hex": "#9591b8",
+     "hex": "#9297b8",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PU-317"
+     ]
     },
     {
      "code": "827",
-     "hex": "#67709e",
+     "hex": "#6a7a9d",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PU-321"
+     ]
     },
     {
      "code": "828",
-     "hex": "#5e4d93",
+     "hex": "#384aa5",
      "set": 240,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "829",
-     "hex": "#b6a7b0",
+     "hex": "#d1cacd",
      "set": 288,
-     "src": "estimated"
+     "src": "analog",
+     "analog": [
+      "AG-245"
+     ]
     },
     {
      "code": "830",
-     "hex": "#a2a5c7",
+     "hex": "#a8b6dc",
      "set": 288,
-     "src": "estimated"
+     "src": "analog",
+     "analog": [
+      "BL-259"
+     ]
     },
     {
      "code": "831",
@@ -1403,15 +1893,21 @@
     },
     {
      "code": "832",
-     "hex": "#5d3577",
+     "hex": "#5c3773",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PU-306"
+     ]
     },
     {
      "code": "833",
-     "hex": "#9f54a5",
+     "hex": "#8d4989",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PU-307"
+     ]
     },
     {
      "code": "834",
@@ -1427,27 +1923,39 @@
     },
     {
      "code": "836",
-     "hex": "#ffd1dc",
+     "hex": "#ffe1ed",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "CS-501"
+     ]
     },
     {
      "code": "837",
-     "hex": "#ffcbbc",
+     "hex": "#ffe4dc",
      "set": 240,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "CS-502"
+     ]
     },
     {
      "code": "838",
-     "hex": "#d2b7c4",
+     "hex": "#f3d3e7",
      "set": 288,
-     "src": "estimated"
+     "src": "analog",
+     "analog": [
+      "PC-233"
+     ]
     },
     {
      "code": "839",
-     "hex": "#c198a1",
+     "hex": "#cc8595",
      "set": 288,
-     "src": "estimated"
+     "src": "analog",
+     "analog": [
+      "PC-237"
+     ]
     },
     {
      "code": "840",
@@ -1463,9 +1971,12 @@
     },
     {
      "code": "842",
-     "hex": "#87abbf",
+     "hex": "#84cbd8",
      "set": 288,
-     "src": "estimated"
+     "src": "analog",
+     "analog": [
+      "SG-221"
+     ]
     },
     {
      "code": "843",
@@ -1481,9 +1992,12 @@
     },
     {
      "code": "845",
-     "hex": "#6ba763",
+     "hex": "#49a827",
      "set": 288,
-     "src": "estimated"
+     "src": "analog",
+     "analog": [
+      "SG-226"
+     ]
     },
     {
      "code": "846",
@@ -1493,9 +2007,12 @@
     },
     {
      "code": "847",
-     "hex": "#cbce72",
+     "hex": "#b8b500",
      "set": 288,
-     "src": "estimated"
+     "src": "analog",
+     "analog": [
+      "SG-224"
+     ]
     },
     {
      "code": "848",
@@ -1529,30 +2046,36 @@
     },
     {
      "code": "853",
-     "hex": "#b7aea1",
+     "hex": "#a3a196",
      "set": 168,
-     "src": "verified"
+     "src": "scanned"
     },
     {
      "code": "854",
      "hex": "#ffab9f",
      "set": 168,
-     "src": "verified",
+     "src": "scanned",
      "neon": true
     },
     {
      "code": "855",
      "hex": "#f5f060",
      "set": 168,
-     "src": "verified",
-     "neon": true
+     "src": "scanned",
+     "neon": true,
+     "analog": [
+      "HC-602"
+     ]
     },
     {
      "code": "856",
      "hex": "#d1fe8e",
      "set": 168,
-     "src": "verified",
-     "neon": true
+     "src": "scanned",
+     "neon": true,
+     "analog": [
+      "HC-603"
+     ]
     },
     {
      "code": "857",
@@ -1570,8 +2093,11 @@
      "code": "859",
      "hex": "#f8bc6e",
      "set": 168,
-     "src": "verified",
-     "neon": true
+     "src": "scanned",
+     "neon": true,
+     "analog": [
+      "HC-606"
+     ]
     },
     {
      "code": "860",
@@ -1593,9 +2119,12 @@
     },
     {
      "code": "863",
-     "hex": "#8f5e3d",
+     "hex": "#7e503f",
      "set": 288,
-     "src": "estimated"
+     "src": "analog",
+     "analog": [
+      "BR-714"
+     ]
     },
     {
      "code": "864",
@@ -1629,9 +2158,12 @@
     },
     {
      "code": "869",
-     "hex": "#6b4b31",
+     "hex": "#7e4539",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "BR-707"
+     ]
     },
     {
      "code": "870",
@@ -1641,21 +2173,30 @@
     },
     {
      "code": "871",
-     "hex": "#cbbf9f",
+     "hex": "#e0bf99",
      "set": 288,
-     "src": "estimated"
+     "src": "analog",
+     "analog": [
+      "CS-142"
+     ]
     },
     {
      "code": "872",
-     "hex": "#f2bcbb",
+     "hex": "#ffdee2",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PC-801"
+     ]
     },
     {
      "code": "873",
-     "hex": "#d49db6",
+     "hex": "#d8a6c6",
      "set": 168,
-     "src": "verified"
+     "src": "scanned",
+     "analog": [
+      "PC-802"
+     ]
     },
     {
      "code": "874",
@@ -1677,45 +2218,66 @@
     },
     {
      "code": "877",
-     "hex": "#d7d5b7",
+     "hex": "#ebd5bb",
      "set": 288,
-     "src": "estimated"
+     "src": "analog",
+     "analog": [
+      "LC-191"
+     ]
     },
     {
      "code": "878",
-     "hex": "#bccad2",
+     "hex": "#b3e3e7",
      "set": 288,
-     "src": "estimated"
+     "src": "analog",
+     "analog": [
+      "LC-193"
+     ]
     },
     {
      "code": "879",
-     "hex": "#bdc1cc",
+     "hex": "#b0cce9",
      "set": 288,
-     "src": "estimated"
+     "src": "analog",
+     "analog": [
+      "LC-194"
+     ]
     },
     {
      "code": "880",
-     "hex": "#cbc1c8",
+     "hex": "#d8d7ee",
      "set": 288,
-     "src": "estimated"
+     "src": "analog",
+     "analog": [
+      "LC-195"
+     ]
     },
     {
      "code": "881",
-     "hex": "#d5c5c1",
+     "hex": "#f0f0f0",
      "set": 288,
-     "src": "estimated"
+     "src": "analog",
+     "analog": [
+      "LC-196"
+     ]
     },
     {
      "code": "882",
-     "hex": "#d5c2ba",
+     "hex": "#eee5cb",
      "set": 288,
-     "src": "estimated"
+     "src": "analog",
+     "analog": [
+      "LC-197"
+     ]
     },
     {
      "code": "883",
-     "hex": "#d9d2c7",
+     "hex": "#f0f0f0",
      "set": 288,
-     "src": "estimated"
+     "src": "analog",
+     "analog": [
+      "LC-198"
+     ]
     },
     {
      "code": "884",
@@ -1750,1040 +2312,1309 @@
    "colors": [
     {
      "code": "AG-171",
-     "hex": "#7e8b92",
+     "hex": "#929597",
      "set": 240,
-     "src": "measured",
+     "src": "scanned",
      "series": "AG"
     },
     {
      "code": "AG-172",
-     "hex": "#7f909f",
+     "hex": "#86898d",
      "set": 240,
-     "src": "measured",
+     "src": "scanned",
      "series": "AG"
     },
     {
      "code": "AG-173",
-     "hex": "#708a9b",
+     "hex": "#738d98",
      "set": 240,
-     "src": "measured",
+     "src": "scanned",
      "series": "AG"
     },
     {
      "code": "AG-174",
-     "hex": "#88958d",
+     "hex": "#8e988f",
      "set": 240,
-     "src": "measured",
+     "src": "scanned",
      "series": "AG"
     },
     {
      "code": "AG-175",
-     "hex": "#768170",
+     "hex": "#7e8a74",
      "set": 240,
-     "src": "measured",
+     "src": "scanned",
      "series": "AG"
     },
     {
      "code": "AG-176",
-     "hex": "#66736f",
+     "hex": "#6d7978",
      "set": 240,
-     "src": "measured",
+     "src": "scanned",
      "series": "AG"
     },
     {
      "code": "AG-177",
-     "hex": "#8f8982",
+     "hex": "#9d958e",
      "set": 240,
-     "src": "measured",
+     "src": "scanned",
      "series": "AG"
     },
     {
      "code": "AG-178",
-     "hex": "#8f736b",
+     "hex": "#7f635a",
      "set": 240,
-     "src": "measured",
+     "src": "scanned",
      "series": "AG"
     },
     {
      "code": "AG-179",
-     "hex": "#7a645b",
+     "hex": "#796054",
      "set": 240,
-     "src": "measured",
-     "series": "AG"
+     "src": "scanned",
+     "series": "AG",
+     "analog": [
+      "758"
+     ]
     },
     {
      "code": "AG-245",
-     "hex": "#a39ea3",
+     "hex": "#d1cacd",
      "set": 288,
-     "src": "verified",
-     "series": "AG"
+     "src": "scanned",
+     "series": "AG",
+     "analog": [
+      "829"
+     ]
     },
     {
      "code": "AG-246",
-     "hex": "#afa9a1",
+     "hex": "#e4d4c2",
      "set": 288,
-     "src": "verified",
-     "series": "AG"
+     "src": "scanned",
+     "series": "AG",
+     "analog": [
+      "738"
+     ]
     },
     {
      "code": "AG-247",
-     "hex": "#ab9890",
+     "hex": "#a47a6c",
      "set": 288,
-     "src": "verified",
-     "series": "AG"
+     "src": "scanned",
+     "series": "AG",
+     "analog": [
+      "754"
+     ]
     },
     {
      "code": "AG-248",
-     "hex": "#97725c",
+     "hex": "#9b6f63",
      "set": 288,
-     "src": "verified",
+     "src": "scanned",
      "series": "AG"
     },
     {
      "code": "AG-249",
-     "hex": "#beac7b",
+     "hex": "#c0a278",
      "set": 288,
-     "src": "measured",
-     "series": "AG"
+     "src": "scanned",
+     "series": "AG",
+     "analog": [
+      "645"
+     ]
     },
     {
      "code": "AG-250",
-     "hex": "#ae9e77",
+     "hex": "#aa9375",
      "set": 288,
-     "src": "measured",
-     "series": "AG"
+     "src": "scanned",
+     "series": "AG",
+     "analog": [
+      "731"
+     ]
     },
     {
      "code": "AG-251",
-     "hex": "#847a49",
+     "hex": "#587f36",
      "set": 288,
-     "src": "estimated",
-     "series": "AG"
+     "src": "scanned",
+     "series": "AG",
+     "analog": [
+      "788"
+     ]
     },
     {
      "code": "AG-252",
-     "hex": "#6d6d3d",
+     "hex": "#5e6c2b",
      "set": 288,
-     "src": "estimated",
-     "series": "AG"
+     "src": "scanned",
+     "series": "AG",
+     "analog": [
+      "793"
+     ]
     },
     {
      "code": "AG-253",
-     "hex": "#8a711c",
+     "hex": "#806f15",
      "set": 288,
-     "src": "measured",
-     "series": "AG"
+     "src": "scanned",
+     "series": "AG",
+     "analog": [
+      "816"
+     ]
     },
     {
      "code": "AG-254",
-     "hex": "#8f8a54",
+     "hex": "#8a823c",
      "set": 288,
-     "src": "measured",
-     "series": "AG"
+     "src": "scanned",
+     "series": "AG",
+     "analog": [
+      "637"
+     ]
     },
     {
      "code": "AG-255",
-     "hex": "#686b6d",
+     "hex": "#5b6f6e",
      "set": 288,
-     "src": "estimated",
+     "src": "scanned",
      "series": "AG"
     },
     {
      "code": "AG-256",
      "hex": "#a56a1d",
      "set": 288,
-     "src": "measured",
+     "src": "scanned",
      "series": "AG"
     },
     {
      "code": "HC-608",
      "hex": "#a08a14",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "HC",
      "neon": true
     },
     {
      "code": "BL-201",
-     "hex": "#92afa6",
+     "hex": "#b1e6d8",
      "set": 192,
-     "src": "verified",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "818"
+     ]
     },
     {
      "code": "BL-202",
-     "hex": "#509fb2",
+     "hex": "#5dcece",
      "set": 192,
-     "src": "verified",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "819"
+     ]
     },
     {
      "code": "BL-203",
-     "hex": "#3a88a9",
+     "hex": "#37a1ad",
      "set": 192,
-     "src": "verified",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "820"
+     ]
     },
     {
      "code": "BL-204",
-     "hex": "#87b4c8",
+     "hex": "#9fe7f3",
      "set": 192,
-     "src": "verified",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "821"
+     ]
     },
     {
      "code": "BL-205",
-     "hex": "#63a7cf",
+     "hex": "#6dcdf1",
      "set": 192,
-     "src": "verified",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "822"
+     ]
     },
     {
      "code": "BL-206",
-     "hex": "#296fa4",
+     "hex": "#3683a1",
      "set": 192,
-     "src": "verified",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "823"
+     ]
     },
     {
      "code": "BL-207",
-     "hex": "#1a375f",
+     "hex": "#123f5f",
      "set": 192,
-     "src": "verified",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "824"
+     ]
     },
     {
      "code": "BL-208",
-     "hex": "#274b92",
+     "hex": "#325b95",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "BL"
     },
     {
      "code": "BL-209",
-     "hex": "#283680",
+     "hex": "#132a68",
      "set": 192,
-     "src": "verified",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "673",
+      "BL-266"
+     ]
     },
     {
      "code": "BL-210",
-     "hex": "#4c91e8",
+     "hex": "#2f93c7",
      "set": 192,
-     "src": "estimated",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "601"
+     ]
     },
     {
      "code": "BL-211",
-     "hex": "#4a82ce",
+     "hex": "#2369ad",
      "set": 192,
-     "src": "estimated",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "650"
+     ]
     },
     {
      "code": "BL-212",
-     "hex": "#5073bf",
+     "hex": "#0f4d92",
      "set": 192,
-     "src": "estimated",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "659"
+     ]
     },
     {
      "code": "BL-213",
-     "hex": "#3080b8",
+     "hex": "#157590",
      "set": 192,
-     "src": "estimated",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "616"
+     ]
     },
     {
      "code": "BL-214",
-     "hex": "#29729c",
+     "hex": "#105f74",
      "set": 192,
-     "src": "estimated",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "798"
+     ]
     },
     {
      "code": "BL-215",
-     "hex": "#4d7fca",
+     "hex": "#12619c",
      "set": 240,
-     "src": "estimated",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "621"
+     ]
     },
     {
      "code": "BL-257",
-     "hex": "#a9b4bb",
+     "hex": "#cad5d9",
      "set": 288,
-     "src": "measured",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "736"
+     ]
     },
     {
      "code": "BL-258",
-     "hex": "#b5adb6",
+     "hex": "#b1b7b7",
      "set": 288,
-     "src": "estimated",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "803"
+     ]
     },
     {
      "code": "BL-259",
-     "hex": "#8d9bc3",
+     "hex": "#a8b6dc",
      "set": 288,
-     "src": "measured",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "830"
+     ]
     },
     {
      "code": "BL-260",
-     "hex": "#9288c1",
+     "hex": "#a69cd8",
      "set": 288,
-     "src": "measured",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "635"
+     ]
     },
     {
      "code": "BL-261",
-     "hex": "#606bc6",
+     "hex": "#6773bf",
      "set": 288,
-     "src": "measured",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "651"
+     ]
     },
     {
      "code": "BL-262",
-     "hex": "#5e6087",
+     "hex": "#41418c",
      "set": 288,
-     "src": "estimated",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "607"
+     ]
     },
     {
      "code": "BL-263",
-     "hex": "#6d575a",
+     "hex": "#604053",
      "set": 288,
-     "src": "estimated",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "675"
+     ]
     },
     {
      "code": "BL-264",
-     "hex": "#46386f",
+     "hex": "#3e3069",
      "set": 288,
-     "src": "measured",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "613"
+     ]
     },
     {
      "code": "BL-265",
-     "hex": "#222264",
+     "hex": "#2f306d",
      "set": 288,
-     "src": "measured",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "678"
+     ]
     },
     {
      "code": "BL-266",
-     "hex": "#182a7b",
+     "hex": "#132a68",
      "set": 288,
-     "src": "measured",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "673",
+      "BL-209"
+     ]
     },
     {
      "code": "BL-267",
-     "hex": "#243765",
+     "hex": "#1f3c63",
      "set": 288,
-     "src": "measured",
+     "src": "scanned",
      "series": "BL"
     },
     {
      "code": "BL-268",
-     "hex": "#255593",
+     "hex": "#2a6b8f",
      "set": 288,
-     "src": "measured",
-     "series": "BL"
+     "src": "scanned",
+     "series": "BL",
+     "analog": [
+      "636"
+     ]
     },
     {
      "code": "BR-701",
-     "hex": "#b0a897",
+     "hex": "#d6c4b2",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "BR"
     },
     {
      "code": "BR-702",
-     "hex": "#a8a9a3",
+     "hex": "#d1c9c0",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "BR"
     },
     {
      "code": "BR-703",
-     "hex": "#a39c8f",
+     "hex": "#a79b8c",
      "set": 192,
-     "src": "measured",
-     "series": "BR"
+     "src": "scanned",
+     "series": "BR",
+     "analog": [
+      "753"
+     ]
     },
     {
      "code": "BR-704",
-     "hex": "#c1a37a",
+     "hex": "#c39676",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "BR"
     },
     {
      "code": "BR-705",
-     "hex": "#83705b",
+     "hex": "#8a6d57",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "BR"
     },
     {
      "code": "BR-706",
-     "hex": "#887365",
+     "hex": "#83695c",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "BR"
     },
     {
      "code": "BR-707",
-     "hex": "#895348",
+     "hex": "#7e4539",
      "set": 192,
-     "src": "measured",
-     "series": "BR"
+     "src": "scanned",
+     "series": "BR",
+     "analog": [
+      "869"
+     ]
     },
     {
      "code": "BR-708",
-     "hex": "#5c4a47",
+     "hex": "#584842",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "BR"
     },
     {
      "code": "BR-709",
-     "hex": "#423434",
+     "hex": "#29191a",
      "set": 192,
-     "src": "measured",
-     "series": "BR"
+     "src": "scanned",
+     "series": "BR",
+     "analog": [
+      "776"
+     ]
     },
     {
      "code": "BR-710",
-     "hex": "#b9bbad",
+     "hex": "#d7d1be",
      "set": 192,
-     "src": "estimated",
-     "series": "BR"
+     "src": "scanned",
+     "series": "BR",
+     "analog": [
+      "646"
+     ]
     },
     {
      "code": "BR-711",
-     "hex": "#a29585",
+     "hex": "#afa890",
      "set": 192,
-     "src": "estimated",
-     "series": "BR"
+     "src": "scanned",
+     "series": "BR",
+     "analog": [
+      "638"
+     ]
     },
     {
      "code": "BR-712",
-     "hex": "#b1a095",
+     "hex": "#c6b5af",
      "set": 192,
-     "src": "estimated",
-     "series": "BR"
+     "src": "scanned",
+     "series": "BR",
+     "analog": [
+      "771"
+     ]
     },
     {
      "code": "BR-713",
-     "hex": "#b18352",
+     "hex": "#98603d",
      "set": 192,
-     "src": "estimated",
-     "series": "BR"
+     "src": "scanned",
+     "series": "BR",
+     "analog": [
+      "644"
+     ]
     },
     {
      "code": "BR-714",
-     "hex": "#8c684c",
+     "hex": "#7e503f",
      "set": 192,
-     "src": "estimated",
-     "series": "BR"
+     "src": "scanned",
+     "series": "BR",
+     "analog": [
+      "863"
+     ]
     },
     {
      "code": "BR-715",
-     "hex": "#745e3e",
+     "hex": "#5d4631",
      "set": 192,
-     "src": "estimated",
-     "series": "BR"
+     "src": "scanned",
+     "series": "BR",
+     "analog": [
+      "643"
+     ]
     },
     {
      "code": "CB-901",
-     "hex": "#253f44",
+     "hex": "#174a49",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "CB"
     },
     {
      "code": "CB-902",
-     "hex": "#1e3139",
+     "hex": "#133c3a",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "CB"
     },
     {
      "code": "CB-903",
-     "hex": "#262f25",
+     "hex": "#24301f",
      "set": 192,
-     "src": "verified",
-     "series": "CB"
+     "src": "scanned",
+     "series": "CB",
+     "analog": [
+      "791"
+     ]
     },
     {
      "code": "CB-904",
-     "hex": "#21243e",
+     "hex": "#1d2142",
      "set": 192,
-     "src": "verified",
-     "series": "CB"
+     "src": "scanned",
+     "series": "CB",
+     "analog": [
+      "764"
+     ]
     },
     {
      "code": "CB-905",
-     "hex": "#3b2d3f",
+     "hex": "#453142",
      "set": 192,
-     "src": "verified",
-     "series": "CB"
+     "src": "scanned",
+     "series": "CB",
+     "analog": [
+      "808"
+     ]
     },
     {
      "code": "CB-906",
-     "hex": "#423036",
+     "hex": "#442d2d",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "CB"
     },
     {
      "code": "CB-907",
-     "hex": "#222222",
+     "hex": "#252522",
      "set": 192,
-     "src": "verified",
-     "series": "CB"
+     "src": "scanned",
+     "series": "CB",
+     "analog": [
+      "807"
+     ]
     },
     {
      "code": "CB-908",
-     "hex": "#1a1d2c",
+     "hex": "#0f2034",
      "set": 192,
-     "src": "verified",
-     "series": "CB"
+     "src": "scanned",
+     "series": "CB",
+     "analog": [
+      "763"
+     ]
     },
     {
      "code": "CB-909",
-     "hex": "#2e344c",
+     "hex": "#2b3c4f",
      "set": 192,
-     "src": "verified",
-     "series": "CB"
+     "src": "scanned",
+     "series": "CB",
+     "analog": [
+      "806"
+     ]
     },
     {
      "code": "CB-910",
-     "hex": "#515335",
+     "hex": "#515236",
      "set": 192,
-     "src": "estimated",
-     "series": "CB"
+     "src": "scanned",
+     "series": "CB",
+     "analog": [
+      "789"
+     ]
     },
     {
      "code": "CS-141",
-     "hex": "#d4d4c8",
+     "hex": "#f5e9cc",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "CS"
     },
     {
      "code": "CS-142",
-     "hex": "#d4c7a8",
+     "hex": "#e0bf99",
      "set": 192,
-     "src": "measured",
-     "series": "CS"
+     "src": "scanned",
+     "series": "CS",
+     "analog": [
+      "871"
+     ]
     },
     {
      "code": "CS-143",
-     "hex": "#c4b587",
+     "hex": "#c1a177",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "CS"
     },
     {
      "code": "CS-144",
-     "hex": "#cdbab3",
+     "hex": "#f9cbc5",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "CS"
     },
     {
      "code": "CS-145",
-     "hex": "#dbb69f",
+     "hex": "#db9885",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "CS"
     },
     {
      "code": "CS-146",
-     "hex": "#e7b3b3",
+     "hex": "#f4abae",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "CS"
     },
     {
      "code": "CS-147",
-     "hex": "#d69a96",
+     "hex": "#d28784",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "CS"
     },
     {
      "code": "CS-148",
-     "hex": "#c39a8e",
+     "hex": "#bc948c",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "CS"
     },
     {
      "code": "CS-149",
-     "hex": "#b17163",
+     "hex": "#ae6959",
      "set": 192,
-     "src": "measured",
-     "series": "CS"
+     "src": "scanned",
+     "series": "CS",
+     "analog": [
+      "756"
+     ]
     },
     {
      "code": "CS-501",
-     "hex": "#d0c5c6",
+     "hex": "#ffe1ed",
      "set": 192,
-     "src": "verified",
-     "series": "CS"
+     "src": "scanned",
+     "series": "CS",
+     "analog": [
+      "836"
+     ]
     },
     {
      "code": "CS-502",
-     "hex": "#d3c1bc",
+     "hex": "#ffe4dc",
      "set": 192,
-     "src": "verified",
-     "series": "CS"
+     "src": "scanned",
+     "series": "CS",
+     "analog": [
+      "837"
+     ]
     },
     {
      "code": "CS-503",
-     "hex": "#d8c7b3",
+     "hex": "#ffeccb",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "CS"
     },
     {
      "code": "CS-504",
-     "hex": "#d6bea6",
+     "hex": "#f3bea8",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "CS"
     },
     {
      "code": "CS-505",
-     "hex": "#d9c5b4",
+     "hex": "#f0d0bc",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "CS"
     },
     {
      "code": "CS-506",
-     "hex": "#e9bca2",
+     "hex": "#edac96",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "CS"
     },
     {
      "code": "CS-507",
-     "hex": "#eaa779",
+     "hex": "#ee7878",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "CS"
     },
     {
      "code": "CS-508",
-     "hex": "#e18ca2",
+     "hex": "#e6818f",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "CS"
     },
     {
      "code": "CS-509",
-     "hex": "#bc816b",
+     "hex": "#b07468",
      "set": 192,
-     "src": "measured",
-     "series": "CS"
+     "src": "scanned",
+     "series": "CS",
+     "analog": [
+      "755"
+     ]
     },
     {
      "code": "CS-510",
-     "hex": "#c3bda3",
+     "hex": "#facf92",
      "set": 192,
-     "src": "estimated",
-     "series": "CS"
+     "src": "scanned",
+     "series": "CS",
+     "analog": [
+      "719"
+     ]
     },
     {
      "code": "CS-511",
-     "hex": "#c69463",
+     "hex": "#d67e4c",
      "set": 192,
-     "src": "estimated",
-     "series": "CS"
+     "src": "scanned",
+     "series": "CS",
+     "analog": [
+      "649"
+     ]
     },
     {
      "code": "DB-161",
-     "hex": "#96b8c2",
+     "hex": "#84b0b5",
      "set": 192,
-     "src": "measured",
-     "series": "DB"
+     "src": "scanned",
+     "series": "DB",
+     "analog": [
+      "768"
+     ]
     },
     {
      "code": "DB-1610",
-     "hex": "#7a86a9",
+     "hex": "#426e90",
      "set": 240,
-     "src": "estimated",
-     "series": "DB"
+     "src": "scanned",
+     "series": "DB",
+     "analog": [
+      "749"
+     ]
     },
     {
      "code": "DB-1611",
-     "hex": "#798598",
+     "hex": "#4b6f89",
      "set": 240,
-     "src": "estimated",
-     "series": "DB"
+     "src": "scanned",
+     "series": "DB",
+     "analog": [
+      "750"
+     ]
     },
     {
      "code": "DB-1612",
-     "hex": "#66809f",
+     "hex": "#377183",
      "set": 240,
-     "src": "estimated",
-     "series": "DB"
+     "src": "scanned",
+     "series": "DB",
+     "analog": [
+      "748"
+     ]
     },
     {
      "code": "DB-162",
-     "hex": "#84a8c4",
+     "hex": "#74a2b8",
      "set": 192,
-     "src": "measured",
-     "series": "DB"
+     "src": "scanned",
+     "series": "DB",
+     "analog": [
+      "681"
+     ]
     },
     {
      "code": "DB-163",
-     "hex": "#7c9ba9",
+     "hex": "#71929c",
      "set": 192,
-     "src": "measured",
-     "series": "DB"
+     "src": "scanned",
+     "series": "DB",
+     "analog": [
+      "633"
+     ]
     },
     {
      "code": "DB-164",
-     "hex": "#72938c",
+     "hex": "#4b6a60",
      "set": 192,
-     "src": "measured",
-     "series": "DB"
+     "src": "scanned",
+     "series": "DB",
+     "analog": [
+      "690"
+     ]
     },
     {
      "code": "DB-165",
-     "hex": "#56889c",
+     "hex": "#40727d",
      "set": 192,
-     "src": "measured",
-     "series": "DB"
+     "src": "scanned",
+     "series": "DB",
+     "analog": [
+      "767"
+     ]
     },
     {
      "code": "DB-166",
-     "hex": "#357b86",
+     "hex": "#006d64",
      "set": 192,
-     "src": "measured",
-     "series": "DB"
+     "src": "scanned",
+     "series": "DB",
+     "analog": [
+      "695"
+     ]
     },
     {
      "code": "DB-167",
-     "hex": "#3d6579",
+     "hex": "#23545f",
      "set": 192,
-     "src": "measured",
-     "series": "DB"
+     "src": "scanned",
+     "series": "DB",
+     "analog": [
+      "694"
+     ]
     },
     {
      "code": "DB-168",
-     "hex": "#365f82",
+     "hex": "#225566",
      "set": 192,
-     "src": "measured",
-     "series": "DB"
+     "src": "scanned",
+     "series": "DB",
+     "analog": [
+      "774"
+     ]
     },
     {
      "code": "DB-169",
-     "hex": "#253954",
+     "hex": "#00334e",
      "set": 192,
-     "src": "measured",
-     "series": "DB"
+     "src": "scanned",
+     "series": "DB",
+     "analog": [
+      "688"
+     ]
     },
     {
      "code": "DS-181",
-     "hex": "#b9976c",
+     "hex": "#a7734a",
      "set": 240,
-     "src": "measured",
+     "src": "scanned",
      "series": "DS"
     },
     {
      "code": "DS-182",
-     "hex": "#9b7754",
+     "hex": "#845533",
      "set": 240,
-     "src": "measured",
+     "src": "scanned",
      "series": "DS"
     },
     {
      "code": "DS-183",
-     "hex": "#745a45",
+     "hex": "#67442f",
      "set": 240,
-     "src": "measured",
+     "src": "scanned",
      "series": "DS"
     },
     {
      "code": "DS-184",
-     "hex": "#854944",
+     "hex": "#7e3b33",
      "set": 240,
-     "src": "measured",
+     "src": "scanned",
      "series": "DS"
     },
     {
      "code": "DS-185",
-     "hex": "#ab5c42",
+     "hex": "#9f4733",
      "set": 240,
-     "src": "measured",
+     "src": "scanned",
      "series": "DS"
     },
     {
      "code": "DS-186",
-     "hex": "#9a623e",
+     "hex": "#8e4d2c",
      "set": 240,
-     "src": "measured",
+     "src": "scanned",
      "series": "DS"
     },
     {
      "code": "DS-187",
-     "hex": "#754a38",
+     "hex": "#643728",
      "set": 240,
-     "src": "measured",
+     "src": "scanned",
      "series": "DS"
     },
     {
      "code": "DS-188",
-     "hex": "#5c3934",
+     "hex": "#4e2a24",
      "set": 240,
-     "src": "measured",
+     "src": "scanned",
      "series": "DS"
     },
     {
      "code": "DS-189",
-     "hex": "#382d29",
+     "hex": "#35221f",
      "set": 240,
-     "src": "measured",
+     "src": "scanned",
      "series": "DS"
     },
     {
      "code": "GB-401",
-     "hex": "#cecdcd",
+     "hex": "#feffff",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "GB"
     },
     {
      "code": "GB-402",
-     "hex": "#acb2b6",
+     "hex": "#9ca5ac",
      "set": 192,
-     "src": "verified",
-     "series": "GB"
+     "src": "scanned",
+     "series": "GB",
+     "analog": [
+      "804"
+     ]
     },
     {
      "code": "GB-403",
-     "hex": "#888f91",
+     "hex": "#a4adaf",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "GB"
     },
     {
      "code": "GB-404",
-     "hex": "#626d78",
+     "hex": "#6b757e",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "GB"
     },
     {
      "code": "GB-405",
-     "hex": "#242424",
+     "hex": "#090b0c",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "GB"
     },
     {
      "code": "GB-406",
-     "hex": "#786865",
+     "hex": "#504441",
      "set": 192,
-     "src": "verified",
-     "series": "GB"
+     "src": "scanned",
+     "series": "GB",
+     "analog": [
+      "759"
+     ]
     },
     {
      "code": "GB-407",
-     "hex": "#837a79",
+     "hex": "#92908e",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "GB"
     },
     {
      "code": "GB-408",
-     "hex": "#a79c90",
+     "hex": "#bbb4aa",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "GB"
     },
     {
      "code": "GB-409",
-     "hex": "#bdb8ab",
+     "hex": "#cfcec3",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "GB"
     },
     {
      "code": "GB-410",
-     "hex": "#b1aeac",
+     "hex": "#989891",
      "set": 192,
-     "src": "estimated",
-     "series": "GB"
+     "src": "scanned",
+     "series": "GB",
+     "analog": [
+      "686"
+     ]
     },
     {
      "code": "GB-411",
-     "hex": "#938793",
+     "hex": "#90a3a8",
      "set": 192,
-     "src": "estimated",
-     "series": "GB"
+     "src": "scanned",
+     "series": "GB",
+     "analog": [
+      "610"
+     ]
     },
     {
      "code": "GB-412",
-     "hex": "#4c5144",
+     "hex": "#323a3c",
      "set": 192,
-     "src": "estimated",
-     "series": "GB"
+     "src": "scanned",
+     "series": "GB",
+     "analog": [
+      "680"
+     ]
     },
     {
      "code": "GR-101",
-     "hex": "#90b39b",
+     "hex": "#8cd4ab",
      "set": 192,
-     "src": "verified",
-     "series": "GR"
+     "src": "scanned",
+     "series": "GR",
+     "analog": [
+      "809"
+     ]
     },
     {
      "code": "GR-1010",
-     "hex": "#3e8a9a",
+     "hex": "#058776",
      "set": 240,
-     "src": "estimated",
-     "series": "GR"
+     "src": "scanned",
+     "series": "GR",
+     "analog": [
+      "653"
+     ]
     },
     {
      "code": "GR-1011",
-     "hex": "#919f5e",
+     "hex": "#818600",
      "set": 240,
-     "src": "estimated",
-     "series": "GR"
+     "src": "scanned",
+     "series": "GR",
+     "analog": [
+      "657"
+     ]
     },
     {
      "code": "GR-1012",
-     "hex": "#999d73",
+     "hex": "#9ea664",
      "set": 240,
-     "src": "estimated",
-     "series": "GR"
+     "src": "scanned",
+     "series": "GR",
+     "analog": [
+      "640"
+     ]
     },
     {
      "code": "GR-1013",
-     "hex": "#7a9491",
+     "hex": "#539994",
      "set": 240,
-     "src": "estimated",
-     "series": "GR"
+     "src": "scanned",
+     "series": "GR",
+     "analog": [
+      "641"
+     ]
     },
     {
      "code": "GR-102",
-     "hex": "#84b18e",
+     "hex": "#78c690",
      "set": 192,
-     "src": "verified",
-     "series": "GR"
+     "src": "scanned",
+     "series": "GR",
+     "analog": [
+      "627"
+     ]
     },
     {
      "code": "GR-103",
-     "hex": "#5d9175",
+     "hex": "#48a96e",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "GR"
     },
     {
      "code": "GR-104",
-     "hex": "#89ac4c",
+     "hex": "#7da92d",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "GR"
     },
     {
      "code": "GR-105",
-     "hex": "#65912e",
+     "hex": "#538819",
      "set": 192,
-     "src": "verified",
-     "series": "GR"
+     "src": "scanned",
+     "series": "GR",
+     "analog": [
+      "687"
+     ]
     },
     {
      "code": "GR-106",
-     "hex": "#498a49",
+     "hex": "#189036",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "GR"
     },
     {
      "code": "GR-107",
-     "hex": "#2f6e32",
+     "hex": "#007b31",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "GR"
     },
     {
      "code": "GR-108",
-     "hex": "#245b42",
+     "hex": "#00713c",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "GR"
     },
     {
      "code": "GR-109",
-     "hex": "#345d48",
+     "hex": "#056640",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "GR"
     },
     {
      "code": "GR-110",
-     "hex": "#b3bd95",
+     "hex": "#afc8a2",
      "set": 192,
-     "src": "estimated",
-     "series": "GR"
+     "src": "scanned",
+     "series": "GR",
+     "analog": [
+      "730"
+     ]
     },
     {
      "code": "GR-111",
-     "hex": "#819e70",
+     "hex": "#5ea956",
      "set": 192,
-     "src": "estimated",
-     "series": "GR"
+     "src": "scanned",
+     "series": "GR",
+     "analog": [
+      "669"
+     ]
     },
     {
      "code": "GR-112",
-     "hex": "#607954",
+     "hex": "#527a2e",
      "set": 192,
-     "src": "estimated",
-     "series": "GR"
+     "src": "scanned",
+     "series": "GR",
+     "analog": [
+      "682"
+     ]
     },
     {
      "code": "GR-113",
-     "hex": "#00787f",
+     "hex": "#008a4e",
      "set": 192,
-     "src": "estimated",
-     "series": "GR"
+     "src": "scanned",
+     "series": "GR",
+     "analog": [
+      "728"
+     ]
     },
     {
      "code": "GR-114",
-     "hex": "#117b9d",
+     "hex": "#0b797c",
      "set": 192,
-     "src": "estimated",
-     "series": "GR"
+     "src": "scanned",
+     "series": "GR",
+     "analog": [
+      "799"
+     ]
     },
     {
      "code": "GR-115",
-     "hex": "#0d646b",
+     "hex": "#008166",
      "set": 192,
-     "src": "estimated",
-     "series": "GR"
+     "src": "scanned",
+     "series": "GR",
+     "analog": [
+      "609"
+     ]
     },
     {
      "code": "HC-131",
      "hex": "#51b3b2",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "HC",
-     "neon": true
+     "neon": true,
+     "analog": [
+      "602"
+     ]
     },
     {
      "code": "HC-132",
      "hex": "#7cdfa0",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "HC",
      "neon": true
     },
@@ -2791,7 +3622,7 @@
      "code": "HC-133",
      "hex": "#bcea7b",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "HC",
      "neon": true
     },
@@ -2799,7 +3630,7 @@
      "code": "HC-134",
      "hex": "#e4e067",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "HC",
      "neon": true
     },
@@ -2807,7 +3638,7 @@
      "code": "HC-135",
      "hex": "#fbae6f",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "HC",
      "neon": true
     },
@@ -2815,7 +3646,7 @@
      "code": "HC-136",
      "hex": "#f9a4da",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "HC",
      "neon": true
     },
@@ -2823,7 +3654,7 @@
      "code": "HC-137",
      "hex": "#a49bd9",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "HC",
      "neon": true
     },
@@ -2831,47 +3662,56 @@
      "code": "HC-138",
      "hex": "#70bbf0",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "HC",
      "neon": true
     },
     {
      "code": "HC-139",
-     "hex": "#fd7ea7",
+     "hex": "#f88db0",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "HC",
-     "neon": true
+     "neon": true,
+     "analog": [
+      "660"
+     ]
     },
     {
      "code": "HC-601",
-     "hex": "#ffa8cb",
+     "hex": "#cda4af",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "HC",
      "neon": true
     },
     {
      "code": "HC-602",
-     "hex": "#f7fe9a",
+     "hex": "#f5f060",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "HC",
-     "neon": true
+     "neon": true,
+     "analog": [
+      "855"
+     ]
     },
     {
      "code": "HC-603",
-     "hex": "#cafba7",
+     "hex": "#d1fe8e",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "HC",
-     "neon": true
+     "neon": true,
+     "analog": [
+      "856"
+     ]
     },
     {
      "code": "HC-604",
      "hex": "#7eb8f7",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "HC",
      "neon": true
     },
@@ -2879,23 +3719,26 @@
      "code": "HC-605",
      "hex": "#838aec",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "HC",
      "neon": true
     },
     {
      "code": "HC-606",
-     "hex": "#ffb68b",
+     "hex": "#f8bc6e",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "HC",
-     "neon": true
+     "neon": true,
+     "analog": [
+      "859"
+     ]
     },
     {
      "code": "HC-607",
      "hex": "#fba3a1",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "HC",
      "neon": true
     },
@@ -2903,884 +3746,1171 @@
      "code": "HC-609",
      "hex": "#acafae",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "HC",
      "neon": true
     },
     {
      "code": "LC-111",
-     "hex": "#de8f90",
+     "hex": "#df7f78",
      "set": 192,
-     "src": "measured",
-     "series": "LC"
+     "src": "scanned",
+     "series": "LC",
+     "analog": [
+      "677"
+     ]
     },
     {
      "code": "LC-1110",
-     "hex": "#b6a7a6",
+     "hex": "#b9aaa8",
      "set": 240,
-     "src": "estimated",
-     "series": "LC"
+     "src": "scanned",
+     "series": "LC",
+     "analog": [
+      "752"
+     ]
     },
     {
      "code": "LC-112",
-     "hex": "#dd7877",
+     "hex": "#de6966",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "LC"
     },
     {
      "code": "LC-113",
-     "hex": "#da4a4f",
+     "hex": "#d84142",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "LC"
     },
     {
      "code": "LC-114",
-     "hex": "#bd2027",
+     "hex": "#bb000f",
      "set": 192,
-     "src": "measured",
-     "series": "LC"
+     "src": "scanned",
+     "series": "LC",
+     "analog": [
+      "760"
+     ]
     },
     {
      "code": "LC-115",
-     "hex": "#e3879d",
+     "hex": "#e26f8a",
      "set": 192,
-     "src": "measured",
-     "series": "LC"
+     "src": "scanned",
+     "series": "LC",
+     "analog": [
+      "692"
+     ]
     },
     {
      "code": "LC-116",
-     "hex": "#dc4d65",
+     "hex": "#d93f50",
      "set": 192,
-     "src": "measured",
-     "series": "LC"
+     "src": "scanned",
+     "series": "LC",
+     "analog": [
+      "605"
+     ]
     },
     {
      "code": "LC-117",
-     "hex": "#c65962",
+     "hex": "#b3464e",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "LC"
     },
     {
      "code": "LC-118",
-     "hex": "#bd5b4e",
+     "hex": "#b1493d",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "LC"
     },
     {
      "code": "LC-119",
-     "hex": "#a53544",
+     "hex": "#9b2f36",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "LC"
     },
     {
      "code": "LC-191",
-     "hex": "#e2dbc5",
+     "hex": "#ebd5bb",
      "set": 240,
-     "src": "verified",
-     "series": "LC"
+     "src": "scanned",
+     "series": "LC",
+     "analog": [
+      "877"
+     ]
     },
     {
      "code": "LC-192",
-     "hex": "#d2e6d0",
+     "hex": "#bfe1c8",
      "set": 240,
-     "src": "verified",
+     "src": "scanned",
      "series": "LC"
     },
     {
      "code": "LC-193",
-     "hex": "#c4dde3",
+     "hex": "#b3e3e7",
      "set": 240,
-     "src": "verified",
-     "series": "LC"
+     "src": "scanned",
+     "series": "LC",
+     "analog": [
+      "878"
+     ]
     },
     {
      "code": "LC-194",
-     "hex": "#cdd8ea",
+     "hex": "#b0cce9",
      "set": 240,
-     "src": "verified",
-     "series": "LC"
+     "src": "scanned",
+     "series": "LC",
+     "analog": [
+      "879"
+     ]
     },
     {
      "code": "LC-195",
-     "hex": "#d4d1e6",
+     "hex": "#d8d7ee",
      "set": 240,
-     "src": "verified",
-     "series": "LC"
+     "src": "scanned",
+     "series": "LC",
+     "analog": [
+      "880"
+     ]
     },
     {
      "code": "LC-196",
-     "hex": "#f2d9cf",
+     "hex": "#f0f0f0",
      "set": 240,
-     "src": "verified",
-     "series": "LC"
+     "src": "scanned",
+     "series": "LC",
+     "analog": [
+      "881"
+     ]
     },
     {
      "code": "LC-197",
-     "hex": "#f0dfc7",
+     "hex": "#eee5cb",
      "set": 240,
-     "src": "verified",
-     "series": "LC"
+     "src": "scanned",
+     "series": "LC",
+     "analog": [
+      "882"
+     ]
     },
     {
      "code": "LC-198",
-     "hex": "#f1e8df",
+     "hex": "#f0f0f0",
      "set": 240,
-     "src": "verified",
-     "series": "LC"
+     "src": "scanned",
+     "series": "LC",
+     "analog": [
+      "883"
+     ]
     },
     {
      "code": "LC-199",
-     "hex": "#cfcfcf",
+     "hex": "#d2d6d8",
      "set": 240,
-     "src": "verified",
+     "src": "scanned",
      "series": "LC"
     },
     {
      "code": "PC-233",
-     "hex": "#d7c1d6",
+     "hex": "#f3d3e7",
      "set": 288,
-     "src": "verified",
-     "series": "PC"
+     "src": "scanned",
+     "series": "PC",
+     "analog": [
+      "838"
+     ]
     },
     {
      "code": "PC-234",
-     "hex": "#c39ea7",
+     "hex": "#dab4bd",
      "set": 288,
-     "src": "estimated",
+     "src": "scanned",
      "series": "PC"
     },
     {
      "code": "PC-235",
-     "hex": "#d9bfbf",
+     "hex": "#ffd7d3",
      "set": 288,
-     "src": "verified",
-     "series": "PC"
+     "src": "scanned",
+     "series": "PC",
+     "analog": [
+      "624"
+     ]
     },
     {
      "code": "PC-236",
-     "hex": "#a48899",
+     "hex": "#c3acc0",
      "set": 288,
-     "src": "estimated",
+     "src": "scanned",
      "series": "PC"
     },
     {
      "code": "PC-237",
-     "hex": "#b58791",
+     "hex": "#cc8595",
      "set": 288,
-     "src": "verified",
-     "series": "PC"
+     "src": "scanned",
+     "series": "PC",
+     "analog": [
+      "839"
+     ]
     },
     {
      "code": "PC-238",
-     "hex": "#eb75ab",
+     "hex": "#ff78b7",
      "set": 288,
-     "src": "verified",
-     "series": "PC"
+     "src": "scanned",
+     "series": "PC",
+     "analog": [
+      "712"
+     ],
+     "neon": true
     },
     {
      "code": "PC-239",
-     "hex": "#c36090",
+     "hex": "#d1577f",
      "set": 288,
-     "src": "verified",
-     "series": "PC"
+     "src": "scanned",
+     "series": "PC",
+     "analog": [
+      "711"
+     ]
     },
     {
      "code": "PC-240",
-     "hex": "#df5880",
+     "hex": "#e57990",
      "set": 288,
-     "src": "measured",
-     "series": "PC"
+     "src": "scanned",
+     "series": "PC",
+     "analog": [
+      "761"
+     ]
     },
     {
      "code": "PC-241",
-     "hex": "#a24d76",
+     "hex": "#96457d",
      "set": 288,
-     "src": "estimated",
-     "series": "PC"
+     "src": "scanned",
+     "series": "PC",
+     "analog": [
+      "666"
+     ]
     },
     {
      "code": "PC-242",
-     "hex": "#933b4c",
+     "hex": "#902e3f",
      "set": 288,
-     "src": "measured",
-     "series": "PC"
+     "src": "scanned",
+     "series": "PC",
+     "analog": [
+      "674"
+     ]
     },
     {
      "code": "PC-243",
-     "hex": "#c8583b",
+     "hex": "#d56931",
      "set": 288,
-     "src": "measured",
-     "series": "PC"
+     "src": "scanned",
+     "series": "PC",
+     "analog": [
+      "632"
+     ]
     },
     {
      "code": "PC-244",
-     "hex": "#e1b39c",
+     "hex": "#efb099",
      "set": 288,
-     "src": "measured",
-     "series": "PC"
+     "src": "scanned",
+     "series": "PC",
+     "analog": [
+      "704"
+     ]
     },
     {
      "code": "PC-801",
-     "hex": "#c6a9ab",
+     "hex": "#ffdee2",
      "set": 192,
-     "src": "verified",
-     "series": "PC"
+     "src": "scanned",
+     "series": "PC",
+     "analog": [
+      "872"
+     ]
     },
     {
      "code": "PC-802",
-     "hex": "#bc9aad",
+     "hex": "#d8a6c6",
      "set": 192,
-     "src": "verified",
-     "series": "PC"
+     "src": "scanned",
+     "series": "PC",
+     "analog": [
+      "873"
+     ]
     },
     {
      "code": "PC-803",
-     "hex": "#c489a1",
+     "hex": "#bb8795",
      "set": 192,
-     "src": "verified",
+     "src": "scanned",
      "series": "PC"
     },
     {
      "code": "PC-804",
-     "hex": "#cd78a6",
+     "hex": "#d16e8e",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "PC"
     },
     {
      "code": "PC-805",
-     "hex": "#a6458b",
+     "hex": "#ad3b6f",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "PC"
     },
     {
      "code": "PC-806",
-     "hex": "#d15f81",
+     "hex": "#e46577",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "PC"
     },
     {
      "code": "PC-807",
-     "hex": "#b8526e",
+     "hex": "#b4435e",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "PC"
     },
     {
      "code": "PC-808",
-     "hex": "#9d466a",
+     "hex": "#9c3a58",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "PC"
     },
     {
      "code": "PC-809",
-     "hex": "#7d3c56",
+     "hex": "#703b48",
      "set": 192,
-     "src": "measured",
-     "series": "PC"
+     "src": "scanned",
+     "series": "PC",
+     "analog": [
+      "705"
+     ]
     },
     {
      "code": "PC-810",
-     "hex": "#c9b9c3",
+     "hex": "#edb9dc",
      "set": 192,
-     "src": "estimated",
-     "series": "PC"
+     "src": "scanned",
+     "series": "PC",
+     "analog": [
+      "723"
+     ]
     },
     {
      "code": "PC-811",
-     "hex": "#ce80a9",
+     "hex": "#e193c3",
      "set": 192,
-     "src": "estimated",
-     "series": "PC"
+     "src": "scanned",
+     "series": "PC",
+     "analog": [
+      "655"
+     ]
     },
     {
      "code": "PC-812",
-     "hex": "#d060a4",
+     "hex": "#cc4da8",
      "set": 192,
-     "src": "estimated",
-     "series": "PC"
+     "src": "scanned",
+     "series": "PC",
+     "analog": [
+      "606"
+     ]
     },
     {
      "code": "PC-813",
-     "hex": "#b34f78",
+     "hex": "#b42d59",
      "set": 192,
-     "src": "estimated",
-     "series": "PC"
+     "src": "scanned",
+     "series": "PC",
+     "analog": [
+      "671"
+     ]
     },
     {
      "code": "PC-814",
-     "hex": "#b96d7c",
+     "hex": "#af6375",
      "set": 192,
-     "src": "estimated",
-     "series": "PC"
+     "src": "scanned",
+     "series": "PC",
+     "analog": [
+      "772"
+     ]
     },
     {
      "code": "PC-815",
-     "hex": "#98546f",
+     "hex": "#763d57",
      "set": 192,
-     "src": "estimated",
-     "series": "PC"
+     "src": "scanned",
+     "series": "PC",
+     "analog": [
+      "739"
+     ]
     },
     {
      "code": "PC-816",
-     "hex": "#946d78",
+     "hex": "#7e5f6d",
      "set": 192,
-     "src": "estimated",
-     "series": "PC"
+     "src": "scanned",
+     "series": "PC",
+     "analog": [
+      "770"
+     ]
     },
     {
      "code": "PC-817",
-     "hex": "#ce86a9",
+     "hex": "#ff81c3",
      "set": 240,
-     "src": "estimated",
-     "series": "PC"
+     "src": "scanned",
+     "series": "PC",
+     "analog": [
+      "762"
+     ],
+     "neon": true
     },
     {
      "code": "PC-818",
-     "hex": "#d14587",
+     "hex": "#d03959",
      "set": 240,
-     "src": "estimated",
-     "series": "PC"
+     "src": "scanned",
+     "series": "PC",
+     "analog": [
+      "714"
+     ]
     },
     {
      "code": "PU-301",
-     "hex": "#938ec3",
+     "hex": "#ab9fee",
      "set": 192,
-     "src": "measured",
-     "series": "PU"
+     "src": "scanned",
+     "series": "PU",
+     "analog": [
+      "698"
+     ]
     },
     {
      "code": "PU-302",
-     "hex": "#8775b3",
+     "hex": "#a38fce",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "PU"
     },
     {
      "code": "PU-303",
-     "hex": "#795eab",
+     "hex": "#7a68b8",
      "set": 192,
-     "src": "measured",
-     "series": "PU"
+     "src": "scanned",
+     "series": "PU",
+     "analog": [
+      "623"
+     ]
     },
     {
      "code": "PU-304",
-     "hex": "#4e56b8",
+     "hex": "#41499b",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "PU"
     },
     {
      "code": "PU-305",
-     "hex": "#262776",
+     "hex": "#1e1966",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "PU"
     },
     {
      "code": "PU-306",
-     "hex": "#65408c",
+     "hex": "#5c3773",
      "set": 192,
-     "src": "measured",
-     "series": "PU"
+     "src": "scanned",
+     "series": "PU",
+     "analog": [
+      "832"
+     ]
     },
     {
      "code": "PU-307",
-     "hex": "#9d58aa",
+     "hex": "#8d4989",
      "set": 192,
-     "src": "measured",
-     "series": "PU"
+     "src": "scanned",
+     "series": "PU",
+     "analog": [
+      "833"
+     ]
     },
     {
      "code": "PU-308",
-     "hex": "#be4d94",
+     "hex": "#be4073",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "PU"
     },
     {
      "code": "PU-309",
-     "hex": "#ce98b7",
+     "hex": "#d585aa",
      "set": 192,
-     "src": "verified",
-     "series": "PU"
+     "src": "scanned",
+     "series": "PU",
+     "analog": [
+      "658"
+     ]
     },
     {
      "code": "PU-310",
-     "hex": "#c4adbd",
+     "hex": "#dbc0e5",
      "set": 192,
-     "src": "estimated",
-     "series": "PU"
+     "src": "scanned",
+     "series": "PU",
+     "analog": [
+      "734"
+     ]
     },
     {
      "code": "PU-311",
-     "hex": "#bab3c0",
+     "hex": "#d7cef2",
      "set": 192,
-     "src": "estimated",
-     "series": "PU"
+     "src": "scanned",
+     "series": "PU",
+     "analog": [
+      "744"
+     ]
     },
     {
      "code": "PU-312",
-     "hex": "#9e96b7",
+     "hex": "#778ac8",
      "set": 192,
-     "src": "estimated",
-     "series": "PU"
+     "src": "scanned",
+     "series": "PU",
+     "analog": [
+      "629"
+     ]
     },
     {
      "code": "PU-313",
-     "hex": "#a1859f",
+     "hex": "#928aa6",
      "set": 192,
-     "src": "estimated",
-     "series": "PU"
+     "src": "scanned",
+     "series": "PU",
+     "analog": [
+      "773"
+     ]
     },
     {
      "code": "PU-314",
-     "hex": "#8764a1",
+     "hex": "#453c85",
      "set": 192,
-     "src": "estimated",
-     "series": "PU"
+     "src": "scanned",
+     "series": "PU",
+     "analog": [
+      "743"
+     ]
     },
     {
      "code": "PU-315",
-     "hex": "#8a4b85",
+     "hex": "#472a5c",
      "set": 192,
-     "src": "estimated",
-     "series": "PU"
+     "src": "scanned",
+     "series": "PU",
+     "analog": [
+      "778"
+     ]
     },
     {
      "code": "PU-316",
-     "hex": "#ad9eb1",
+     "hex": "#b7b7cd",
      "set": 240,
-     "src": "estimated",
-     "series": "PU"
+     "src": "scanned",
+     "series": "PU",
+     "analog": [
+      "825"
+     ]
     },
     {
      "code": "PU-317",
-     "hex": "#9e91ac",
+     "hex": "#9297b8",
      "set": 240,
-     "src": "estimated",
-     "series": "PU"
+     "src": "scanned",
+     "series": "PU",
+     "analog": [
+      "826"
+     ]
     },
     {
      "code": "PU-318",
-     "hex": "#827c99",
+     "hex": "#435877",
      "set": 240,
-     "src": "estimated",
-     "series": "PU"
+     "src": "scanned",
+     "series": "PU",
+     "analog": [
+      "747"
+     ]
     },
     {
      "code": "PU-319",
-     "hex": "#815682",
+     "hex": "#73346a",
      "set": 240,
-     "src": "estimated",
-     "series": "PU"
+     "src": "scanned",
+     "series": "PU",
+     "analog": [
+      "726"
+     ]
     },
     {
      "code": "PU-320",
-     "hex": "#646082",
+     "hex": "#162a54",
      "set": 240,
-     "src": "estimated",
-     "series": "PU"
+     "src": "scanned",
+     "series": "PU",
+     "analog": [
+      "746"
+     ]
     },
     {
      "code": "PU-321",
-     "hex": "#92869c",
+     "hex": "#6a7a9d",
      "set": 240,
-     "src": "estimated",
-     "series": "PU"
+     "src": "scanned",
+     "series": "PU",
+     "analog": [
+      "827"
+     ]
     },
     {
      "code": "RY-01",
-     "hex": "#ded680",
+     "hex": "#e3e38f",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "RY"
     },
     {
      "code": "RY-02",
-     "hex": "#e0cc40",
+     "hex": "#e6d129",
      "set": 192,
-     "src": "measured",
-     "series": "RY"
+     "src": "scanned",
+     "series": "RY",
+     "analog": [
+      "777"
+     ]
     },
     {
      "code": "RY-03",
-     "hex": "#dea947",
+     "hex": "#f59d3a",
      "set": 192,
-     "src": "measured",
-     "series": "RY"
+     "src": "scanned",
+     "series": "RY",
+     "analog": [
+      "802"
+     ]
     },
     {
      "code": "RY-04",
-     "hex": "#e08a48",
+     "hex": "#f17d1e",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "RY"
     },
     {
      "code": "RY-05",
-     "hex": "#db6853",
+     "hex": "#d9642e",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "RY"
     },
     {
      "code": "RY-06",
-     "hex": "#d73a42",
+     "hex": "#c54329",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "RY"
     },
     {
      "code": "RY-07",
-     "hex": "#914845",
+     "hex": "#78472d",
      "set": 192,
-     "src": "measured",
-     "series": "RY"
+     "src": "scanned",
+     "series": "RY",
+     "analog": [
+      "672"
+     ]
     },
     {
      "code": "RY-08",
-     "hex": "#7e4844",
+     "hex": "#67442f",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "RY"
     },
     {
      "code": "RY-09",
-     "hex": "#8e5146",
+     "hex": "#785032",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "RY"
     },
     {
      "code": "RY-10",
-     "hex": "#dc6a39",
+     "hex": "#e97941",
      "set": 192,
-     "src": "estimated",
-     "series": "RY"
+     "src": "scanned",
+     "series": "RY",
+     "analog": [
+      "663"
+     ]
     },
     {
      "code": "RY-11",
-     "hex": "#d75358",
+     "hex": "#f84b00",
      "set": 192,
-     "src": "estimated",
-     "series": "RY"
+     "src": "scanned",
+     "series": "RY",
+     "analog": [
+      "782"
+     ]
     },
     {
      "code": "RY-12",
-     "hex": "#bb5c31",
+     "hex": "#c55200",
      "set": 192,
-     "src": "estimated",
-     "series": "RY"
+     "src": "scanned",
+     "series": "RY",
+     "analog": [
+      "785"
+     ]
     },
     {
      "code": "RY-13",
-     "hex": "#a54c37",
+     "hex": "#912214",
      "set": 192,
-     "src": "estimated",
-     "series": "RY"
+     "src": "scanned",
+     "series": "RY",
+     "analog": [
+      "784"
+     ]
     },
     {
      "code": "RY-14",
-     "hex": "#8f4335",
+     "hex": "#830021",
      "set": 192,
-     "src": "estimated",
-     "series": "RY"
+     "src": "scanned",
+     "series": "RY",
+     "analog": [
+      "781"
+     ]
     },
     {
      "code": "RY-15",
-     "hex": "#c4653f",
+     "hex": "#b75100",
      "set": 240,
-     "src": "estimated",
-     "series": "RY"
+     "src": "scanned",
+     "series": "RY",
+     "analog": [
+      "631"
+     ]
     },
     {
      "code": "SG-151",
-     "hex": "#94a380",
+     "hex": "#bfd0a5",
      "set": 192,
-     "src": "measured",
-     "series": "SG"
+     "src": "scanned",
+     "series": "SG",
+     "analog": [
+      "707"
+     ]
     },
     {
      "code": "SG-152",
-     "hex": "#90a994",
+     "hex": "#9abba2",
      "set": 192,
-     "src": "measured",
-     "series": "SG"
+     "src": "scanned",
+     "series": "SG",
+     "analog": [
+      "775"
+     ]
     },
     {
      "code": "SG-153",
-     "hex": "#6a945e",
+     "hex": "#588e5c",
      "set": 192,
-     "src": "measured",
-     "series": "SG"
+     "src": "scanned",
+     "series": "SG",
+     "analog": [
+      "696"
+     ]
     },
     {
      "code": "SG-154",
-     "hex": "#67754f",
+     "hex": "#6c8053",
      "set": 192,
-     "src": "measured",
-     "series": "SG"
+     "src": "scanned",
+     "series": "SG",
+     "analog": [
+      "741"
+     ]
     },
     {
      "code": "SG-155",
-     "hex": "#4c8670",
+     "hex": "#33836a",
      "set": 192,
-     "src": "measured",
-     "series": "SG"
+     "src": "scanned",
+     "series": "SG",
+     "analog": [
+      "622"
+     ]
     },
     {
      "code": "SG-156",
-     "hex": "#597850",
+     "hex": "#436a50",
      "set": 192,
-     "src": "measured",
-     "series": "SG"
+     "src": "scanned",
+     "series": "SG",
+     "analog": [
+      "792"
+     ]
     },
     {
      "code": "SG-157",
-     "hex": "#47481c",
+     "hex": "#2c4515",
      "set": 192,
-     "src": "measured",
-     "series": "SG"
+     "src": "scanned",
+     "series": "SG",
+     "analog": [
+      "790"
+     ]
     },
     {
      "code": "SG-158",
-     "hex": "#394721",
+     "hex": "#334728",
      "set": 192,
-     "src": "measured",
-     "series": "SG"
+     "src": "scanned",
+     "series": "SG",
+     "analog": [
+      "697"
+     ]
     },
     {
      "code": "SG-159",
-     "hex": "#233c32",
+     "hex": "#073a2b",
      "set": 192,
-     "src": "measured",
-     "series": "SG"
+     "src": "scanned",
+     "series": "SG",
+     "analog": [
+      "795"
+     ]
     },
     {
      "code": "SG-221",
-     "hex": "#9ac5d6",
+     "hex": "#84cbd8",
      "set": 288,
-     "src": "verified",
-     "series": "SG"
+     "src": "scanned",
+     "series": "SG",
+     "analog": [
+      "842"
+     ]
     },
     {
      "code": "SG-222",
-     "hex": "#9dd7cc",
+     "hex": "#7be2cd",
      "set": 288,
-     "src": "verified",
-     "series": "SG"
+     "src": "scanned",
+     "series": "SG",
+     "analog": [
+      "737"
+     ]
     },
     {
      "code": "SG-223",
-     "hex": "#8c9796",
+     "hex": "#7caea9",
      "set": 288,
-     "src": "estimated",
+     "src": "scanned",
      "series": "SG"
     },
     {
      "code": "SG-224",
-     "hex": "#d2d73c",
+     "hex": "#b8b500",
      "set": 288,
-     "src": "verified",
-     "series": "SG"
+     "src": "scanned",
+     "series": "SG",
+     "analog": [
+      "847"
+     ]
     },
     {
      "code": "SG-225",
-     "hex": "#c8dd69",
+     "hex": "#aece4e",
      "set": 288,
-     "src": "verified",
-     "series": "SG"
+     "src": "scanned",
+     "series": "SG",
+     "analog": [
+      "648"
+     ]
     },
     {
      "code": "SG-226",
-     "hex": "#78bc49",
+     "hex": "#49a827",
      "set": 288,
-     "src": "verified",
-     "series": "SG"
+     "src": "scanned",
+     "series": "SG",
+     "analog": [
+      "845"
+     ]
     },
     {
      "code": "SG-227",
-     "hex": "#548d8a",
+     "hex": "#44b985",
      "set": 288,
-     "src": "estimated",
-     "series": "SG"
+     "src": "scanned",
+     "series": "SG",
+     "analog": [
+      "685"
+     ]
     },
     {
      "code": "SG-228",
-     "hex": "#50a068",
+     "hex": "#00a857",
      "set": 288,
-     "src": "verified",
-     "series": "SG"
+     "src": "scanned",
+     "series": "SG",
+     "analog": [
+      "668"
+     ]
     },
     {
      "code": "SG-229",
-     "hex": "#5b895f",
+     "hex": "#378135",
      "set": 288,
-     "src": "estimated",
+     "src": "scanned",
      "series": "SG"
     },
     {
      "code": "SG-230",
-     "hex": "#65a038",
+     "hex": "#397b24",
      "set": 288,
-     "src": "measured",
-     "series": "SG"
+     "src": "scanned",
+     "series": "SG",
+     "analog": [
+      "665"
+     ]
     },
     {
      "code": "SG-231",
-     "hex": "#31773d",
+     "hex": "#005f23",
      "set": 288,
-     "src": "measured",
-     "series": "SG"
+     "src": "scanned",
+     "series": "SG",
+     "analog": [
+      "794"
+     ]
     },
     {
      "code": "SG-232",
-     "hex": "#476736",
+     "hex": "#3c5e28",
      "set": 288,
-     "src": "measured",
+     "src": "scanned",
      "series": "SG"
     },
     {
      "code": "YE-130",
-     "hex": "#c1c7a1",
+     "hex": "#d7eea1",
      "set": 192,
-     "src": "estimated",
-     "series": "YE"
+     "src": "scanned",
+     "series": "YE",
+     "analog": [
+      "626"
+     ]
     },
     {
      "code": "YE-121",
-     "hex": "#d4d77d",
+     "hex": "#f5e358",
      "set": 192,
-     "src": "measured",
-     "series": "YE"
+     "src": "scanned",
+     "series": "YE",
+     "analog": [
+      "766"
+     ]
     },
     {
      "code": "YE-1210",
-     "hex": "#b6ae88",
+     "hex": "#a6b56b",
      "set": 240,
-     "src": "estimated",
-     "series": "YE"
+     "src": "scanned",
+     "series": "YE",
+     "analog": [
+      "810"
+     ]
     },
     {
      "code": "YE-1211",
-     "hex": "#a29568",
+     "hex": "#7f8333",
      "set": 240,
-     "src": "estimated",
-     "series": "YE"
+     "src": "scanned",
+     "series": "YE",
+     "analog": [
+      "812"
+     ]
     },
     {
      "code": "YE-1212",
-     "hex": "#8e7d5f",
+     "hex": "#7e5c3e",
      "set": 240,
-     "src": "estimated",
-     "series": "YE"
+     "src": "scanned",
+     "series": "YE",
+     "analog": [
+      "757"
+     ]
     },
     {
      "code": "YE-122",
-     "hex": "#dddb69",
+     "hex": "#ffe93e",
      "set": 192,
-     "src": "measured",
-     "series": "YE"
+     "src": "scanned",
+     "series": "YE",
+     "analog": [
+      "765"
+     ]
     },
     {
      "code": "YE-123",
-     "hex": "#e0cb40",
+     "hex": "#e5ca00",
      "set": 192,
-     "src": "measured",
-     "series": "YE"
+     "src": "scanned",
+     "series": "YE",
+     "analog": [
+      "603"
+     ]
     },
     {
      "code": "YE-124",
-     "hex": "#e2be17",
+     "hex": "#f3d000",
      "set": 192,
-     "src": "measured",
-     "series": "YE"
+     "src": "scanned",
+     "series": "YE",
+     "analog": [
+      "615"
+     ]
     },
     {
      "code": "YE-125",
-     "hex": "#eaad0f",
+     "hex": "#f2b600",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "YE"
     },
     {
      "code": "YE-126",
-     "hex": "#ee9827",
+     "hex": "#f87c00",
      "set": 192,
-     "src": "measured",
-     "series": "YE"
+     "src": "scanned",
+     "series": "YE",
+     "analog": [
+      "725"
+     ]
     },
     {
      "code": "YE-127",
-     "hex": "#bf991f",
+     "hex": "#9b8500",
      "set": 192,
-     "src": "measured",
-     "series": "YE"
+     "src": "scanned",
+     "series": "YE",
+     "analog": [
+      "817"
+     ]
     },
     {
      "code": "YE-128",
-     "hex": "#a79719",
+     "hex": "#8e8223",
      "set": 192,
-     "src": "measured",
+     "src": "scanned",
      "series": "YE"
     },
     {
      "code": "YE-129",
-     "hex": "#ba9d24",
+     "hex": "#9a8b00",
      "set": 192,
-     "src": "verified",
-     "series": "YE"
+     "src": "scanned",
+     "series": "YE",
+     "analog": [
+      "813"
+     ]
     },
     {
      "code": "YE-131",
-     "hex": "#bfbe9e",
+     "hex": "#f0cca1",
      "set": 192,
-     "src": "estimated",
-     "series": "YE"
+     "src": "scanned",
+     "series": "YE",
+     "analog": [
+      "720"
+     ]
     },
     {
      "code": "YE-132",
-     "hex": "#babc7c",
+     "hex": "#b3c35e",
      "set": 192,
-     "src": "estimated",
-     "series": "YE"
+     "src": "scanned",
+     "series": "YE",
+     "analog": [
+      "729"
+     ]
     },
     {
      "code": "YE-133",
-     "hex": "#bdb855",
+     "hex": "#869b00",
      "set": 192,
-     "src": "estimated",
-     "series": "YE"
+     "src": "scanned",
+     "series": "YE",
+     "analog": [
+      "787"
+     ]
     },
     {
      "code": "YE-134",
-     "hex": "#cbb866",
+     "hex": "#e5b04e",
      "set": 192,
-     "src": "estimated",
-     "series": "YE"
+     "src": "scanned",
+     "series": "YE",
+     "analog": [
+      "656"
+     ]
     },
     {
      "code": "YE-135",
-     "hex": "#c9ac62",
+     "hex": "#eab168",
      "set": 192,
-     "src": "estimated",
-     "series": "YE"
+     "src": "scanned",
+     "series": "YE",
+     "analog": [
+      "684"
+     ]
     },
     {
      "code": "YE-136",
-     "hex": "#c78d2e",
+     "hex": "#c07900",
      "set": 192,
-     "src": "estimated",
-     "series": "YE"
+     "src": "scanned",
+     "series": "YE",
+     "analog": [
+      "618"
+     ]
     }
    ],
    "series": [
@@ -3815,5 +4945,5 @@
    288
   ]
  },
- "_": "amigeek.colors · palette build 2026-08 · dvstruch"
+ "_": "amigeek.colors · palette build 2026-11 · scanned + hand-corrected + analogs unified · dvstruch"
 }
